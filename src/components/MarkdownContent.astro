@@ -1,0 +1,117 @@
+---
+// Envuelve el cuerpo de cada página: ficha arriba; pendientes y «mencionada en» abajo.
+import Default from '@astrojs/starlight/components/MarkdownContent.astro';
+import { getCollection } from 'astro:content';
+import { enlazarHTML, enlacesDe } from '../lib/wikilinks.mjs';
+import { SECCIONES } from '../lib/secciones.mjs';
+
+const base = import.meta.env.BASE_URL;
+const { entry } = Astro.locals.starlightRoute;
+const idDe = (eid: string) => (eid === 'index' || eid === '' ? 'inicio' : eid.split('/').pop()!);
+const href = (eid: string) => base.replace(/\/?$/, '/') + (eid === 'index' ? '' : eid + '/');
+const miId = idDe(entry.id);
+const { ficha, pendientes, auto } = entry.data as any;
+
+const todas = await getCollection('docs');
+const textoDe = (e: any) =>
+  [e.body, ...(e.data.ficha || []).map((f: string[]) => f[1]), ...(e.data.pendientes || [])].join('\n');
+
+// Quién enlaza a esta página
+const menciones = todas
+  .filter((e) => e.id !== entry.id && enlacesDe(textoDe(e)).has(miId))
+  .sort((a, b) => a.data.title.localeCompare(b.data.title, 'es'));
+
+// Lista global de pendientes, en el orden del índice lateral
+let global: { label: string; paginas: any[] }[] = [];
+let totalPendientes = 0;
+if (auto === 'pendientes') {
+  const orden = (e: any) => e.data.sidebar?.order ?? 999;
+  const grupo = (prefijo: string) =>
+    todas
+      .filter((e) => (prefijo === '' ? !e.id.includes('/') : e.id.startsWith(prefijo + '/')) && e.data.pendientes?.length)
+      .sort((a, b) => a.id.split('/').length - b.id.split('/').length || orden(a) - orden(b));
+  global = [{ label: 'General', paginas: grupo('') }, ...SECCIONES.map((s) => ({ label: s.label, paginas: grupo(s.dir) }))].filter(
+    (g) => g.paginas.length
+  );
+  totalPendientes = global.reduce((n, g) => n + g.paginas.reduce((m: number, p: any) => m + p.data.pendientes.length, 0), 0);
+}
+---
+
+<Default>
+  {
+    ficha?.length > 0 && (
+      <dl class="ficha not-content">
+        {ficha.map(([k, v]: string[]) => (
+          <div>
+            <dt>{k}</dt>
+            <dd set:html={enlazarHTML(v, base)} />
+          </div>
+        ))}
+      </dl>
+    )
+  }
+
+  {
+    auto === 'pendientes' && (
+      <>
+        <dl class="ficha not-content">
+          <div>
+            <dt>Cosas abiertas</dt>
+            <dd>{totalPendientes}</dd>
+          </div>
+          <div>
+            <dt>En páginas</dt>
+            <dd>{global.reduce((n, g) => n + g.paginas.length, 0)}</dd>
+          </div>
+        </dl>
+        {global.map((g) => (
+          <>
+            <h2>{g.label}</h2>
+            {g.paginas.map((p) => (
+              <>
+                <h3>
+                  <a href={href(p.id)}>{p.data.title}</a>
+                </h3>
+                <ul>
+                  {p.data.pendientes.map((t: string) => (
+                    <li set:html={enlazarHTML(t, base)} />
+                  ))}
+                </ul>
+              </>
+            ))}
+          </>
+        ))}
+      </>
+    )
+  }
+
+  <slot />
+
+  {
+    pendientes?.length > 0 && (
+      <aside class="pendientes not-content" aria-label="Pendiente de decidir">
+        <p class="pendientes-titulo">Pendiente de decidir</p>
+        <ul>
+          {pendientes.map((t: string) => (
+            <li set:html={enlazarHTML(t, base)} />
+          ))}
+        </ul>
+      </aside>
+    )
+  }
+
+  {
+    menciones.length > 0 && auto !== 'pendientes' && (
+      <nav class="menciones not-content" aria-label="Mencionada en">
+        <p class="menciones-titulo">Mencionada en</p>
+        <ul>
+          {menciones.map((e) => (
+            <li>
+              <a href={href(e.id)}>{e.data.title}</a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    )
+  }
+</Default>

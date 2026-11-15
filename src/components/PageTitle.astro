@@ -1,0 +1,26 @@
+---
+// Título con migas de pan encima (Personajes › Protagonistas) y la entradilla debajo.
+import Default from '@astrojs/starlight/components/PageTitle.astro';
+import { ETIQUETAS } from '../lib/secciones.mjs';
+import { enlazarHTML } from '../lib/wikilinks.mjs';
+
+const { entry } = Astro.locals.starlightRoute;
+const partes = entry.id.split('/').slice(0, -1);
+const migas = partes.map((_, i) => ETIQUETAS[partes.slice(0, i + 1).join('/')]).filter(Boolean);
+const lede = entry.data.description;
+---
+
+{
+  migas.length > 0 && (
+    <p class="migas">
+      {migas.map((m, i) => (
+        <>
+          {i > 0 && <span aria-hidden="true"> › </span>}
+          <span>{m}</span>
+        </>
+      ))}
+    </p>
+  )
+}
+<Default />
+{lede && <p class="lede" set:html={enlazarHTML(lede, import.meta.env.BASE_URL)} />}

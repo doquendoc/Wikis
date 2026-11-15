@@ -1,0 +1,6 @@
+node_modules/
+dist/
+artifact/
+artifact-files*.json
+.astro/
+.DS_Store

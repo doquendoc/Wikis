@@ -1,0 +1,180 @@
+/* Identidad de la biblia sobre Starlight.
+   Display: Bricolage Grotesque · Texto: Source Serif 4 · Etiquetas y datos: IBM Plex Mono.
+   Acento: azul acero (el pneuma); óxido para lo pendiente (el Desguace). */
+
+:root {
+  --sl-font: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --sl-font-mono: 'IBM Plex Mono', ui-monospace, Menlo, monospace;
+  --bb-display: 'Bricolage Grotesque', 'Helvetica Neue', Arial, sans-serif;
+  --sl-text-base: 1.03rem;
+  --sl-content-width: 44rem;
+  --sl-sidebar-width: 17rem;
+
+  /* oscuro (por defecto en Starlight) */
+  --sl-color-accent-low: #18283a;
+  --sl-color-accent: #6f9cc4;
+  --sl-color-accent-high: #c3d9ec;
+  --sl-color-white: #eef1f5;
+  --sl-color-gray-1: #dde2ea;
+  --sl-color-gray-2: #b9c0cc;
+  --sl-color-gray-3: #8b94a3;
+  --sl-color-gray-4: #555e6c;
+  --sl-color-gray-5: #2d343e;
+  --sl-color-gray-6: #1b2027;
+  --sl-color-black: #111419;
+  --bb-oxido: #cf8160;
+  --bb-ficha: #171b21;
+}
+
+:root[data-theme='light'] {
+  --sl-color-accent-low: #dbe6f0;
+  --sl-color-accent: #3a6487;
+  --sl-color-accent-high: #213e57;
+  --sl-color-white: #14171c;
+  --sl-color-gray-1: #23282f;
+  --sl-color-gray-2: #3c434d;
+  --sl-color-gray-3: #5b636f;
+  --sl-color-gray-4: #8c939e;
+  --sl-color-gray-5: #c9ced6;
+  --sl-color-gray-6: #e8ebef;
+  --sl-color-gray-7: #f3f5f8;
+  --sl-color-black: #fafbfc;
+  --bb-oxido: #95492e;
+  --bb-ficha: #ffffff;
+}
+
+/* ---------- títulos ---------- */
+h1#_top,
+.sl-markdown-content :is(h2, h3) {
+  font-family: var(--bb-display);
+  letter-spacing: -0.015em;
+  text-wrap: balance;
+}
+h1#_top { letter-spacing: -0.025em; }
+.sl-markdown-content h2 {
+  font-size: 1.35rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--sl-color-gray-5);
+}
+.sl-markdown-content h3 {
+  font-family: var(--sl-font-mono);
+  font-weight: 500;
+  font-size: 0.74rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--sl-color-gray-3);
+}
+.sl-markdown-content h3 a { text-transform: none; letter-spacing: 0; font-family: var(--bb-display); font-size: 1.05rem; }
+
+/* descripción bajo el título */
+.sl-markdown-content > p:first-child { margin-top: 0; }
+header .description, [data-pagefind-body] > p.description { color: var(--sl-color-gray-3); }
+
+/* ---------- migas ---------- */
+.migas {
+  font-family: var(--sl-font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--sl-color-accent);
+  margin: 0 0 0.35rem;
+}
+
+/* ---------- enlaces internos ---------- */
+.sl-markdown-content a.wl { text-decoration-thickness: 1px; text-underline-offset: 2px; }
+
+/* ---------- ficha de datos ---------- */
+.ficha {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(8.5rem, 1fr));
+  gap: 0.8rem 1.4rem;
+  margin: 0 0 2rem;
+  padding: 0.9rem 1rem;
+  background: var(--bb-ficha);
+  border: 1px solid var(--sl-color-gray-5);
+  border-left: 3px solid var(--sl-color-accent);
+  border-radius: 0 4px 4px 0;
+}
+.ficha div { min-width: 0; }
+.ficha dt {
+  font-family: var(--sl-font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.13em;
+  text-transform: uppercase;
+  color: var(--sl-color-gray-3);
+  margin-bottom: 0.15rem;
+}
+.ficha dd {
+  margin: 0;
+  font-weight: 600;
+  font-size: 0.95rem;
+  line-height: 1.3;
+  color: var(--sl-color-white);
+  font-variant-numeric: tabular-nums;
+}
+.ficha dd a { color: var(--sl-color-accent-high); }
+
+/* ---------- pendientes y menciones ---------- */
+.pendientes,
+.menciones {
+  margin-top: 2.5rem;
+  padding: 0.9rem 1rem;
+  border-radius: 4px;
+}
+.pendientes { border: 1px dashed var(--bb-oxido); }
+.menciones { border: 1px solid var(--sl-color-gray-5); }
+.pendientes-titulo,
+.menciones-titulo {
+  font-family: var(--sl-font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  margin: 0 0 0.5rem;
+}
+.pendientes-titulo { color: var(--bb-oxido); }
+.menciones-titulo { color: var(--sl-color-gray-3); }
+.pendientes ul { margin: 0; padding-left: 1.2rem; font-size: 0.95rem; }
+.pendientes li::marker { color: var(--bb-oxido); }
+.menciones ul { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.menciones li a {
+  display: inline-block;
+  padding: 0.2rem 0.55rem;
+  font-size: 0.88rem;
+  border: 1px solid var(--sl-color-gray-5);
+  border-radius: 3px;
+  text-decoration: none;
+  color: var(--sl-color-gray-1);
+}
+.menciones li a:hover { border-color: var(--sl-color-accent); color: var(--sl-color-accent-high); }
+
+/* ---------- tablas ---------- */
+.sl-markdown-content table { font-size: 0.92rem; }
+.sl-markdown-content th {
+  font-family: var(--sl-font-mono);
+  font-weight: 500;
+  font-size: 0.66rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.sl-markdown-content td { font-variant-numeric: tabular-nums; }
+
+/* ---------- avisos (>) ---------- */
+.sl-markdown-content blockquote {
+  border-inline-start-color: var(--sl-color-accent);
+  background: var(--sl-color-accent-low);
+  padding: 0.7rem 1rem;
+  font-style: normal;
+  color: var(--sl-color-gray-1);
+}
+
+/* ---------- barra lateral ---------- */
+.sidebar-content .group-label .large { font-family: var(--bb-display); }
+
+/* ---------- entradilla bajo el título ---------- */
+.lede {
+  font-size: 1.12rem;
+  line-height: 1.55;
+  color: var(--sl-color-gray-2);
+  margin: 0.6rem 0 0;
+  max-width: 40rem;
+}
