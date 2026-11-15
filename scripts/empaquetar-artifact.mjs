@@ -74,10 +74,10 @@ for (const f of recorrer(path.join(OUT, 'pagefind'))) {
 // Archivo principal: el host le pone su esqueleto; solo redirige a la portada.
 fs.writeFileSync(
   path.join(OUT, 'index.html'),
-  `<title>Opción A</title>
+  `<title>Wikis</title>
 <meta http-equiv="refresh" content="0; url=inicio/index.html">
 <script>location.replace('inicio/index.html' + location.hash)</script>
-<p style="font-family:Georgia,serif;padding:2rem"><a href="inicio/index.html">Abrir la biblia</a></p>
+<p style="font-family:Georgia,serif;padding:2rem"><a href="inicio/index.html">Abrir las wikis</a></p>
 `
 );
 

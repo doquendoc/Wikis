@@ -1,5 +1,5 @@
 {
-  "name": "tampu-biblia",
+  "name": "wikis",
   "private": true,
   "type": "module",
   "version": "0.1.0",
@@ -12,6 +12,7 @@
   "dependencies": {
     "@astrojs/markdown-remark": "^7.3.5",
     "@astrojs/starlight": "0.42.8",
-    "astro": "7.4.4"
+    "astro": "7.4.4",
+    "starlight-sidebar-topics": "^0.9.0"
   }
 }

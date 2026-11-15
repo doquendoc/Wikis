@@ -1,40 +1,44 @@
 ---
 // Envuelve el cuerpo de cada página: ficha arriba; pendientes y «mencionada en» abajo.
+// Todo se calcula dentro de la historia de la página.
 import Default from '@astrojs/starlight/components/MarkdownContent.astro';
 import { getCollection } from 'astro:content';
-import { enlazarHTML, enlacesDe } from '../lib/wikilinks.mjs';
-import { SECCIONES } from '../lib/secciones.mjs';
+import { enlazarHTML, destinos } from '../lib/wikilinks.mjs';
+import { HISTORIAS, historiaDe } from '../lib/historias.mjs';
 
-const base = import.meta.env.BASE_URL;
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const { entry } = Astro.locals.starlightRoute;
-const idDe = (eid: string) => (eid === 'index' || eid === '' ? 'inicio' : eid.split('/').pop()!);
-const href = (eid: string) => base.replace(/\/?$/, '/') + (eid === 'index' ? '' : eid + '/');
-const miId = idDe(entry.id);
+const historia = historiaDe(entry.id);
+const href = (eid: string) => base + (eid === 'index' ? '' : eid + '/');
+const miHref = href(entry.id);
 const { ficha, pendientes, auto } = entry.data as any;
 
 const todas = await getCollection('docs');
+const deLaHistoria = todas.filter((e) => historiaDe(e.id) === historia);
 const textoDe = (e: any) =>
   [e.body, ...(e.data.ficha || []).map((f: string[]) => f[1]), ...(e.data.pendientes || [])].join('\n');
 
-// Quién enlaza a esta página
+// Quién enlaza a esta página (de cualquier historia)
 const menciones = todas
-  .filter((e) => e.id !== entry.id && enlacesDe(textoDe(e)).has(miId))
+  .filter((e) => e.id !== entry.id && destinos(textoDe(e), historiaDe(e.id), base).has(miHref))
   .sort((a, b) => a.data.title.localeCompare(b.data.title, 'es'));
 
-// Lista global de pendientes, en el orden del índice lateral
+// Pendientes de toda la historia, en el orden del índice lateral
+const h = HISTORIAS.find((x) => x.dir === historia);
 let global: { label: string; paginas: any[] }[] = [];
-let totalPendientes = 0;
-if (auto === 'pendientes') {
+let total = 0;
+if (auto === 'pendientes' && h) {
   const orden = (e: any) => e.data.sidebar?.order ?? 999;
-  const grupo = (prefijo: string) =>
-    todas
-      .filter((e) => (prefijo === '' ? !e.id.includes('/') : e.id.startsWith(prefijo + '/')) && e.data.pendientes?.length)
+  const de = (prefijo: string) =>
+    deLaHistoria
+      .filter((e) => e.data.pendientes?.length && (prefijo ? e.id.startsWith(prefijo + '/') : e.id.split('/').length <= 2 && !h.secciones.some((s) => e.id.startsWith(`${historia}/${s.dir}/`))))
       .sort((a, b) => a.id.split('/').length - b.id.split('/').length || orden(a) - orden(b));
-  global = [{ label: 'General', paginas: grupo('') }, ...SECCIONES.map((s) => ({ label: s.label, paginas: grupo(s.dir) }))].filter(
-    (g) => g.paginas.length
-  );
-  totalPendientes = global.reduce((n, g) => n + g.paginas.reduce((m: number, p: any) => m + p.data.pendientes.length, 0), 0);
+  global = [{ label: 'General', paginas: de('') }, ...h.secciones.map((s) => ({ label: s.label, paginas: de(`${historia}/${s.dir}`) }))].filter((g) => g.paginas.length);
+  total = global.reduce((n, g) => n + g.paginas.reduce((m: number, p: any) => m + p.data.pendientes.length, 0), 0);
 }
+
+// Portada general: tarjetas de las historias
+const portadaGeneral = entry.id === 'index' || entry.id === '';
 ---
 
 <Default>
@@ -44,10 +48,26 @@ if (auto === 'pendientes') {
         {ficha.map(([k, v]: string[]) => (
           <div>
             <dt>{k}</dt>
-            <dd set:html={enlazarHTML(v, base)} />
+            <dd set:html={enlazarHTML(v, historia, base)} />
           </div>
         ))}
       </dl>
+    )
+  }
+
+  {
+    portadaGeneral && (
+      <ul class="historias not-content">
+        {HISTORIAS.map((x) => (
+          <li>
+            <a href={`${base}${x.dir}/`}>
+              <span class="historia-titulo">{x.titulo}</span>
+              <span class="historia-desc">{x.descripcion}</span>
+              <span class="historia-n">{todas.filter((e) => historiaDe(e.id) === x.dir).length} páginas</span>
+            </a>
+          </li>
+        ))}
+      </ul>
     )
   }
 
@@ -57,7 +77,7 @@ if (auto === 'pendientes') {
         <dl class="ficha not-content">
           <div>
             <dt>Cosas abiertas</dt>
-            <dd>{totalPendientes}</dd>
+            <dd>{total}</dd>
           </div>
           <div>
             <dt>En páginas</dt>
@@ -74,7 +94,7 @@ if (auto === 'pendientes') {
                 </h3>
                 <ul>
                   {p.data.pendientes.map((t: string) => (
-                    <li set:html={enlazarHTML(t, base)} />
+                    <li set:html={enlazarHTML(t, historia, base)} />
                   ))}
                 </ul>
               </>
@@ -93,7 +113,7 @@ if (auto === 'pendientes') {
         <p class="pendientes-titulo">Pendiente de decidir</p>
         <ul>
           {pendientes.map((t: string) => (
-            <li set:html={enlazarHTML(t, base)} />
+            <li set:html={enlazarHTML(t, historia, base)} />
           ))}
         </ul>
       </aside>

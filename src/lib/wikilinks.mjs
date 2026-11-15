@@ -1,10 +1,13 @@
-// Enlaces tipo wiki: [[id]] y [[id|texto]], donde id es el nombre del archivo sin .md.
-// Lo usan el plugin de markdown (cuerpo de las páginas) y los componentes (ficha, pendientes).
+// Enlaces tipo wiki dentro de cada historia:
+//   [[senri]]             la página senri.md de la misma historia
+//   [[senri|Senri]]       con otro texto
+//   [[opcion-a:senri]]    de otra historia, poniendo su carpeta delante
+// Si el id solo existe en una historia, también se encuentra desde las demás.
 import fs from 'node:fs';
 import path from 'node:path';
 
 // Ruta desde la raíz del proyecto (al empaquetar, import.meta.url ya no apunta a src/).
-const RAIZ = path.resolve(process.cwd(), 'src/content/docs');
+export const RAIZ = path.resolve(process.cwd(), 'src/content/docs');
 export const PATRON = /\[\[([^\]|\\]+)(?:\\?\|([^\]]+))?\]\]/g;
 
 function recorrer(dir, fuera = []) {
@@ -17,32 +20,47 @@ function recorrer(dir, fuera = []) {
 }
 
 let cache;
-/** id -> { href, titulo, slug } */
-export function mapa(base = '/') {
+/** historia -> (id -> { href, titulo }) */
+function indice(base = '/') {
   if (cache) return cache;
-  cache = new Map();
   const b = base.endsWith('/') ? base : base + '/';
+  cache = new Map();
   for (const archivo of recorrer(RAIZ)) {
     const rel = path.relative(RAIZ, archivo).replace(/\\/g, '/').replace(/\.mdx?$/, '');
-    const raiz = rel === 'index';
-    const id = raiz ? 'inicio' : path.basename(rel);
-    const slug = raiz ? '' : rel;
+    const partes = rel.split('/');
+    const historia = partes.length > 1 ? partes[0] : rel === 'index' ? '' : partes[0];
+    const portada = rel === 'index' || rel === `${historia}/index`;
+    const id = portada ? 'inicio' : path.basename(rel);
+    const slug = rel === 'index' ? '' : portada ? historia : rel;
     const fm = fs.readFileSync(archivo, 'utf8').match(/^title:\s*"?(.*?)"?\s*$/m);
-    if (cache.has(id)) throw new Error(`Hay dos páginas con el id «${id}». Los nombres de archivo tienen que ser únicos.`);
-    cache.set(id, { href: b + (slug ? slug + '/' : ''), titulo: fm ? fm[1] : id, slug });
+    if (!cache.has(historia)) cache.set(historia, new Map());
+    const m = cache.get(historia);
+    if (m.has(id)) throw new Error(`En «${historia || 'raíz'}» hay dos páginas con el id «${id}». Los nombres de archivo tienen que ser únicos dentro de cada historia.`);
+    m.set(id, { href: b + (slug ? slug + '/' : ''), titulo: fm ? fm[1] : id });
   }
   return cache;
+}
+
+/** Busca el destino de un [[ref]] escrito en una página de `historia`. */
+export function resolver(ref, historia, base = '/') {
+  const idx = indice(base);
+  const r = ref.trim();
+  const dos = r.indexOf(':');
+  if (dos > 0) return idx.get(r.slice(0, dos))?.get(r.slice(dos + 1)) ?? null;
+  const propia = idx.get(historia)?.get(r);
+  if (propia) return propia;
+  const otras = [...idx.values()].map((m) => m.get(r)).filter(Boolean);
+  return otras.length === 1 ? otras[0] : null;
 }
 
 const esc = (s) => s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 
 /** Convierte [[...]] en enlaces dentro de un texto suelto. Admite **negrita** y *cursiva* simples. */
-export function enlazarHTML(texto, base = '/') {
-  const m = mapa(base);
+export function enlazarHTML(texto, historia, base = '/') {
   let h = esc(String(texto));
-  h = h.replace(PATRON, (_, id, txt) => {
-    const d = m.get(id.trim());
-    const t = txt ? txt.trim() : d ? d.titulo : id;
+  h = h.replace(PATRON, (_, ref, txt) => {
+    const d = resolver(ref, historia, base);
+    const t = txt ? txt.trim() : d ? d.titulo : ref;
     return d ? `<a href="${d.href}">${t}</a>` : t;
   });
   h = h.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
@@ -50,9 +68,12 @@ export function enlazarHTML(texto, base = '/') {
   return h;
 }
 
-/** Ids a los que enlaza un texto. */
-export function enlacesDe(texto) {
-  const ids = new Set();
-  for (const r of String(texto || '').matchAll(PATRON)) ids.add(r[1].trim());
-  return ids;
+/** Direcciones a las que enlaza un texto escrito en `historia`. */
+export function destinos(texto, historia, base = '/') {
+  const hrefs = new Set();
+  for (const r of String(texto || '').matchAll(PATRON)) {
+    const d = resolver(r[1], historia, base);
+    if (d) hrefs.add(d.href);
+  }
+  return hrefs;
 }

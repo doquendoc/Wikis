@@ -1,10 +1,11 @@
 ---
 // Título con migas de pan encima (Personajes › Protagonistas) y la entradilla debajo.
 import Default from '@astrojs/starlight/components/PageTitle.astro';
-import { ETIQUETAS } from '../lib/secciones.mjs';
+import { ETIQUETAS, historiaDe } from '../lib/historias.mjs';
 import { enlazarHTML } from '../lib/wikilinks.mjs';
 
 const { entry } = Astro.locals.starlightRoute;
+const historia = historiaDe(entry.id);
 const partes = entry.id.split('/').slice(0, -1);
 const migas = partes.map((_, i) => ETIQUETAS[partes.slice(0, i + 1).join('/')]).filter(Boolean);
 const lede = entry.data.description;
@@ -23,4 +24,4 @@ const lede = entry.data.description;
   )
 }
 <Default />
-{lede && <p class="lede" set:html={enlazarHTML(lede, import.meta.env.BASE_URL)} />}
+{lede && <p class="lede" set:html={enlazarHTML(lede, historia, import.meta.env.BASE_URL)} />}

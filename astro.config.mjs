@@ -2,8 +2,9 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import starlightSidebarTopics from 'starlight-sidebar-topics';
 import remarkWikilinks from './src/lib/remark-wikilinks.mjs';
-import { SECCIONES } from './src/lib/secciones.mjs';
+import { HISTORIAS } from './src/lib/historias.mjs';
 
 const BASE = '/';
 const DOCS = path.resolve('src/content/docs');
@@ -12,7 +13,7 @@ const DOCS = path.resolve('src/content/docs');
 function sueltas(dir) {
   return fs
     .readdirSync(path.join(DOCS, dir), { withFileTypes: true })
-    .filter((e) => e.isFile() && /\.mdx?$/.test(e.name))
+    .filter((e) => e.isFile() && /\.mdx?$/.test(e.name) && e.name !== 'index.md')
     .map((e) => {
       const txt = fs.readFileSync(path.join(DOCS, dir, e.name), 'utf8');
       const orden = Number((txt.match(/^\s+order:\s*(\d+)/m) || [])[1] ?? 999);
@@ -22,16 +23,26 @@ function sueltas(dir) {
     .map(({ slug }) => ({ slug }));
 }
 
-const sidebar = [
-  { label: 'Opción A', link: '/' },
-  { slug: 'pendientes' },
-  ...SECCIONES.map((s) => {
-    if (!s.sub) return { label: s.label, collapsed: true, items: [{ autogenerate: { directory: s.dir } }] };
-    const grupos = s.sub.map((x) => ({ label: x.label, collapsed: true, items: [{ autogenerate: { directory: `${s.dir}/${x.dir}` } }] }));
-    const paginas = sueltas(s.dir);
-    return { label: s.label, collapsed: true, items: s.subPrimero ? [...grupos, ...paginas] : [...paginas, ...grupos] };
-  }),
-];
+const grupo = (label, dir) => ({ label, collapsed: true, items: [{ autogenerate: { directory: dir } }] });
+
+// Un tema por historia: cada una tiene su propia barra lateral.
+const temas = HISTORIAS.map((h) => ({
+  id: h.dir,
+  label: h.titulo,
+  link: `/${h.dir}/`,
+  icon: h.icono,
+  items: [
+    { label: 'Portada', link: `/${h.dir}/` },
+    ...sueltas(h.dir),
+    ...h.secciones.map((s) => {
+      const dir = `${h.dir}/${s.dir}`;
+      if (!s.sub) return grupo(s.label, dir);
+      const subs = s.sub.map((x) => grupo(x.label, `${dir}/${x.dir}`));
+      const paginas = sueltas(dir);
+      return { label: s.label, collapsed: true, items: s.subPrimero ? [...subs, ...paginas] : [...paginas, ...subs] };
+    }),
+  ],
+}));
 
 export default defineConfig({
   base: BASE,
@@ -42,16 +53,16 @@ export default defineConfig({
   },
   integrations: [
     starlight({
-      title: 'Opción A',
-      description: 'Biblia de Opción A.',
+      title: 'Wikis',
+      description: 'Las biblias de mis historias.',
       defaultLocale: 'root',
       locales: { root: { label: 'Español', lang: 'es' } },
-      sidebar,
       tableOfContents: { minHeadingLevel: 2, maxHeadingLevel: 3 },
       pagination: true,
       credits: false,
       markdown: { headingLinks: false },
       customCss: ['./src/styles/biblia.css'],
+      plugins: [starlightSidebarTopics(temas, { exclude: ['/'] })],
       head: [
         { tag: 'link', attrs: { rel: 'preconnect', href: 'https://fonts.googleapis.com' } },
         { tag: 'link', attrs: { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: true } },
