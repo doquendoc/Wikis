@@ -7,7 +7,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "artifact": "astro build && node scripts/empaquetar-artifact.mjs"
+    "artifact": "astro build && node scripts/empaquetar-artifact.mjs",
+    "enlaces": "node scripts/enlaces.mjs"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "^7.3.5",

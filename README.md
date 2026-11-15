@@ -9,6 +9,7 @@ npm install          # una vez
 npm run dev          # servidor local en http://localhost:4321, recarga al guardar
 npm run build        # genera dist/ (lo que se sube a Cloudflare, Netlify…)
 npm run artifact     # build + empaqueta artifact/ para publicarlo como artifact de Claude
+npm run enlaces      # lista los [[enlaces]] que no llevan a ninguna página
 ```
 
 ## Dónde está cada cosa
