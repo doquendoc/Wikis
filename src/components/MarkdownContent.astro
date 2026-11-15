@@ -5,18 +5,24 @@ import Default from '@astrojs/starlight/components/MarkdownContent.astro';
 import { getCollection } from 'astro:content';
 import { enlazarHTML, destinos } from '../lib/wikilinks.mjs';
 import { HISTORIAS, historiaDe } from '../lib/historias.mjs';
+import Personaje from './Personaje.astro';
 
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const { entry } = Astro.locals.starlightRoute;
 const historia = historiaDe(entry.id);
 const href = (eid: string) => base + (eid === 'index' ? '' : eid + '/');
 const miHref = href(entry.id);
-const { ficha, pendientes, auto } = entry.data as any;
+const { ficha, personaje, pendientes, auto } = entry.data as any;
 
 const todas = await getCollection('docs');
 const deLaHistoria = todas.filter((e) => historiaDe(e.id) === historia);
 const textoDe = (e: any) =>
-  [e.body, ...(e.data.ficha || []).map((f: string[]) => f[1]), ...(e.data.pendientes || [])].join('\n');
+  [
+    e.body,
+    ...(e.data.ficha || []).map((f: string[]) => f[1]),
+    ...(e.data.pendientes || []),
+    e.data.personaje ? JSON.stringify(e.data.personaje) : '',
+  ].join('\n');
 
 // Quién enlaza a esta página (de cualquier historia)
 const menciones = todas
@@ -42,8 +48,10 @@ const portadaGeneral = entry.id === 'index' || entry.id === '';
 ---
 
 <Default>
+  {personaje && <Personaje p={personaje} titulo={entry.data.title} historia={historia} />}
+
   {
-    ficha?.length > 0 && (
+    !personaje && ficha?.length > 0 && (
       <dl class="ficha not-content">
         {ficha.map(([k, v]: string[]) => (
           <div>

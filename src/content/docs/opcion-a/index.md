@@ -1,5 +1,5 @@
 ---
-title: "Opción A"
+title: "La Última Carrera"
 description: "Cuatro mercenarios que no se soportan ganan un concurso para un trabajo imposible: entrar en una granja abandonada de los devoradores y sacar un contenedor que nadie ha logrado recuperar con vida. Lo pierden casi todo, y acaban juntos."
 ficha:
   - ["Extensión", "30 caps. · 4.000–4.500"]

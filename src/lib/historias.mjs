@@ -5,7 +5,7 @@
 export const HISTORIAS = [
   {
     dir: 'opcion-a',
-    titulo: 'Opción A',
+    titulo: 'La Última Carrera',
     icono: 'open-book',
     descripcion: 'Ciencia ficción BL. Cuatro mercenarios, una granja de devoradores y un contenedor que nadie ha sacado con vida.',
     secciones: [

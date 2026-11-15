@@ -1,0 +1,314 @@
+---
+// Ficha de personaje: siempre los mismos bloques, en el mismo orden.
+import { enlazarHTML } from '../lib/wikilinks.mjs';
+import { BLOQUES } from '../lib/personaje.mjs';
+
+interface Props {
+  p: any;
+  titulo: string;
+  historia: string;
+}
+const { p, titulo, historia } = Astro.props;
+const base = import.meta.env.BASE_URL;
+const h = (t: string) => enlazarHTML(t, historia, base);
+const hay = Object.fromEntries(BLOQUES.map((b) => [b.id, Boolean(b.hay(p))]));
+const tituloDe = Object.fromEntries(BLOQUES.map((b) => [b.id, b.titulo]));
+
+const iniciales = titulo
+  .replace(/[«»"]/g, '')
+  .split(/\s+/)
+  .filter((w) => /^[A-ZÁÉÍÓÚÑ]/.test(w))
+  .slice(0, 2)
+  .map((w) => w[0])
+  .join('');
+const muerto = (e?: string) => !!e && /muert/i.test(e);
+const cabecera: [string, string][] = [
+  ...(p.especie ? [['Especie', p.especie] as [string, string]] : []),
+  ...(p.edad ? [['Edad', p.edad] as [string, string]] : []),
+  ...(p.datos || []),
+];
+---
+
+<div class="pj not-content">
+  <header class="pj-cab">
+    <div class="pj-mono" aria-hidden="true">{iniciales}</div>
+    <div class="pj-id">
+      {p.rol && <p class="pj-rol" set:html={h(p.rol)} />}
+      {p.apodos?.length > 0 && (
+        <p class="pj-apodos">
+          <span>También:</span> <span set:html={p.apodos.map(h).join(' · ')} />
+        </p>
+      )}
+    </div>
+    {
+      cabecera.length > 0 && (
+        <dl class="pj-datos">
+          {cabecera.map(([k, v]) => (
+            <div>
+              <dt>{k}</dt>
+              <dd set:html={h(v)} />
+            </div>
+          ))}
+        </dl>
+      )
+    }
+  </header>
+
+  {
+    hay['de-un-vistazo'] && (
+      <section class="pj-bloque">
+        <h2 id="de-un-vistazo">{tituloDe['de-un-vistazo']}</h2>
+        {p.vistazo.rasgos?.length > 0 && (
+          <ul class="pj-chips">
+            {p.vistazo.rasgos.map((r: string) => (
+              <li set:html={h(r)} />
+            ))}
+          </ul>
+        )}
+        <dl class="pj-pares">
+          {p.vistazo.quiere && (
+            <div>
+              <dt>Quiere</dt>
+              <dd set:html={h(p.vistazo.quiere)} />
+            </div>
+          )}
+          {p.vistazo.necesita && (
+            <div>
+              <dt>Necesita</dt>
+              <dd set:html={h(p.vistazo.necesita)} />
+            </div>
+          )}
+          {p.vistazo.miedo && (
+            <div>
+              <dt>Le da miedo</dt>
+              <dd set:html={h(p.vistazo.miedo)} />
+            </div>
+          )}
+        </dl>
+      </section>
+    )
+  }
+
+  {
+    hay['aspecto'] && (
+      <section class="pj-bloque">
+        <h2 id="aspecto">{tituloDe['aspecto']}</h2>
+        {p.aspecto.rasgos?.length > 0 && (
+          <dl class="pj-rasgos">
+            {p.aspecto.rasgos.map(([k, v]: string[]) => (
+              <div>
+                <dt>{k}</dt>
+                <dd set:html={h(v)} />
+              </div>
+            ))}
+          </dl>
+        )}
+        {p.aspecto.marcas?.length > 0 && (
+          <>
+            <h3 class="pj-sub">Marcas y detalles</h3>
+            <ul class="pj-marcas">
+              {p.aspecto.marcas.map((m: any) => (
+                <li>
+                  <span class="pj-tipo">{m.tipo}</span>
+                  <div>
+                    <p class="pj-donde" set:html={h(m.donde)} />
+                    {m.que && <p set:html={h(m.que)} />}
+                    {m.nota && <p class="pj-nota" set:html={h(m.nota)} />}
+                  </div>
+                </li>
+              ))}
+            </ul>
+          </>
+        )}
+        {(p.aspecto.ropa || p.aspecto.lleva?.length > 0) && (
+          <dl class="pj-pares">
+            {p.aspecto.ropa && (
+              <div>
+                <dt>Ropa</dt>
+                <dd set:html={h(p.aspecto.ropa)} />
+              </div>
+            )}
+            {p.aspecto.lleva?.length > 0 && (
+              <div>
+                <dt>Lleva siempre</dt>
+                <dd set:html={p.aspecto.lleva.map(h).join(' · ')} />
+              </div>
+            )}
+          </dl>
+        )}
+        {p.aspecto.texto?.map((t: string) => (
+          <p class="pj-texto" set:html={h(t)} />
+        ))}
+      </section>
+    )
+  }
+
+  {
+    hay['voz'] && (
+      <section class="pj-bloque">
+        <h2 id="voz">{tituloDe['voz']}</h2>
+        <dl class="pj-pares">
+          {p.voz.habla && (
+            <div>
+              <dt>Habla</dt>
+              <dd set:html={h(p.voz.habla)} />
+            </div>
+          )}
+          {p.voz.dice?.length > 0 && (
+            <div>
+              <dt>Dice</dt>
+              <dd>
+                <ul class="pj-chips pj-chips--mono">
+                  {p.voz.dice.map((d: string) => (
+                    <li set:html={h(d)} />
+                  ))}
+                </ul>
+              </dd>
+            </div>
+          )}
+          {p.voz.llama?.length > 0 && (
+            <div>
+              <dt>Llama a</dt>
+              <dd>
+                <ul class="pj-llama">
+                  {p.voz.llama.map(([quien, como]: string[]) => (
+                    <li>
+                      <span set:html={h(quien)} />
+                      <span class="pj-flecha" aria-hidden="true">
+                        →
+                      </span>
+                      <em set:html={h(como)} />
+                    </li>
+                  ))}
+                </ul>
+              </dd>
+            </div>
+          )}
+        </dl>
+        {p.voz.manias?.length > 0 && (
+          <>
+            <h3 class="pj-sub">Manías</h3>
+            <ul class="pj-lista">
+              {p.voz.manias.map((m: string) => (
+                <li set:html={h(m)} />
+              ))}
+            </ul>
+          </>
+        )}
+        {(p.voz.gusta?.length > 0 || p.voz.odia?.length > 0) && (
+          <div class="pj-dos">
+            {p.voz.gusta?.length > 0 && (
+              <div>
+                <h3 class="pj-sub">Le gusta</h3>
+                <ul class="pj-lista">
+                  {p.voz.gusta.map((g: string) => (
+                    <li set:html={h(g)} />
+                  ))}
+                </ul>
+              </div>
+            )}
+            {p.voz.odia?.length > 0 && (
+              <div>
+                <h3 class="pj-sub">Odia</h3>
+                <ul class="pj-lista">
+                  {p.voz.odia.map((g: string) => (
+                    <li set:html={h(g)} />
+                  ))}
+                </ul>
+              </div>
+            )}
+          </div>
+        )}
+      </section>
+    )
+  }
+
+  {
+    hay['familia'] && (
+      <section class="pj-bloque">
+        <h2 id="familia">{tituloDe['familia']}</h2>
+        <ul class="pj-familia">
+          {p.familia.map((f: any) => (
+            <li class={muerto(f.estado) ? 'es-muerto' : ''}>
+              <p class="pj-rel" set:html={h(f.relacion)} />
+              <p class="pj-nombre">
+                <span set:html={h(f.nombre)} />
+                {f.estado && <span class="pj-estado">{muerto(f.estado) ? '† ' : ''}{f.estado}</span>}
+              </p>
+              {f.nota && <p class="pj-nota" set:html={h(f.nota)} />}
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+
+  {
+    hay['relaciones'] && (
+      <section class="pj-bloque">
+        <h2 id="relaciones">{tituloDe['relaciones']}</h2>
+        <ul class="pj-relaciones">
+          {p.relaciones.map((r: any) => (
+            <li>
+              <p class="pj-con">
+                <span set:html={h(r.con)} />
+                {r.lellama && (
+                  <span class="pj-lellama">
+                    le llama <em set:html={h(r.lellama)} />
+                  </span>
+                )}
+              </p>
+              <p set:html={h(r.es)} />
+            </li>
+          ))}
+        </ul>
+      </section>
+    )
+  }
+
+  {
+    hay['cronologia'] && (
+      <section class="pj-bloque">
+        <h2 id="cronologia">{tituloDe['cronologia']}</h2>
+        <ol class="pj-crono">
+          {p.cronologia.map((c: any) => (
+            <li>
+              <p class="pj-cuando" set:html={h(c.cuando)} />
+              <p set:html={h(c.que)} />
+            </li>
+          ))}
+        </ol>
+      </section>
+    )
+  }
+
+  {
+    hay['lo-que-sabe'] && (
+      <section class="pj-bloque">
+        <h2 id="lo-que-sabe">{tituloDe['lo-que-sabe']}</h2>
+        <div class="pj-dos">
+          {p.sabe?.length > 0 && (
+            <div class="pj-sabe">
+              <h3 class="pj-sub">Sabe</h3>
+              <ul class="pj-lista">
+                {p.sabe.map((s: string) => (
+                  <li set:html={h(s)} />
+                ))}
+              </ul>
+            </div>
+          )}
+          {p.ignora?.length > 0 && (
+            <div class="pj-ignora">
+              <h3 class="pj-sub">No sabe</h3>
+              <ul class="pj-lista">
+                {p.ignora.map((s: string) => (
+                  <li set:html={h(s)} />
+                ))}
+              </ul>
+            </div>
+          )}
+        </div>
+      </section>
+    )
+  }
+</div>

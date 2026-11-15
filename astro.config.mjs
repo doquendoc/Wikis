@@ -62,6 +62,7 @@ export default defineConfig({
       credits: false,
       markdown: { headingLinks: false },
       customCss: ['./src/styles/biblia.css'],
+      routeMiddleware: './src/routeData.ts',
       plugins: [starlightSidebarTopics(temas, { exclude: ['/'] })],
       head: [
         { tag: 'link', attrs: { rel: 'preconnect', href: 'https://fonts.googleapis.com' } },

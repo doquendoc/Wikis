@@ -34,6 +34,12 @@ src/components/               ficha, pendientes, «mencionada en», migas
 2. Añádela en `src/lib/historias.mjs` con su título, icono, descripción y secciones.
 3. Crea las carpetas de las secciones y empieza a meter páginas.
 
+## Fichas de personaje
+
+Las páginas de personajes usan siempre la misma ficha, con los mismos bloques en el mismo orden: cabecera, **De un vistazo**, **Aspecto** (con **Marcas y detalles**: tatuajes, cicatrices, aretes, parches… con su lado y zona exactos), **Voz y manías**, **Familia**, **Relaciones**, **Cronología** y **Lo que sabe y lo que no**. Después va la prosa libre.
+
+Los datos van en el frontmatter, bajo `personaje:`. La plantilla en blanco, comentada campo a campo, está en `plantillas/personaje.md`: se copia a la carpeta del personaje y se rellena. Un bloque vacío no se pinta ni sale en el índice de la página.
+
 ## Formato de una página
 
 ```md

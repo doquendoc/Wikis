@@ -3,37 +3,158 @@ title: "Senri Hayami"
 description: "Kairos, 19 años. Protagonista y POV. Se está muriendo y lo lleva como quien no quiere molestar."
 sidebar:
   order: 1
-ficha:
-  - ["Especie", "[[kairos]]"]
-  - ["Edad", "19"]
-  - ["Altura", "1,73 m"]
-  - ["Peso", "≈ 70 kg"]
-  - ["Armas", "La katana de Ken, pistola"]
-  - ["En Tampu", "3 años"]
+personaje:
+  rol: "Protagonista · POV"
+  especie: "[[kairos]]"
+  edad: "19"
+  apodos:
+    - "*malchik* (Lev)"
+    - "*bhaiya* (Leela)"
+  datos:
+    - ["Altura", "1,73 m"]
+    - ["Peso", "≈ 70 kg (pesa más de lo que aparenta por los parches)"]
+    - ["Armas", "La katana de Ken, pistola gastada"]
+    - ["Estilo", "*iaijutsu*: espera el instante y corta una vez"]
+    - ["En Tampu", "3 años · vive en los Anillos"]
+  vistazo:
+    rasgos:
+      - "Dos caras: tranquilo en público, calculador por dentro"
+      - "Más listo que nadie, y lo esconde"
+      - "Generoso a escondidas, y lo niega con un insulto"
+      - "Odia que lo protejan"
+    quiere: "Sobrevivir solo, y completar la investigación de su madre para que nadie más acabe como Hana."
+    necesita: "Aceptar que quiere a alguien lo suficiente para morir por él. Al final se sacrifica dos veces, el mismo gesto de su padre, esta vez elegido."
+    miedo: "No morirse, sino dejar de ser él: cada herida que cura el órgano lo convierte un poco más en otra cosa."
+  aspecto:
+    rasgos:
+      - ["Complexión", "Delgado y fibroso"]
+      - ["Rasgos", "Japoneses"]
+      - ["Pelo", "Largo, más claro que de niño. Se le eriza cuando se tensa"]
+      - ["Ojos", "Tornasolados, del color del [[pneuma|pneuma]]: tirando a ámbar, cambian con la luz y el ángulo y cuando acelera o el órgano trabaja. Pupila vertical, nunca quietos. No brillan"]
+      - ["Piel", "Caliente, salvo los parches, fríos y lisos"]
+      - ["Rubor", "Permanente en orejas, nudillos y pómulos"]
+      - ["Orejas", "De forma normal; se le mueven hacia el sonido y lo delatan cuando escucha"]
+    marcas:
+      - tipo: "Tatuajes"
+        donde: "Cuello, parte de la mandíbula y las manos"
+        que: "Tinta negra y gris: flores, espadas y pájaros que Lev no sabe si vuelan en la Tierra o en Atalanta."
+        nota: "Rompen sus líneas y disimulan las costuras de los injertos. La tinta es inerte, pero cada sesión son heridas que el órgano paga: tatuarse lo deja hecho polvo días. Visibles desde el [[cap-2|capítulo 2]]."
+      - tipo: "Parches"
+        donde: "Donde ha tenido heridas grandes"
+        que: "Pneuma solidificado, gris y aceitoso, con vetas que se marcan cuando sufre, se cura o usa el pneuma."
+        nota: "Uno nuevo tras comerse un núcleo de Ravdna en la arena; lo descubre al fondo del pozo (cap. 5). Ver más abajo, en Los parches."
+      - tipo: "Injertos"
+        donde: "Encima de los parches visibles"
+        que: "Piel injertada carísima, con costuras que se notan de cerca."
+        nota: "La piel injertada no se ruboriza cuando el resto sí. Leela ve las costuras."
+      - tipo: "Sin implante"
+        donde: "Detrás de la oreja: nada"
+        que: "No es un kairos cortado, y eso se ve."
+        nota: "Por eso el qhatu del ascensor le ofrece compradores para su vínculo en el [[cap-2|capítulo 2]]."
+    ropa: "Capas oscuras y prácticas, chaqueta corta de cuello alto, guantes sin dedos, botas ligeras, bolsillos llenos de comida."
+    lleva:
+      - "La katana de Ken"
+      - "El *omamori* que su madre le dio a Ken, al cuello"
+      - "Las notas de su madre y las suyas"
+      - "Barritas de calorías en el bolsillo de azúcares"
+      - "Un respirador de media cara que casi nunca se pone"
+  voz:
+    habla: "Inglés nativo con japonés del padre. Poco y rápido, y contesta con preguntas. Cuando miente se vuelve más educado de lo normal."
+    dice:
+      - "itadakimasu, antes de comer, incluso lo robado"
+      - "yabai"
+      - "kuso"
+      - "nii-san / nee-san / onii-san, a desconocidos"
+    llama:
+      - ["[[mushi|Mushi]]", "*mushikera* (bicho asqueroso), que se acorta a Mushi"]
+    manias:
+      - "Cuenta las salidas al entrar y nunca se sienta de espaldas a la puerta"
+      - "No duerme y come a todas horas"
+      - "No bebe: el alcohol son calorías vacías, le baja el azúcar, le anula el olfato y lo vuelve lento. Y con el hígado kairos, emborracharse cuesta un dineral"
+      - "Por las noches estudia el pneuma en pantallas"
+      - "Hace pequeñas reverencias, incluso cuando se burla"
+    gusta:
+      - "Comer: dulces, *onigiri*"
+      - "Las noches tranquilas"
+      - "La lluvia"
+    odia:
+      - "Que lo protejan"
+      - "Dormir"
+      - "Los sitios sin salida"
+      - "El frío"
+      - "El ruido y las luces que parpadean"
+  familia:
+    - nombre: "Hiroshi Hayami"
+      relacion: "Padre"
+      estado: "muerto"
+      nota: "La Espada del Consejo de Atalanta, protector del consejo de Hestia. Cría guerreros. Lo mató [[nadia|Nadia]] en el golpe, sin llegar a alzar la espada. Iba a rezar a un templo donde están escondidas las notas de Grace."
+    - nombre: "Grace Hayami"
+      relacion: "Madre"
+      estado: "muerta"
+      nota: "Bióloga del pneuma; trabajaba con Fintan. Robó el núcleo del arca de Hestia y lo gastó entero en el trasplante de Senri. Se mató con la pistola de Viktor en la sala de interrogatorios para no contarlo. Tenía miles de libros."
+    - nombre: "Ken Hayami"
+      relacion: "Hermano mayor"
+      estado: "muerto"
+      nota: "Artista obligado a ser soldado: tallaba figuritas a escondidas. Lo mató [[lev|Lev]]; murió suplicándole que no se llevaran a su hermano."
+    - nombre: "Hana Hayami"
+      relacion: "Hermana, gemela"
+      estado: "muerta"
+      nota: "La pequeña: golosa, ruidosa y la favorita de todos. Murió de «el incendio», el mismo rasgo que tiene Senri. Olía a azúcar y cardamomo, como Leela."
+    - nombre: "Fintan"
+      relacion: "Quien lo salvó"
+      estado: "muerto"
+      nota: "El viejo [[ammit|Ammit]] que le trasplantó su órgano y murió al quedarse sin pneuma. Irlandés, como Fintan mac Bóchra."
+    - nombre: "La abuela"
+      relacion: "Abuela"
+      estado: "muerta"
+      nota: "Le inculcó los valores que le impiden negarle comida a una cría."
+  relaciones:
+    - con: "[[lev|Lev Volkov]]"
+      lellama: "iskra; imbécil"
+      es: "El teniente de Hestia del que se colgó a los dieciséis sin saberlo; hoy, su par sin saberlo. Lo reconoce por el pneuma en el bar y por la cara en el laberinto, y decide que no fue él quien mató a Ken porque quiere que no lo sea. Huele a frío, a metal y a aire húmedo, y tiene una voz grave que le suena."
+    - con: "[[mushi|Mushi]]"
+      lellama: "mushikera"
+      es: "Lo recoge en el Desguace por no pisar su arte. Con él sale su cara privada antes que con nadie. Nota sus parches al tacto."
+    - con: "[[leela|Leela]]"
+      lellama: "criaja"
+      es: "Le recuerda a Hana: huele igual, a azúcar y cardamomo, y él le tira del pelo como hacía con su hermana. Algún día ella le ata un *rakhi*."
+    - con: "[[nadia|Nadia]]"
+      lellama: "nee-san; Lin Mei"
+      es: "Para él, una xingtian lista con café y libros de papel; en el pneuma, un vacío. Ella es la única que ve lo listo que es. Huele a café y papel viejo."
+    - con: "[[ravdna|Ravdna]]"
+      es: "Su única salida. Siente una familiaridad incómoda con ella por los recuerdos que se tragó en el capítulo 6."
+  cronologia:
+    - cuando: "Infancia"
+      que: "Familia japonesa y estadounidense de militares que protegen al consejo de Hestia. Pasa las tardes en el laboratorio de Grace, porque ve lo que ella estudia. Sabe lo que es Fintan; lo que no sabe hasta después es que el órgano que lleva dentro es suyo."
+    - cuando: "12 o 13 años · el trasplante"
+      que: "A Hana y a él les toca la misma lotería genética. Hana muere; él aguanta más, y Fintan le trasplanta un órgano suyo y muere al quedarse sin pneuma. Para la transferencia, Grace roba el núcleo del arca de Hestia y lo gasta entero. Nadie más lo sabe. Le quitan el bazo para hacer sitio. No ha vuelto a enfermar."
+    - cuando: "16 años · la visita iskra"
+      que: "La delegación iskra pasa semanas en Atalanta, con la armadura antigua, que no es negra. Le da conversación a un teniente callado de 19 años; Lev se quita el casco una sola vez y solo lo ve él. Le hace reír con un chiste estúpido y Lev responde *tak tochno* a su capitán. Se vincula sin saberlo. Un amanecer se agacha a despertarlo, dormido sentado tras una guardia, y se queda oliéndole el pelo más de la cuenta."
+    - cuando: "16 años · año 0 · la traición"
+      que: "Elias Hart abre las puertas. Grace se mata en la sala de interrogatorios con la pistola de Viktor. Hiroshi muere peleando. A Senri lo hieren de muerte; Ken lo esconde en una casucha del patio, entiende al verle la herida lo que lleva dentro, pelea contra Lev y muere suplicándole por él. Senri no oye nada: solo ve al iskra agacharse junto a Ken y hablar. Lleva tres años explicándose mal esa imagen. Lo rescatan unos soldados y se separa de ellos."
+    - cuando: "16 a 19 años · Tampu"
+      que: "Llega con la katana, el *omamori*, las notas de su madre y un órgano que lo mata. Trabaja de cazador, escolta y piloto. Busca a Lev en los registros y encuentra un desertor acusado del golpe contra Viktor, con precio."
+    - cuando: "19 años · cap. 1"
+      que: "Empieza la Última Carrera en La Esclusa."
+  sabe:
+    - "Que Hart fue el traidor"
+    - "Que el teniente de Hestia desertó y tiene precio"
+    - "Lo que era Fintan, y que el órgano es suyo"
+    - "Lo que hace el órgano y que lo está matando"
+  ignora:
+    - "Que está vivo porque su madre gastó en él el núcleo de su colonia"
+    - "Que Ken lo supo al verle la herida"
+    - "Que fue Lev quien mató a Ken (hasta el cap. 18)"
+    - "Qué le suplicó Ken a Lev"
+    - "Que ya está vinculado"
+    - "Que Lin Mei es Nadia, y que Nadia mató a su padre"
 pendientes:
   - "Nombre del órgano (descartados: ka, fuelle, corazón)."
   - "Qué hace con su propia dieta ahora que Aaru ya no es su objetivo: las fuentes de pneuma muy puro siguen siendo rarísimas."
   - "Alias de Senri en Tampu."
   - "Nombres científicos del gen suyo y de Hana, y del de Viktor y Lev."
+  - "Nombre del respirador de media cara."
 ---
-Parece delgado, pero pesa más de lo que aparenta por los parches.
-
-## Aspecto
-
-Delgado y fibroso, de rasgos japoneses. Pelo largo y más claro de lo que lo tuvo de niño, que se le eriza cuando se tensa.
-
-**Ojos tornasolados del color del [[pneuma|pneuma]]**, tirando a ámbar pero cambiando con la luz y el ángulo, de pupila vertical y nunca quietos: nadie sabe decir de qué color son. No brillan ni deslumbran. Para casi todos son un color raro y bonito; para [[lev|Lev]], acostumbrado a los ojos grises y opacos de los suyos, son plata tornasolada, **lo único que ha visto con un color dentro**, y no aparta la vista como hacen los demás. Cambian de tono cuando acelera o el órgano trabaja.
-
-Rubor permanente en orejas, nudillos y pómulos. Las orejas, de forma normal, se le mueven hacia el sonido y lo delatan cuando escucha.
-
-Piel caliente, salvo los parches, fríos y lisos. Los visibles van tapados con **injertos carísimos** cuyas costuras se notan de cerca, y la piel injertada no se ruboriza cuando el resto sí.
-
-**Tatuajes** en el cuello y parte de la cara, que rompen sus líneas y disimulan las costuras. La tinta es inerte y no cicatriza en pneuma, pero cada sesión son heridas pequeñas que el órgano paga: tatuarse lo deja hecho polvo días.
-
-**Ropa:** capas oscuras y prácticas, chaqueta corta de cuello alto, guantes sin dedos, botas ligeras, bolsillos llenos de comida.
-
-**Estilo:** *iaijutsu*. Espera el instante y corta una vez.
-
 ## Personalidad
 
 **Dos caras.** En público va a lo suyo: ni bocazas ni cerrado, tranquilo, amable si toca, con sentido del humor, pero no busca compañía ni conflicto y solo se mete en algo cuando gana algo. Por dentro lo cataloga todo, calcula cada movimiento y es más listo que nadie.
@@ -43,14 +164,9 @@ La cara privada sale cuando está solo, cuando estudia el pneuma por las noches 
 **Por qué lo esconde:** en su familia el valor estaba en el combate y el listo era el raro; en el bajo mundo, que te subestimen te mantiene vivo; y lo que nadie sabe, nadie lo usa contra ti.
 
 - Planea mucho y bien, y cuando el plan se rompe improvisa mejor todavía.
-- Cuando miente se vuelve más educado de lo normal.
-- Es generoso a escondidas y lo niega con un insulto.
-- Odia que lo protejan, porque la última vez Ken murió.
 - Les tiene asco a los iskra: le destrozaron la vida, y ese odio no se le quita por unas semanas de buenos modales. Convive con lo que empieza a sentir por Lev.
 
 **El peso del padre.** Hiroshi los arrastró a él y a Ken a una vida que ninguno quería, por deber familiar, y Ken murió en ella. Senri odia ese deber y aun así lo cumple cada vez que no puede evitarlo («mi padre la habría ayudado», y para qué le sirvió). Su regla de no morir protegiendo a nadie es **rechazo a esa herencia, no miedo**.
-
-**Deseo y necesidad:** quiere sobrevivir solo; necesita aceptar que quiere a alguien lo suficiente para morir por él. Al final se sacrifica dos veces, el mismo gesto de su padre, esta vez elegido.
 
 ## El órgano
 
@@ -106,7 +222,7 @@ Lo que cambia en el [[cap-3|capítulo 3]] no es la habilidad, es el material.
 |---|---|
 | [[cap-2\|Cap. 2]] · las monedas | Absorbe sin querer y las pierde |
 | [[cap-3\|Cap. 3]] · el cazador | Primer uso dirigido: tapona la herida de Lev |
-| Cap. 6 · el núcleo | El órgano se come el núcleo de Ravdna: fuerza y lucidez, un parche nuevo y fragmentos de sus recuerdos. Quizá vuelve a dormir |
+| Cap. 3 · el núcleo de la arena | El órgano se come un núcleo de Ravdna: fuerza y lucidez (en el pozo puede sujetar a Lev), un parche nuevo y fragmentos de sus recuerdos. Quizá vuelve a dormir. En el cap. 6, Ravdna nota que uno de sus núcleos se apagó |
 | Cap. 10 · el pastor | Deshace y absorbe a la vez, y le entran recuerdos de prisioneros |
 | Cap. 21 · la piscina | Una cantidad enorme de golpe: fuerza, curación y el sufrimiento de miles de noaidi |
 | Cap. 25 · el eyector | Primer uso controlado, con destino |
@@ -134,56 +250,15 @@ Cada herida que cura el órgano se convierte en pneuma solidificado, como el cue
 
 **Presagio:** cuando Ravdna se deshace delante de él, está viendo cómo va a morir.
 
-## Historia
-
-**1 · Infancia.** Familia japonesa y estadounidense de militares que protegían al consejo de Hestia. Hiroshi cría guerreros. Ken, el mayor, es artista: talla figuritas a escondidas aunque su padre lo hace soldado, y por eso Senri respeta el arte de Mushi. Senri pasa las tardes en el laboratorio de su madre, **Grace**, bióloga del pneuma que sabía lo que era Fintan y trabajaba con él. Senri también lo sabía: lo que no supo hasta después fue que el órgano que lleva dentro es suyo. **Hana**, la pequeña, es golosa, ruidosa y la favorita de todos.
-
-**2 · Hana y el trasplante** (12 o 13 años). A los dos hermanos les toca la misma lotería genética. Hana muere; Senri aguanta más, y antes de morir Fintan le trasplanta un órgano suyo para frenarlo y muere al quedarse sin pneuma.
-
-Para que la transferencia funcionara hizo falta una cantidad enorme de pneuma puro, así que **Grace robó el núcleo del arca de Hestia y lo consumió entero en la operación**. Los núcleos llegaron agotados y regenerarse lleva siglos, así que nadie los toca durante generaciones y nadie notó la falta. Solo ella lo sabía: ni Hiroshi, ni Ken, ni Senri.
-
-Después se vuelca en el pneuma, con prisa, porque sabe que a su hijo no le queda mucho.
-
-**3 · La visita iskra** (16 años). Ver [[twists]]. Una delegación iskra pasa semanas en Atalanta con la armadura antigua de su colonia, que no es negra. Lev tiene 19 y es teniente en segunda fila de la escolta, así que Senri —entonces bajito, le sacaba casi medio cuerpo— puede acercarse y darle conversación sin que sea grave. Coinciden más de una vez: Senri habla y Lev calla. **Una sola vez se quita el casco** un momento, por algo concreto que no tiene nada que ver con Senri, y el único que lo ve es él.
-
-Su capitán se lo nota a Lev en el pneuma y lo regaña, y Lev solo responde *tak tochno*. Senri nunca entendió el regaño, y se le queda la voz.
-
-**Lo que pasa de verdad:** en semanas, con dieciséis años y madurando tarde, le cae encima de golpe, y ni se le ocurre identificarlo —un hombre, mayor, iskra, enemigo: su cabeza descarta la categoría entera—. Se [[vinculo-kairos|vinculó]] entonces y lleva tres años así sin saberlo, aunque se diga que no ha tenido a nadie porque se está muriendo.
-
-**4 · La traición** (16 años, año 0). Elias Hart abrió las puertas creyendo que evitaría la guerra. El asalto empieza controlado, hasta que abren la cámara vacía y detienen a Grace. En la sala de interrogatorios, donde no la han esposado por cortesía, entiende que lo que le van a sacar es dónde está el núcleo, y que la respuesta es *dentro de su hijo*: **le quita la pistola a Viktor con reflejos kairos y se dispara** antes de que nadie pueda reaccionar. Lev lo ve. Ahí se rompe todo.
-
-Hiroshi entra a rescatar a más gente y muere peleando. A Senri lo hieren de muerte. Ken intenta sacarlo del palacio, lo esconde en una casucha del patio y, al verle la herida abierta, entiende que lo que su hermano lleva dentro no es carne y es lo que han venido a buscar. No le da tiempo a preguntar nada: peleó contra Lev para darle tiempo, perdió, y **antes de morir le suplicó por su hermano**. No que no lo maten: que no se lo lleven. Lev no entendió nada y cumplió.
-
-Senri no oyó nada: se estaba desangrando, con un parche formándose y el órgano desbordado, y solo vio al iskra agacharse junto a Ken y hablar. **Lleva tres años explicándose mal esa imagen:** cree que se burló o que lo remató.
-
-**Por qué no sabe que fue Lev.** Justo antes del golpe, Viktor hizo jurarle lealtad a los suyos y les cambió las armaduras: las nuevas son negras, con una capa con el símbolo del Nuevo Régimen. El que mató a Ken llevaba esa, con el casco puesto, así que pudo ser cualquiera. Lo que le quedó grabado fue su tamaño, su silueta y su voz.
-
-**5 · Tres años solo** (16 a 19). Llega a Tampu con la katana, el *omamori*, las notas de su madre y un órgano que lo mata.
-
 ## Su vida en Tampu
 
 **Trabaja** de cazador en las zonas bajas —encuentra a los que han matado y aún no han sido detectados: ve las firmas de pneuma y a través de las ilusiones—, de escolta y de piloto en persecuciones dentro de la estación. Cumple siempre y nunca pelea de frente.
 
-**Vive** en un apartamento alquilado y humilde: todo se le va en injertos y comida.
-
-**Cuando no trabaja** estudia el pneuma en pantallas y experimenta con su órgano para ver si puede absorber de otras fuentes.
+**Vive** en un apartamento alquilado y humilde en los Anillos: todo se le va en injertos y comida.
 
 **No revela quién es.** A los iskra no les conviene que se sepa que vive —un superviviente de las familias protectoras es un símbolo y delataría que buscan algo—, así que lo dieron por muerto y no hay carteles: quien lo persigue lo hace por su cuenta y en silencio. Aun así se esconde, porque todo el mundo está registrado.
 
-Buscó a Lev en los registros, no por el *crush* sino para saber si aquel teniente tuvo algo que ver con lo de su familia, y lo que encontró no cierra nada: desertor, acusado del golpe contra Viktor, con precio. **Lleva tres años con eso sin resolver.**
-
-## Voz y manías
-
-Habla inglés nativo con japonés del padre. *Itadakimasu* antes de comer, incluso lo robado; *yabai* o *kuso* cuando algo sale fatal. Poco y rápido, y contesta con preguntas.
-
-- Cuenta las salidas al entrar y nunca se sienta de espaldas a la puerta.
-- No duerme y come a todas horas.
-- Lleva al cuello el *omamori* que su madre le dio a Ken, y siempre las notas.
-- **Le gusta:** comer (dulces, *onigiri*), las noches tranquilas y la lluvia.
-- **Odia:** que lo protejan, dormir, los sitios sin salida, el frío, el ruido y las luces que parpadean.
-- **No bebe:** el alcohol son calorías vacías que lo dejan con más hambre, le baja el azúcar, le anula el olfato y lo vuelve lento. Y con el hígado kairos, emborracharse cuesta un dineral.
-
-**Olores:** Lev huele a frío, a metal y aire húmedo, y tiene una voz grave que le resulta familiar; Leela, a azúcar y cardamomo, como Hana; Nadia, a café y papel viejo; Mushi, a metal caliente.
+**Por qué no sabe que fue Lev.** Justo antes del golpe, Viktor hizo jurarle lealtad a los suyos y les cambió las armaduras: las nuevas son negras, con una capa con el símbolo del Nuevo Régimen. El que mató a Ken llevaba esa, con el casco puesto, así que pudo ser cualquiera. Lo que le quedó grabado fue su tamaño, su silueta y su voz.
 
 ## El vínculo
 
@@ -197,14 +272,3 @@ Es antivínculo y antirromance, y no por postura: lo considera un trastorno, que
 - Lev huele el cambio en sus feromonas antes de que Senri lo admita, y no sabe qué significa hasta que alguien se lo explica.
 - Tras la confesión está medio vinculado al hombre que mató a su hermano, y no sabe qué parte es él y qué parte es el injerto: **el mismo miedo que con el órgano**.
 - Es asimétrico: Lev no tiene esa biología, así que lo suyo solo puede ser una elección.
-
-## Su familia
-
-| Quién | Qué fue |
-|---|---|
-| Ken | Hermano mayor. Artista obligado a ser soldado; murió suplicándole a Lev por su hermano |
-| Hana | Hermana pequeña, gemela. Murió de «el incendio» |
-| Hiroshi | Padre. Protector del consejo. Lo mató [[nadia\|Nadia]] |
-| Grace | Madre. Bióloga del pneuma. Robó el núcleo del arca y lo gastó en el trasplante; se mató con la pistola de Viktor |
-| Fintan | El viejo [[ammit\|Ammit]] que lo salvó. Irlandés, como Fintan mac Bóchra, el sabio que sobrevivió al diluvio cambiando de forma |
-| Elias Hart | El consejero que traicionó a Hestia creyendo que salvaba vidas. Hoy gobierna como títere |
