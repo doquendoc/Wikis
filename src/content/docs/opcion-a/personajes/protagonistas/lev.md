@@ -51,6 +51,10 @@ personaje:
         donde: "Abdomen, sobre el corte"
         que: "Pneuma solidificado: el de su mensajero muerto, que Senri hace bajar sobre la herida para cubrirla y cerrarla. Se le queda en el cuerpo."
         nota: "[[cap-3|Capítulo 3]]. Puede ser lo que delate ante Ravdna que Senri absorbe pneuma. Al despertar no le duele y se nota más fuerte que antes ([[cap-4|cap. 4]])."
+      - tipo: "Hombro dislocado"
+        donde: "Un hombro"
+        que: "En la pelea de la caja de cristal, contra Cabeza de Plomo y Tres Ojos."
+        nota: "[[cap-4|Capítulo 4]]."
       - tipo: "Daño interno"
         donde: "Termorregulación"
         que: "Una herida del golpe se la dañó: sin armadura, su cuerpo se enfría y no remonta solo."
@@ -195,6 +199,7 @@ Sus patrones cambian según lo que siente y se marcan más cuanto más caliente 
 | Cap. 2 · pasillo | Balazo de lado a lado; sella los agujeros con material de la propia armadura |
 | [[cap-3\|Cap. 3]] · el Fondo | El casco, agrietado: respira el aire seco del Fondo. Una abertura en el torso, en el mismo sitio donde le dio el bastón del kirk |
 | [[cap-4\|Cap. 4]] · el contenedor | **Primera rotura:** el filtro del casco, inservible, y el visor, transparente. Sella el torso gastando más material de los anclajes, pliega el casco y se pone el respirador de Senri. Recupera el olfato y nota el pneuma en la cara |
+| [[cap-4\|Cap. 4]] · la arena | Otra rotura, con un hombro dislocado. Más arreglos después |
 | Cap. 10 · las ruinas | **Segunda y definitiva:** un pastor le revienta el torso |
 
 

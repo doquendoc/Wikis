@@ -10,7 +10,10 @@ ficha:
   - ["En la banda", "3 horas → casi media hora, y la pelea"]
 pendientes:
   - "Título del capítulo (provisional)."
-  - "La pelea entera."
+  - "Quién le quita el respirador a Cabeza de Plomo: Senri, o Lev para dárselo."
+  - "Cómo cae Cabeza de Plomo y cómo se disloca Lev el hombro."
+  - "Cap. 4 es POV de Lev: por qué acepta Senri ese respirador y lo que le pesa haber matado van en su siguiente POV, o se ven solo por fuera."
+  - "Si el cuerpo de Senri obedece por el vínculo, por su entrenamiento o sin que se sepa. La wiki solo dice que el vínculo deteriora el juicio en todo lo que afecte al par."
   - "Si Cabeza de Plomo es kairos."
   - "Qué deportes se juegan en Mrak, heredados de la Tierra. Los kairos, béisbol."
   - "Qué le hace a Lev el aire del Fondo, y por qué le hace falta el respirador."
@@ -112,10 +115,24 @@ El kamakiri mira a Lev: ¿par dispuesto a llevarlo? Senri se tensa todavía más
 
 ## La pelea
 
-Por escribir.
+Senri lleva a Mushi encima toda la pelea; Mushi no llega a pasarse a Lev. Senri lo tiene todo en contra: el peso, el tobillo, el olor de Lev distrayéndolo, el esfuerzo por no tocarlo ni mirarlo, el aire y no poder acelerar.
+
+Quién ve qué:
+
+| | Ilusiones | Toxinas |
+|---|---|---|
+| Senri | No lo engañan: ve la banda | Le afectan de lleno: se pone mongo |
+| Lev | Siente la banda en la cara, sin armadura | Le afectan menos por el respirador |
+| Mushi | Se confunde | Inmune |
+
+1. **Cabeza de Plomo cae.** Senri le quita el respirador, o Lev se lo arranca rápido y se lo da. Senri lo acepta porque huele menos a Lev.
+2. **Lev, herido.** Un hombro dislocado, y la armadura rota otra vez: más arreglos después.
+3. **Dos contra Tres Ojos.** Senri llega hasta él entre las ilusiones y no lo mata: Tres Ojos se pone a suplicar y Senri duda. Lev se da cuenta de que Tres Ojos va a disparar y le dice que lo mate. Senri reacciona y lo hace.
+
+**Lo que le pesa a Senri después:** lo hizo su cuerpo, no él. No fue una decisión: se movió solo porque el otro le dijo qué hacer.
 
 ## El cierre
 
-Cada uno mata a uno del otro lado. Lev levanta la vista y se encuentra los ojos de Senri sobre él: las pupilas completamente dilatadas, las mejillas rojas, el sudor corriéndole por la piel. Se dice que no puede encontrarlo atractivo, pero los ojos se le niegan a apartarse.
+Lev levanta la vista y se encuentra los ojos de Senri sobre él: las pupilas completamente dilatadas, las mejillas rojas, el sudor corriéndole por la piel. Ya no está acelerado y las toxinas se han ido: **es el vínculo**. Lev, si tiene que justificárselo, lo achacará a eso otro. Se dice que no puede encontrarlo atractivo, pero los ojos se le niegan a apartarse.
 
 Y entonces se abre el suelo de la caja. Ninguno reacciona a tiempo, y caen a la oscuridad.
