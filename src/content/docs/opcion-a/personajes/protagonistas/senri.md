@@ -48,16 +48,16 @@ personaje:
         que: "Piel injertada carísima, con costuras que se notan de cerca."
         nota: "La piel injertada no se ruboriza cuando el resto sí. Leela ve las costuras."
       - tipo: "Sin implante"
-        donde: "Detrás de la oreja: nada"
+        donde: "En la sien: nada"
         que: "No es un kairos cortado, y eso se ve."
-        nota: "Por eso el qhatu del ascensor le ofrece compradores para su vínculo en el [[cap-2|capítulo 2]]."
+        nota: "El qhatu del ascensor le ofrece compradores para su vínculo ([[cap-2|cap. 2]]) y los kirks del Desguace lo ven como presa cara ([[cap-3|cap. 3]])."
     ropa: "Capas oscuras y prácticas, chaqueta corta de cuello alto, guantes sin dedos, botas ligeras, bolsillos llenos de comida."
     lleva:
       - "La katana de Ken"
       - "El *omamori* que su madre le dio a Ken, al cuello"
       - "Las notas de su madre y las suyas"
       - "Barritas de calorías en el bolsillo de azúcares"
-      - "Un respirador de media cara que casi nunca se pone"
+      - "Un respirador de media cara que casi nunca se pone, porque no oler es casi peor que no ver. Se lo deja a Lev en el [[cap-3|cap. 3]]"
   voz:
     habla: "Inglés nativo con japonés del padre. Poco y rápido, y contesta con preguntas. Cuando miente se vuelve más educado de lo normal."
     dice:
@@ -95,7 +95,7 @@ personaje:
     - nombre: "Ken Hayami"
       relacion: "Hermano mayor"
       estado: "muerto"
-      nota: "Artista obligado a ser soldado: tallaba figuritas a escondidas. Lo mató [[lev|Lev]]; murió suplicándole que no se llevaran a su hermano."
+      nota: "Artista obligado a ser soldado. Pintaba cuadros horribles que no había quien entendiera y que aun así te hacían sentir algo en el pecho. Lo mató [[lev|Lev]]; murió suplicándole que no se llevaran a su hermano."
     - nombre: "Hana Hayami"
       relacion: "Hermana, gemela"
       estado: "muerta"
@@ -111,7 +111,7 @@ personaje:
   relaciones:
     - con: "[[lev|Lev Volkov]]"
       lellama: "iskra; imbécil"
-      es: "El teniente de Hestia del que se colgó a los dieciséis sin saberlo; hoy, su par sin saberlo. Lo reconoce por el pneuma en el bar y por la cara en el laberinto, y decide que no fue él quien mató a Ken porque quiere que no lo sea. Huele a frío, a metal y a aire húmedo, y tiene una voz grave que le suena."
+      es: "El teniente de Hestia del que se colgó a los dieciséis; hoy, su par, y desde el cap. 3 lo sospecha y lo rechaza. Le salva la vida en el Desguace. Lo reconoce por el pneuma en el bar y por la cara en el laberinto, y decide que no fue él quien mató a Ken porque quiere que no lo sea. Huele a frío, a metal y a aire húmedo, y tiene una voz grave que le suena."
     - con: "[[mushi|Mushi]]"
       lellama: "mushikera"
       es: "Lo recoge en el Desguace por no pisar su arte. Con él sale su cara privada antes que con nadie. Nota sus parches al tacto."
@@ -136,7 +136,10 @@ personaje:
       que: "Llega con la katana, el *omamori*, las notas de su madre y un órgano que lo mata. Trabaja de cazador, escolta y piloto. Busca a Lev en los registros y encuentra un desertor acusado del golpe contra Viktor, con precio."
     - cuando: "19 años · cap. 1"
       que: "Empieza la Última Carrera en La Esclusa."
+    - cuando: "19 años · cap. 3"
+      que: "Huyendo de un mensajero por el Desguace, huele a Lev y se pregunta por primera vez en serio si se vinculó a él hace tres años. Lo encuentra muriéndose y le cierra la herida con el pneuma de su mensajero muerto. Le deja el respirador."
   sabe:
+    - "Desde el cap. 3, que puede estar vinculado a Lev. Lo rechaza"
     - "Que Hart fue el traidor"
     - "Que el teniente de Hestia desertó y tiene precio"
     - "Lo que era Fintan, y que el órgano es suyo"
@@ -146,7 +149,6 @@ personaje:
     - "Que Ken lo supo al verle la herida"
     - "Que fue Lev quien mató a Ken (hasta el cap. 18)"
     - "Qué le suplicó Ken a Lev"
-    - "Que ya está vinculado"
     - "Que Lin Mei es Nadia, y que Nadia mató a su padre"
 pendientes:
   - "Nombre del órgano (descartados: ka, fuelle, corazón)."
@@ -214,6 +216,8 @@ El pneuma puro se le pega al cuerpo y el órgano tira de él solo, sin que lo de
 
 Lo que sí controla, mal y en cantidades ridículas: **atraerlo con la mente, sacarlo por la piel y solidificarlo**. No es un conducto, es la mente, y lleva años practicando de noche con lo poco que conseguía, pneuma corriente, con el que apenas le salía nada. La teoría se la enseñó Fintan, o Grace, que investigó todo esto con él.
 
+Cada pneuma le cuesta distinto: el de humanos muertos le engarrota los dedos y el de minerales le hace sangrar la nariz. El del mensajero del [[cap-3|capítulo 3]], puro, responde como habría respondido ante Fintan.
+
 Lo que cambia en el [[cap-3|capítulo 3]] no es la habilidad, es el material.
 
 ### El arco del poder
@@ -264,7 +268,8 @@ Cada herida que cura el órgano se convierte en pneuma solidificado, como el cue
 Es antivínculo y antirromance, y no por postura: lo considera un trastorno, que es como lo trata la medicina de Hestia. Odia que les haga perder el control y que convierta a los suyos en «las perras de la galaxia», y lo dice con rabia, no con desprecio, **porque es lo que dicen de ellos y es medio verdad**.
 
 - Nunca se ha permitido nada con nadie, porque se está muriendo.
-- Lo peor cuando descubra que ya está vinculado no será a quién, sino que **le haya pasado a él**, que se creía por encima.
+- **Lo admite en el [[cap-3|capítulo 3]]** —«¿y si la había cagado hacía tres años?»— y se pasa el resto del libro rechazándolo, hasta que se cansa y cede.
+- Lo peor no es a quién, sino que **le haya pasado a él**, que se creía por encima.
 - Duerme a su lado, él que no duerme nunca, y le da una vergüenza horrible.
 - Le molesta ver a Nadia cerca de Lev, sin montar escenas ni actuar como un animal.
 - El casi beso de las quemaduras es para él un error químico grave, y entra en pánico.

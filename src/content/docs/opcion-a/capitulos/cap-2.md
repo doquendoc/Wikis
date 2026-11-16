@@ -11,7 +11,7 @@ ficha:
   - ["Al salir", "20 horas"]
 pendientes:
   - "Qué encuentran exactamente arriba, en el piso diez, más allá del pedestal."
-  - "En el borrador, el qhatu del ascensor dice que no ve «una línea en la nuca»: hay que adaptarlo al implante detrás de la oreja."
+  - "En el borrador, el qhatu del ascensor dice que no ve «una línea en la nuca»: hay que adaptarlo al implante en la sien."
   - "En el borrador aparece «el Mar de Chatarra»: ahora se llama el Desguace."
   - "Revisar el nombre de Lin Mei y cuándo lo da, ahora que la escena del bar y la del club se tocan."
 ---

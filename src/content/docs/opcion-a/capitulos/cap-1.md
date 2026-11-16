@@ -13,7 +13,7 @@ pendientes:
   - "Nombre definitivo del bar y alias de Senri en Tampu."
   - "Si Nadia no se enciende a medianoche, al no verse la marca bajo la armadura."
   - "Repasar caribeñismos («jalar el gatillo», «amarrado») y erratas de nombres (penuma, xiantiang, cchaya, Tres Ojos y Tercer Ojo alternando)."
-  - "En el borrador, la camarera «tiene la línea en la nuca»: hay que cambiarlo por el implante detrás de la oreja."
+  - "En el borrador, la camarera «tiene la línea en la nuca»: hay que cambiarlo por el implante en la sien."
 ---
 ## Escenario
 

@@ -49,7 +49,7 @@ personaje:
         nota: "[[cap-3|Capítulo 3]]."
       - tipo: "Parche"
         donde: "Abdomen, sobre el corte"
-        que: "Pneuma solidificado: el del cazador muerto, que Senri le aplasta contra la herida para taponarla. Se le queda en el cuerpo."
+        que: "Pneuma solidificado: el de su mensajero muerto, que Senri hace bajar sobre la herida para cubrirla y cerrarla. Se le queda en el cuerpo."
         nota: "[[cap-3|Capítulo 3]]. Puede ser lo que delate ante Ravdna que Senri absorbe pneuma."
       - tipo: "Daño interno"
         donde: "Termorregulación"
@@ -58,6 +58,7 @@ personaje:
     ropa: "La armadura negra del Nuevo Régimen (*skorlupa*), entera: capucha, máscara humidificadora y visor. Insignias tapadas con pintura y sin la capa."
     lleva:
       - "El rifle a la espalda"
+      - "El respirador de media cara de Senri, desde el [[cap-3|cap. 3]]: Senri lo deja junto a él en el contenedor"
       - "Una escultura de Mushi en el bolsillo, al final del libro"
   voz:
     habla: "Inglés formal con ruso. Frases cortas. Su acento ruso es fuerte. Insulta en ruso en voz baja."
@@ -183,7 +184,7 @@ Sus patrones cambian según lo que siente y se marcan más cuanto más caliente 
 |---|---|
 | [[cap-2\|Cap. 2]] · azotea | Bastón eléctrico de un kirk: el visor parpadea |
 | Cap. 2 · pasillo | Balazo de lado a lado; sella los agujeros con material de la propia armadura |
-| [[cap-3\|Cap. 3]] · el Fondo | La máscara, abollada: el humidificador deja de funcionar y respira el aire seco |
+| [[cap-3\|Cap. 3]] · el Fondo | El casco, agrietado: respira el aire seco del Fondo |
 | Cap. 3 · la arena | **Primera rotura:** un golpe le revienta el filtro y le apaga el visor. Se lo quita, y así recupera el olfato y la percepción justo antes del laberinto |
 | Cap. 10 · las ruinas | **Segunda y definitiva:** un pastor le revienta el torso |
 

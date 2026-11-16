@@ -1,85 +1,79 @@
 ---
-title: "Cap. 3 · El Fondo y la arena"
-description: "POV de Senri. La nave lo deja en el Desguace, no en la Fábrica, y el mensajero se transforma. Aquí conoce a Mushi y descubre que cada cazador muerto es comida."
+title: "Cap. 3 · El Fondo"
+description: "POV de Senri. La nave lo deja en el Desguace y el mensajero se transforma. Conoce a Mushi, se pierde en los almacenes, admite que puede estar vinculado a Lev y le salva la vida."
 sidebar:
   order: 4
 ficha:
   - ["POV", "Senri"]
-  - ["Dónde", "El Desguace → la Vieja Fábrica"]
-  - ["Gravedad", "1,3 – 1,5 g"]
-  - ["Temperatura", "35 – 40 °C"]
-  - ["Estado", "Escribiéndose"]
-  - ["Mide", "Si puedes dañar algo de pneuma"]
+  - ["Dónde", "El Desguace y los almacenes de la Fábrica"]
+  - ["Gravedad", "1,3 g"]
+  - ["Temperatura", "≈ 40 °C"]
+  - ["Estado", "Borrador escrito"]
+  - ["En la banda", "18 → 17 horas"]
 pendientes:
-  - "Cómo pierde exactamente al cazador."
-  - "La prueba de dentro de la fábrica, y qué fabricaba exactamente la planta."
-  - "Nombre de la mascarilla de media cara de Senri (de momento «el bozal» o «el respirador»). Se la acaba dejando a Lev, que la lleva puesta porque se está ahogando: hay que decidir cómo llega a sus manos y que no le tape la boca en las escenas en que haga falta verla."
-  - "Si el óxido de la calle se levanta como polvo al correr a 1,3 g, y qué pasa con los ojos de Senri."
+  - "La prueba de dentro de la Fábrica, y qué fabricaba exactamente la planta."
+  - "Nombre de la mascarilla de media cara: en el borrador salen «el bozal» y «el respirador». Elegir uno."
+  - "Qué es el tesoro que Mushi escupe y que «los terrícolas quieren», y cuándo se cobra."
+  - "Cómo llegó a los almacenes antes que Senri el xingtian muerto con banda: si a cada uno lo dejaron en un sitio distinto o si Senri iba en dirección contraria."
+  - "Recortar en el texto la historia de los kamakiri y la de los tesoros: frenan la persecución."
+  - "La escaleta antigua tenía que Senri descubría aquí que cada cazador muerto es comida. No está en el borrador: decidir si se queda para más adelante."
 ---
 ## Dónde pasa
 
-Condiciones completas en [[fondo|el Fondo]]. Lo que importa para este capítulo: **1,3 a 1,5 g, entre 35 y 40 °C, aire muy seco y pobre en oxígeno, polvo de óxido, y luces que funcionan por zonas y sin criterio**.
-
-A Senri le falta oxígeno justo donde más lo necesita y le cuesta el doble acelerar. A un iskra lo destroza: el calor le enciende los patrones, el aire seco lo ahoga y los cambios de luz lo dejan ciego una y otra vez.
+Condiciones completas en [[fondo|el Fondo]]: 1,3 g, unos cuarenta grados, poco oxígeno y la humedad del desierto. Después de tres años en Tampu, Senri se ha acostumbrado a ir más ligero que en Atalanta (1,15 g), y aquí lo nota en cada salto.
 
 ## El arranque
 
-La nave no lo lleva a la Fábrica: lo deja en el **Desguace**, en una zona a la que no entra nadie. Hay que ir a pie, con las chimeneas decorativas de la Fábrica como faro en el horizonte.
+La nave no lo lleva a la Fábrica: lo deja en el **Desguace**. Desde allí se ven las chimeneas decorativas, como un faro.
 
-Nada más bajar le llega **el olor de Lev**, su sangre, y siente el impulso de ir hacia él, lo que lo deja en pánico: eso pasa con la familia, y ese hombre podría ser uno de sus asesinos. Racionaliza por cualquier vía que no sea admitir que la cagó hace tres años.
+Al abrirse la puerta le llega **la sangre de Lev**, como un puñetazo: se le eriza la piel, se le dilatan las pupilas. Se dice que tiene que ser cosa de las bandas, algo pasajero. Lleva el respirador colgado y no se lo pone: casi prefiere una venda en los ojos a moverse por el Fondo sin olfato.
 
-Entonces el mensajero de su nave **se transforma**: los repartidores de la Viuda son cazadores. La prueba no es matarlo, es llegar vivo.
+El mensajero baja por la puerta del conductor y **se transforma**: cuatro brazos, dedos como cuchillos, rodillas dobladas hacia atrás, la cabeza aplanada y una boca llena de colmillos. «Puta Viuda.» Senri se sube el respirador y acelera.
+
+## La persecución
+
+Corren los dos, muy rápido. El polvo le hace llorar los ojos; los parches le palpitan. El mensajero corre a cuatro patas y **lo sigue por la banda**, como los guardianes del club: no tiene ojos. Matarlo no es opción: el núcleo de su torso no cae con una bala normal.
+
+Senri tuerce hacia **los almacenes de la Fábrica**: millas de contenedores que guardaron minerales pnéumicos, con el pneuma pegado a las paredes como moho. Es impuro, pero tan concentrado que lo ve a través del metal. La idea: ver si el mensajero se orienta igual de bien en un laberinto de metal. Salta una valla de tres metros que estuvo electrificada hace siglos; el mensajero la trepa en segundos.
+
+## Perdido
+
+Entre las torres de contenedores ya no ve las chimeneas. Acelerado, todos los sentidos le llegan a la vez y la cabeza se le va a cualquier parte: se le mete en bucle la cancioncita de las expendedoras. Se le acaba la energía, corta la aceleración y el dolor le llega de golpe, el mundo hecho puntitos negros. Sigue andando, comiendo barritas.
 
 ## Mushi
 
-Huyendo, Senri encuentra esculturas rotas por el suelo y avanza sin pisarlas.
+Cinco kirks y dos más desangrándose rodean a un [[kamakiri]] que se defiende con una sola cuchilla mientras muda las otras. Senri se dice que no es su problema. Su bota tropieza con una escultura —un kamakiri pegado a una montaña con patas— y se acuerda de las pinturas horribles de Ken, que nadie entendía y que aun así te hacían sentir algo. La deja en el suelo.
 
-Unos kirks tienen acorralado a [[mushi|Mushi]], herido, y Senri se dice que no es su problema, pero lo atacan también porque creen que viene a robarles la presa. Pelea esquivando las esculturas, Mushi se le sube al hombro, discuten mientras matan a los kirks, y **Senri atrapa por reflejo una escultura que se caía y la deja en el suelo**.
+Un kirk le dispara una red: «Es de los caros. **No tiene implante en la sien**.» El más grande: «Hay muchas perras con dueño por ahí.» *No era la perra de nadie.* El kamakiri aprovecha y le clava la cuchilla a uno; los kirks van a por Senri, y el kamakiri se le sube a la espalda y no se suelta. Pelean juntos, la cuchilla y la katana, mientras el mensajero busca la banda desde lo alto de las torres.
 
-Mushi le da las gracias y no se suelta: le pide quedarse con él hasta terminar la muda, porque no quiere volver a una jaula ni a matar humanos en Atalanta. Eso le llega a Senri, que sabía que los kirks usan a los kamakiri como armas, pero no que lo estuvieran haciendo en su planeta.
+Huyendo, [[mushi|Mushi]] negocia: que lo lleve hasta que termine de mudar, y le paga con un tesoro que escupe, algo que «los terrícolas quieren» y que tiene escondido. Senri lo llama *mushi*.
 
-## Hacia la fábrica
+## El rastro
 
-Senri echa a correr y se da cuenta de que **va hacia Lev otra vez**. Cambia de ruta, se topa con kirks, se desvía, y acaban en un callejón sin salida que Mushi abre con su única cuchilla sana.
+Tropiezan con un xingtian muerto con banda: llegó antes que él. Senri duda si va en dirección contraria. Necesita altura para ver las chimeneas, pero si sube, el mensajero lo encuentra.
 
-Salen por debajo de la [[fondo|Vieja Fábrica]]. Otros candidatos entran por otros sitios.
+Mushi le da otra salida: el metal que va dejando al mudar, desde donde viene, que está cerca de la Fábrica. «Kairos encontrar olor muy, muy lejos.» Senri se baja el respirador, huele, y **no va hacia la Fábrica: va hacia Lev**.
 
-## Mushi lo dice en voz alta
+## Lo admite
 
-Dentro, el olor a sangre es más fuerte y Senri se detiene a maldecir.
+Por primera vez se lo pregunta en serio: ¿y si no son las bandas? ¿Y si la cagó hace tres años y se vinculó a ese tipo? Se imagina las manos frías de Lev subiéndole por la espalda, y el cuerpo le responde.
 
-Mushi le pregunta si no debería alegrarse de estar más cerca de su pareja, le dice que está erizado y que **huele a lo que huelen los kairos cerca de su par**, y sigue hablando aunque Senri lo amenace.
-
-Senri recuerda a sus padres, y un amanecer de Hestia en el que se agachó a despertar a Lev, dormido sentado tras una guardia, y se quedó ahí más de la cuenta oliéndole el pelo. Piensa que es un idiota y que no debería haber llegado tan lejos.
+Se le cruza la idea de pegarle un tiro y dejar el problema en el Desguace. Mata en su lugar al último kirk. «No es mi puto par.» «Da igual lo que haga mi cuerpo. No soy un jodido animal.»
 
 ## Lev
 
-Lo encuentra inconsciente, con el cazador muerto al lado, sangrando por un corte en el abdomen y **con la máscara abollada**: el humidificador no le funciona y respira el aire seco del Fondo.
+El mensajero de Lev es **un charco de pneuma con la ropa negra flotando encima**; la arena no lo absorbe. Un rastro de sangre entra en un contenedor. Lev está tirado dentro: un corte en el abdomen, el zarevo casi apagado, el corazón apenas latiendo, el casco agrietado.
 
-Mushi dice que huele a estarse muriendo, y que los humanos no pueden oler tanta sangre; Senri sabe lo que significa eso. No sabe ni cómo abrirle la armadura.
+Senri podría irse. Mushi: «Kairos siempre en par. Si no, malo.» Senri sabe lo que es malo, y puede que lo viviera hace tres años, junto con la pérdida de su familia: cada vez que se hundía veía al teniente de diecinueve años con el que compartió tres semanas, al mismo nivel que su familia y su casa. Enfermizo. Enfunda el arma.
 
-### El mecanismo, paso a paso
+### El pneuma
 
-Del cazador que Lev acaba de matar solo queda **un charco de pneuma puro con la ropa negra encima**. Es la primera vez que Senri tiene pneuma puro y en cantidad: lo que cambia aquí no es la habilidad, es el material.
+Levanta la mano sobre el charco y **un hilo de plata sube a su llamada**. Mushi: «Tú noaidi.» Senri: «No soy lo mismo que ella.»
 
-1. Lo atrae con la mente.
-2. Le entra por la piel.
-3. Lo saca por la mano.
-4. Lo aplasta contra el corte.
-5. Lo solidifica.
+Le ordena al pneuma bajar, cubrir la herida y cerrarla, y obedece al momento. No le engarrota los dedos como el de los humanos muertos ni le hace sangrar la nariz como el de los minerales: **responde como habría respondido ante Fintan**, el devorador que murió para que él viviera. Mushi: «Pneuma curar. No sangre.»
 
-**No cura nada: le tapona la herida.** Y hace antes lo que no debería hacer con pneuma delante: acelera. El cuerpo se le calienta, el mundo va más despacio y todos sus sentidos se enfocan en el iskra, y trata de no pensar en lo que eso significa también.
+Lev vuelve a respirar; el zarevo brilla más. Ese pneuma se le queda en el cuerpo: es [[lev|su parche]].
 
-Sale peor que entró: lo que absorbió se le queda dentro y lo que expulsó lo ha perdido.
+## El final
 
-### Lo que descubre
-
-Que **cada cazador que maten es comida**. Es una tentación para el resto de la carrera y una línea que no quiere cruzar; esta vez se lo justifica porque es para otro.
-
-Corta la aceleración sin aire y con la cabeza a punto de estallar. Le pega el oído al pecho: el corazón le va más rápido que antes. Siente alivio, se da cuenta de lo que está haciendo y se aparta.
-
-## El final del capítulo
-
-Ve al cazador acercarse. Mushi le dice que esa cosa es difícil de matar. Senri no quiere dejar al iskra solo: **por eso mismo se va**, y cuando el cazador lo sigue, corre hacia el corazón de la fábrica.
-
-La idea para perderlo: usar el terreno —las torres de chatarra, las colmenas, los desniveles— y de paso a los kirks, que atacan a todo lo que se mueva y que a esa gravedad y ese calor juegan en casa.
+Senri no va más lejos. Mushi sube a la torre y señala la Fábrica. Antes de irse, **Senri tira su respirador dentro del contenedor**, junto a Lev. Sin explicarlo. *Esto sí es todo.*

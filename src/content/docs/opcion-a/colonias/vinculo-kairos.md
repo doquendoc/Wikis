@@ -10,14 +10,14 @@ ficha:
   - ["Veces en la vida", "Una"]
   - ["Nombre clínico", "Síndrome de impronta pneumática"]
 pendientes:
-  - "Nombre del implante de los cortados, que va detrás de la oreja: ya no es «la línea en la nuca» (descartados: el clavo, el freno, la chapa)."
-  - "Si el implante se ve o no desde fuera, ahora que cambió de sitio, y cómo lo lee el qhatu del ascensor en el cap. 2."
+  - "Nombre del implante de los cortados, que va en la sien (descartados: el clavo, el freno, la chapa)."
+  - "Cómo se ve desde fuera el implante de la sien."
 ---
 ## Cómo entra
 
 La vía es el **olfato**, como en los mamíferos monógamos: el olor individual es la firma que permite fijar a una persona concreta y no a otra.
 
-No vale taparse la nariz, porque la vía no es consciente. Hay que quitar el sistema entero, y por eso el implante de los cortados **se come el olfato**: ese es el coste real.
+No vale taparse la nariz, porque la vía no es consciente. Hay que quitar el sistema entero, y por eso el implante de los cortados, que va **en la sien**, **se come el olfato**: ese es el coste real.
 
 Pero oler no basta. Hacen falta deseo, tiempo y cercanía.
 

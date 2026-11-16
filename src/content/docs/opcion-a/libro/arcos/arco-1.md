@@ -9,6 +9,7 @@ ficha:
   - ["Escenario", "Tampu"]
   - ["Cuenta atrás", "3 días → horas"]
 pendientes:
+  - "Nombre de la competición: Carrera, Prueba u otro. El título del libro, *La Última Carrera*, depende de esto."
   - "Quedaban restos de una versión antigua en la que Senri se comía un núcleo de Ravdna: la fuerza para sujetar a Lev en el pozo (cap. 5), y en el cap. 6, que Ravdna notara un núcleo apagado y que Senri sintiera familiaridad con ella por sus recuerdos. Los he quitado; si algo de eso vuelve, hay que decidir de dónde sale."
   - "Idea: cuando Ravdna se da cuenta de que Senri absorbe pneuma, intenta matarlo ella misma. Podría notarlo por el parche que Lev lleva en el cuerpo desde el cap. 3."
   - "Si el secuestro va en capítulo propio (el libro pasaría a 31)."
@@ -43,7 +44,7 @@ Cada prueba replica un punto de la base donde murió un grupo anterior. **Ravdna
 
 **[[secuestro|El secuestro]]** · POV de Senri. Al final del 2 o en capítulo propio.
 
-**3 · [[cap-3|El Fondo y la arena]]** · POV de Senri. Ficha aparte.
+**3 · [[cap-3|El Fondo]]** · POV de Senri. Ficha aparte.
 
 ### 4 · El laberinto
 

@@ -9,7 +9,7 @@ sidebar:
 - [[senri|Senri]] le llega a [[lev|Lev]] **a la barbilla**.
 - [[leela|Leela]], a Senri **al pecho** y a Lev **a la cintura**.
 - [[nadia|Nadia]], a Lev **al hombro**.
-- Con [[mushi|Mushi]] a la espalda, Senri carga **40 kg extra**.
+- Con [[mushi|Mushi]] a la espalda, Senri carga **30 kg extra**.
 
 ## Qué nota cada uno
 

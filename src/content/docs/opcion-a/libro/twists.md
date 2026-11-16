@@ -15,7 +15,7 @@ pendientes:
 
 **La visita diplomática.** El teniente al que Senri le hizo gracia con un chiste, y que respondió *tak tochno*, mató a Ken esa misma noche.
 
-**El vínculo ya está hecho.** Senri se vinculó a Lev con dieciséis años, durante aquellas semanas, y lleva tres sin saberlo. El romance no es «¿pasará algo?», es **«¿cuándo se dará cuenta de que ya pasó?»**.
+**El vínculo ya está hecho.** Senri se vinculó a Lev con dieciséis años, durante aquellas tres semanas, y lleva tres años enterrándolo como parte del duelo. **En el [[cap-3|capítulo 3]] lo admite**: huele a Lev, se pregunta si la cagó entonces y le salva la vida. El resto del libro lo rechaza, hasta que se cansa y cede. El romance no es «¿pasará algo?» ni «¿se dará cuenta?», es **«¿cuándo va a dejar de negarlo?»**.
 
 Ken lo vio y se lo calló; a Lev lo apartó con otro argumento, que parecía una operación para usar al hijo de los Hayami, y Lev se fue creyendo eso. Nadie lo dijo nunca en voz alta, y esa misma noche Ken murió suplicándole por su hermano al hombre del que lo había apartado. Ver [[vinculo-kairos]].
 
