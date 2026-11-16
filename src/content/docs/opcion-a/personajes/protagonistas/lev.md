@@ -47,6 +47,10 @@ personaje:
         donde: "Abdomen, un corte"
         que: "La que Senri le tapona con el pneuma del cazador."
         nota: "[[cap-3|Capítulo 3]]."
+      - tipo: "Parche"
+        donde: "Abdomen, sobre el corte"
+        que: "Pneuma solidificado: el del cazador muerto, que Senri le aplasta contra la herida para taponarla. Se le queda en el cuerpo."
+        nota: "[[cap-3|Capítulo 3]]. Puede ser lo que delate ante Ravdna que Senri absorbe pneuma."
       - tipo: "Daño interno"
         donde: "Termorregulación"
         que: "Una herida del golpe se la dañó: sin armadura, su cuerpo se enfría y no remonta solo."
@@ -108,8 +112,8 @@ personaje:
     - con: "[[nadia|Nadia Orlova]]"
       es: "La conoce desde jóvenes. Lo ha salvado dos veces sin explicarse, y él lo interpreta como desprecio. Teme que Lin Mei sea ella y no quiere confirmarlo."
     - con: "[[leela|Leela]]"
-      lellama: "sahab, uncle"
-      es: "Le toca los pies en señal de respeto, entre el «uncle» y la burla."
+      lellama: "sahab"
+      es: "Lo trata con modales perfectos. Le toca los pies en señal de respeto, entre la cortesía y la burla."
     - con: "[[mushi|Mushi]]"
       es: "Guerra fría. Tira sus esculturas a la basura, y aun así acaba con una en el bolsillo."
     - con: "[[ravdna|Ravdna]]"
@@ -146,8 +150,6 @@ pendientes:
   - "Detalles de las llamaradas de Mrak: frecuencia, daño, cuánto tiempo les queda."
   - "Si llega a decirle alguna vez que lo notó entonces y se fue igual."
   - "Dónde tiene las cicatrices del golpe."
-  - "La bala del cap. 2: el borrador dice brazo y la escaleta decía pierna. Aquí va brazo."
-  - "Cómo lo llama Leela: en el borrador del cap. 2 es *sahab*; en la biblia era *uncle*."
 ---
 ## Personalidad
 

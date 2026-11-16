@@ -23,7 +23,7 @@ Ken lo vio y se lo calló; a Lev lo apartó con otro argumento, que parecía una
 
 | Revelación | Dónde | Quién lo sabía |
 |---|---|---|
-| El órgano de Senri es de un Ammit: por eso los guardianes lo ignoran y por eso cruza solo la trampa | Arco 2–4 | Nadie. Ni Ravdna ni Nadia |
+| El órgano de Senri es de un Ammit: por eso los guardianes lo ignoran y por eso cruza solo la trampa | Arco 2–4 | Ravdna, desde el cap. 6: sabe que un devorador murió por él. Nadia no |
 | La confesión de Lev, por decisión y no por descuido | Cap. 18 | Lev y el lector |
 | Nadie sabe qué hay en el contenedor | Cap. 24 | Solo Nadia lo descubre |
 | El contenedor es el hermano de Ravdna, y muere justo después de recuperarlo | Cap. 26–27 | Ravdna |

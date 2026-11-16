@@ -10,7 +10,7 @@ personaje:
   apodos:
     - "*Lin Mei* (su tapadera)"
     - "*Lin* (el grupo)"
-    - "*Mei*, *didi* (Leela)"
+    - "*didi* (Leela)"
     - "*nee-san* (Senri)"
   datos:
     - ["Altura", "1,80 m: alta para una xingtian"]
@@ -109,7 +109,7 @@ personaje:
     - "Lo que Senri lleva dentro"
 pendientes:
   - "Estatura exacta de Nadia, que es alta para una xingtian."
-  - "Si vio o no cómo Senri deshacía la moneda en La Máquina: la ficha antigua decía que sí; la escaleta del cap. 2, que solo vio que volvía con una. Aquí va la segunda."
+  - "Sin decidir si Nadia llega a saber cómo perdió Senri las monedas en La Máquina. De momento, lo que se entiende del cap. 2: solo ve que vuelve con una."
 ---
 ## Su petición
 

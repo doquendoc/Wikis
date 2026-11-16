@@ -42,7 +42,7 @@ personaje:
       - tipo: "Parches"
         donde: "Donde ha tenido heridas grandes"
         que: "Pneuma solidificado, gris y aceitoso, con vetas que se marcan cuando sufre, se cura o usa el pneuma."
-        nota: "Uno nuevo tras comerse un núcleo de Ravdna en la arena; lo descubre al fondo del pozo (cap. 5). Ver más abajo, en Los parches."
+        nota: "Le sale uno nuevo en el pozo (cap. 5). Ver más abajo, en Los parches."
       - tipo: "Injertos"
         donde: "Encima de los parches visibles"
         que: "Piel injertada carísima, con costuras que se notan de cerca."
@@ -122,7 +122,7 @@ personaje:
       lellama: "nee-san; Lin Mei"
       es: "Para él, una xingtian lista con café y libros de papel; en el pneuma, un vacío. Ella es la única que ve lo listo que es. Huele a café y papel viejo."
     - con: "[[ravdna|Ravdna]]"
-      es: "Su única salida. Siente una familiaridad incómoda con ella por los recuerdos que se tragó en el capítulo 6."
+      es: "Su única salida. Desde el cap. 6 sabe que un devorador murió por él, y lo necesita igual."
   cronologia:
     - cuando: "Infancia"
       que: "Familia japonesa y estadounidense de militares que protegen al consejo de Hestia. Pasa las tardes en el laboratorio de Grace, porque ve lo que ella estudia. Sabe lo que es Fintan; lo que no sabe hasta después es que el órgano que lleva dentro es suyo."
@@ -222,7 +222,6 @@ Lo que cambia en el [[cap-3|capítulo 3]] no es la habilidad, es el material.
 |---|---|
 | [[cap-2\|Cap. 2]] · las monedas | Absorbe sin querer y las pierde |
 | [[cap-3\|Cap. 3]] · el cazador | Primer uso dirigido: tapona la herida de Lev |
-| Cap. 3 · el núcleo de la arena | El órgano se come un núcleo de Ravdna: fuerza y lucidez (en el pozo puede sujetar a Lev), un parche nuevo y fragmentos de sus recuerdos. Quizá vuelve a dormir. En el cap. 6, Ravdna nota que uno de sus núcleos se apagó |
 | Cap. 10 · el pastor | Deshace y absorbe a la vez, y le entran recuerdos de prisioneros |
 | Cap. 21 · la piscina | Una cantidad enorme de golpe: fuerza, curación y el sufrimiento de miles de noaidi |
 | Cap. 25 · el eyector | Primer uso controlado, con destino |

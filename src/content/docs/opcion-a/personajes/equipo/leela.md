@@ -52,15 +52,15 @@ personaje:
       - "aankhen aapki hain (los ojos son tuyos)"
     llama:
       - ["[[senri|Senri]]", "*bhaiya*, nunca por el nombre. El día que se salte el protocolo será la señal de que ya lo considera suyo"]
-      - ["[[lev|Lev]]", "*sahab* (cap. 2); en la biblia, *uncle*"]
-      - ["[[nadia|Lin Mei]]", "*didi* (cap. 2); *Mei*"]
+      - ["[[lev|Lev]]", "*sahab*"]
+      - ["[[nadia|Lin Mei]]", "*didi*"]
       - ["Un qhatu", "*tío*"]
     manias:
       - "Siempre pide permiso antes de una ilusión. Si le preguntan por qué: *aankhen aapki hain*"
       - "Pide en vez de robar a las personas, por cálculo: nunca sabes lo que vale un objeto para su dueño. A un local sí le roba"
       - "Si le dicen que no, lo acepta y se va"
       - "Llora a voluntad"
-      - "Le toca los pies a Lev en señal de respeto, entre el «uncle» y la burla"
+      - "Le toca los pies a Lev en señal de respeto, entre la cortesía y la burla"
       - "Proyecta reflejos mientras duerme: lleva dieciocho meses enseñándole sus pesadillas a desconocidos"
     gusta:
       - "Los dulces; las barritas Pasión Verde son sus favoritas"
@@ -94,10 +94,10 @@ personaje:
       lellama: "bhaiya"
       es: "La alimenta a regañadientes desde el bar. Le tira del pelo como hacía con Hana. Algún día ella le ata un *rakhi*: el hilo que las hermanas atan a sus hermanos para que las protejan."
     - con: "[[lev|Lev]]"
-      lellama: "sahab, uncle"
+      lellama: "sahab"
       es: "Sabe que es iskra desde el principio, por el acento, y lo trata con modales perfectos porque trata bien a todo el mundo."
     - con: "[[nadia|Lin Mei]]"
-      lellama: "didi, Mei"
+      lellama: "didi"
       es: "Le copia el truco de juntar las bandas en el bar. Reconoce la tecnología de su armadura y se lo calla."
     - con: "[[mushi|Mushi]]"
       es: "Lo único que le recuerda a Laddoo es que come sin parar. Le da metal y le pone lazos rosas."
@@ -118,7 +118,6 @@ personaje:
     - "Cuándo miente cualquiera"
     - "Que Senri lleva injertos: ve las costuras"
 pendientes:
-  - "Cómo se dirige exactamente a Lev y a Nadia: el borrador usa *sahab* y *didi*; la biblia decía *uncle* y *Mei*."
   - "En qué momento rompe el protocolo con Senri."
   - "Momentos propios suyos en los arcos 2 y 3."
 ---

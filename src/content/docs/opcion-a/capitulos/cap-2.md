@@ -55,7 +55,7 @@ Lev iba a irse cuando entran un par de tipos, miran la escena, el pedestal y lo 
 
 ## En el ascensor
 
-Solos otra vez. A Lev le ha entrado y salido una bala en la pierna: se cierra la herida y **sella el agujero de la armadura con material de la propia armadura**, aguantando el dolor sin que se le note. Ver [[lev]]: la armadura se degrada golpe a golpe durante todo el libro, hasta la rotura definitiva en la base.
+Solos otra vez. A Lev le ha entrado y salido una bala en el brazo: se cierra la herida y **sella los agujeros de la armadura con material de la propia armadura**, aguantando el dolor sin que se le note. Ver [[lev]]: la armadura se degrada golpe a golpe durante todo el libro, hasta la rotura definitiva en la base.
 
 Senri le pregunta de qué va, le dice que no le pidió ayuda y le pregunta por qué lo hizo. Lev no responde: todas las respuestas que tiene lo harían sentir peor. Senri golpea la pared y no dice nada más.
 

@@ -9,6 +9,8 @@ ficha:
   - ["Escenario", "Tampu"]
   - ["Cuenta atrás", "3 días → horas"]
 pendientes:
+  - "Quedaban restos de una versión antigua en la que Senri se comía un núcleo de Ravdna: la fuerza para sujetar a Lev en el pozo (cap. 5), y en el cap. 6, que Ravdna notara un núcleo apagado y que Senri sintiera familiaridad con ella por sus recuerdos. Los he quitado; si algo de eso vuelve, hay que decidir de dónde sale."
+  - "Idea: cuando Ravdna se da cuenta de que Senri absorbe pneuma, intenta matarlo ella misma. Podría notarlo por el parche que Lev lleva en el cuerpo desde el cap. 3."
   - "Si el secuestro va en capítulo propio (el libro pasaría a 31)."
   - "Si Nadia nota antes o después lo que hace Senri con el pneuma: de momento, lo que la hace quererlo vivo es reconocerlo como el hijo de los Hayami."
 ---
@@ -57,7 +59,7 @@ A medio camino todo cambia a luz cegadora, calor y estruendo, y el sol lo deslum
 
 Nadia llega la última. Los rezagados atacan; la sangre de los muertos cambia los patrones del suelo; falta sangre, Lev vacía su trago sobre ella y extienden alcohol hasta cubrirlo; aparece un puzzle que resuelven Senri y Nadia. [[leela|Leela]] cruza primero.
 
-En el pozo los ataca alguien que va a por Lev —tiene precio y lo busca mucha gente, no solo iskra—. Lev resbala y Senri, con la fuerza del núcleo, lo sujeta. **Caen de la mano**, y es puro reflejo: la deuda ya estaba pagada.
+En el pozo los ataca alguien que va a por Lev —tiene precio y lo busca mucha gente, no solo iskra—. Lev resbala y Senri lo sujeta. **Caen de la mano**, y es puro reflejo: la deuda ya estaba pagada.
 
 Abajo, Lev guarda el arma. Senri descubre un parche nuevo.
 
@@ -80,4 +82,4 @@ Senri llega quinto: dentro están Leela, Lev, Nadia y otro kairos, y [[ravdna|Ra
 
 Ravdna ya sabe que un devorador murió por él, y se pregunta si lo que Fintan estaba haciendo era empezar otra vez. **Ha prometido los mismos dos núcleos dos veces, y ellos no lo saben.**
 
-Senri siente una familiaridad incómoda con ella por los fragmentos de recuerdos que se tragó. Ravdna nota que uno de sus núcleos se apagó, sin saber por qué. Cruzan su portal.
+Cruzan su portal.

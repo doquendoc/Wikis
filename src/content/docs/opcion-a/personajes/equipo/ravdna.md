@@ -84,7 +84,7 @@ personaje:
 pendientes:
   - "Confirmar capacidades y límites: están escritos como propuesta."
   - "Nombre definitivo del hermano bebé (propuesta: Áile)."
-  - "Twists dice que Ravdna no sabía que el órgano de Senri era de un Ammit; el arco 1 dice que en el cap. 6 ya sabe que un devorador murió por él. Hay que dejar una sola versión."
+  - "Idea: cuando se da cuenta de que Senri absorbe pneuma, intenta matarlo ella misma. Podría notarlo por el parche que Lev lleva en el cuerpo desde el cap. 3."
 ---
 ## Su historia en Tampu
 
