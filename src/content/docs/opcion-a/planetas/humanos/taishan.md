@@ -5,17 +5,57 @@ sidebar:
   order: 4
 ficha:
   - ["Colonia", "[[xingtian|Xingtian]] · Jingwei"]
+  - ["Capital", "Tianzhu (por confirmar)"]
   - ["Gravedad", "1,7 g"]
   - ["Atmósfera", "Densa, a alta presión"]
   - ["Clima", "Calor seco"]
   - ["Paisaje", "Mineral"]
   - ["Idioma", "Mandarín"]
 pendientes:
+  - "Confirmar las secciones marcadas: capital (Tianzhu), paisaje, fauna (pixiu) y flora."
   - "Temperatura en cifras, luz y duración del día."
 ---
 ## El planeta
 
 1,7 g, atmósfera densa a alta presión, calor seco y mineral.
+
+## Capital
+
+:::caution[Por confirmar]
+Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
+:::
+
+**Tianzhu** (en chino, *el pilar del cielo*). La montaña que en los mitos sostiene el cielo, aquí vaciada por dentro: la ciudad está excavada en una montaña bajo una cúpula. Arriba, los mayores astilleros de las colonias; abajo, kilómetros de galerías de techo bajo, que es como les gusta vivir.
+
+## Paisaje y clima
+
+:::caution[Por confirmar]
+Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
+:::
+
+Con una atmósfera tan densa, el cielo es amarillento y opaco, y el horizonte se ve doblado hacia arriba. **El cielo parece bajo, como si pesara**, y eso es parte de lo que los agobia del cielo abierto.
+
+El viento es lento pero arrastra polvo y arena como un muro, y cuando llega una tormenta de polvo no se ve nada durante días. Llanuras de sal y basalto, cañones excavados por el viento y un calor seco que no baja de noche.
+
+## Fauna
+
+:::caution[Por confirmar]
+Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
+:::
+
+- **El *pixiu***, la bestia excavadora del injerto xingtian. El nombre viene de un animal mítico chino que come oro y plata. Este come roca y minerales, y abre túneles que duran siglos: las primeras galerías de Tianzhu fueron suyas.
+- **Planeadores**: animales planos como rayas que flotan a poca altura sobre el aire denso. Volar de verdad, con 1,7 g, casi nada puede.
+- Todo lo demás es bajo, macizo y blindado, y vive pegado al suelo o debajo de él.
+
+## Flora
+
+:::caution[Por confirmar]
+Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
+:::
+
+- **Bosques de piedra**: plantas que crecen cristales de mineral para protegerse y parecen rocas hasta que florecen.
+- Líquenes en costras de colores sobre el basalto.
+- Granjas de hongos en las galerías, que es casi todo lo que comen.
 
 ## Lo que hace con los xingtian
 

@@ -17,12 +17,14 @@ pendientes:
 
 ## Los planetas
 
-| | Planeta | Gravedad | Temperatura | Aire | Luz |
-|---|---|---|---|---|---|
-| [[kairos]] | [[atalanta]] | 1,15 g | Caliente | Húmedo, rico en oxígeno | Tormentas |
-| [[iskra]] | [[mrak]] | 1 g | 5 – 10 °C | Niebla y humedad | Tenue; enana roja con llamaradas |
-| [[chhaya]] | [[marichi]] | Algo menos de 1 g | Días ardientes, noches heladas | Fino y seco | Sol intenso |
-| [[xingtian]] | [[taishan]] | 1,7 g | Calor seco | Denso, a alta presión | — |
+| | Planeta | Capital | Gravedad | Temperatura | Aire | Luz |
+|---|---|---|---|---|---|---|
+| [[kairos]] | [[atalanta]] | Pritaneo* | 1,15 g | Caliente | Húmedo, rico en oxígeno | Tormentas |
+| [[iskra]] | [[mrak]] | Lampada* | 1 g | 5 – 10 °C | Niebla y humedad | Tenue; enana roja con llamaradas |
+| [[chhaya]] | [[marichi]] | Amaravati* | Algo menos de 1 g | Días ardientes, noches heladas | Fino y seco | Sol intenso |
+| [[xingtian]] | [[taishan]] | Tianzhu* | 1,7 g | Calor seco | Denso, a alta presión | — |
+
+\* Por confirmar.
 
 Todos los mundos, también los de otras especies, en [[planetas]].
 

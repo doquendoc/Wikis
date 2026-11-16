@@ -6,6 +6,7 @@ sidebar:
 ficha:
   - ["Planeta", "[[marichi|Marichi]] (rayo de luz y espejismo)"]
   - ["Colonia", "Indraprastha"]
+  - ["Capital", "[[marichi|Amaravati]] (por confirmar)"]
   - ["Gravedad", "Algo menos de 1 g"]
   - ["Clima", "Estepa alta: días ardientes, noches heladas"]
   - ["Aire", "Fino y seco"]

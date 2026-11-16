@@ -6,6 +6,7 @@ sidebar:
 ficha:
   - ["Planeta", "[[taishan|Taishan]]"]
   - ["Colonia", "Jingwei"]
+  - ["Capital", "[[taishan|Tianzhu]] (por confirmar)"]
   - ["Gravedad", "1,7 g"]
   - ["Atmósfera", "Densa, a alta presión"]
   - ["Clima", "Calor seco, mineral"]

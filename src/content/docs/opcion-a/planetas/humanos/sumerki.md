@@ -10,11 +10,20 @@ ficha:
   - ["En los registros", "Un código de catálogo"]
   - ["Viaje", "Solo de ida"]
 pendientes:
+  - "Confirmar lo que se sabe de Sumerki por las sondas."
   - "Condiciones del planeta: gravedad, temperatura, aire y luz."
 ---
 ## El planeta
 
 Un planeta adecuado para los iskra, verificado, en un sistema de la misma galaxia pero a cientos de años luz. En los registros figura con un código de catálogo; la gente lo llama Sumerki, *crepúsculo*.
+
+## Cómo es
+
+:::caution[Por confirmar]
+Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
+:::
+
+Lo que se sabe sale de las sondas. Orbita una estrella fría y tranquila, **sin llamaradas**, que es lo que lo hace adecuado. Es un mundo de crepúsculo perpetuo, frío y húmedo, con niebla y gravedad cercana a 1 g. Las sondas registraron vida, pero nadie la ha visto de cerca. Es un Mrak sin la estrella que lo está matando.
 
 ## El problema
 

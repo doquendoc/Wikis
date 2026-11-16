@@ -6,6 +6,7 @@ sidebar:
 ficha:
   - ["Planeta", "[[atalanta|Atalanta]]"]
   - ["Colonia", "Hestia"]
+  - ["Capital", "[[atalanta|Pritaneo]] (por confirmar)"]
   - ["Gravedad", "1,15 g"]
   - ["Clima", "Selva caliente y húmeda, con tormentas"]
   - ["Oxígeno", "Rico"]

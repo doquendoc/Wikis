@@ -6,6 +6,7 @@ sidebar:
 ficha:
   - ["Planeta", "[[mrak|Mrak]] (oscuridad)"]
   - ["Colonia", "Ogonyok (llamita)"]
+  - ["Capital", "[[mrak|Lampada]] (por confirmar)"]
   - ["Gravedad", "1 g"]
   - ["Temperatura", "5 – 10 °C"]
   - ["Aire", "Niebla y humedad"]
