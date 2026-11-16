@@ -11,7 +11,7 @@ ficha:
 ---
 Especie gigante de la misma galaxia que los [[noaidi]], aliados o parientes suyos: de ahí los núcleos de pneuma de su nave, que dieron las cuatro arcas humanas.
 
-Huían de los [[ammit|Ammit]] igual que ellos. Su planeta se había destruido por algo natural, así que se mudaban. Algo salió mal en el viaje, el piloto automático detectó vida avanzada y aparcó en la Tierra, y murieron al contacto con el oxígeno.
+Huían de los [[ammit|Ammit]] igual que ellos. Su planeta se había destruido por algo natural, así que se mudaban. Algo salió mal en el viaje, el piloto automático detectó vida avanzada y aparcó en la Tierra, y murieron al contacto con el oxígeno. Ver [[mundo-nefilim]].
 
 Dejaron dos cosas: cuatro núcleos y un mapa de colonias. Los humanos usaron ambas. Ver [[historia]].
 

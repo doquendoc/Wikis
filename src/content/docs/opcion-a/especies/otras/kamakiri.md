@@ -19,7 +19,7 @@ Dos brazos largos con manitas de bebé y nada de piernas, así que se abrazan a 
 
 ## De dónde vienen
 
-Vivían pegados al lomo de unas bestias forradas en metal que se pasaban el día pastando minerales, y se alimentaban de sus escamas: eran parásitos.
+Vivían pegados al lomo de unas bestias forradas en metal que se pasaban el día pastando minerales, y se alimentaban de sus escamas: eran parásitos. Ver [[mundo-kamakiri]].
 
 Los [[niwashi]] volvieron pensantes a las bestias, y con el tiempo, agresivas. Los kamakiri evolucionaron con ellas y empezaron a usar las cuchillas para matar a sus enemigos en vez de para parasitar. Los [[qhatu]] les echaron el ojo y los ascendieron de parásitos a **armamento pesado**.
 

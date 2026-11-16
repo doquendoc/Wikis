@@ -4,9 +4,12 @@ description: "Proyectan lo que quieren que veas, y mientras duermen proyectan lo
 sidebar:
   order: 5
 ficha:
-  - ["Planeta", "Marichi (rayo de luz y espejismo)"]
+  - ["Planeta", "[[marichi|Marichi]] (rayo de luz y espejismo)"]
   - ["Colonia", "Indraprastha"]
   - ["Gravedad", "Algo menos de 1 g"]
+  - ["Clima", "Estepa alta: días ardientes, noches heladas"]
+  - ["Aire", "Fino y seco"]
+  - ["Luz", "Sol intenso"]
   - ["Injerto", "Presa con señuelos + rapaces"]
   - ["Combustible", "Glucosa"]
   - ["Idioma", "Hindi y sánscrito"]
@@ -14,6 +17,8 @@ ficha:
 ## Planeta
 
 Algo menos de 1 g, estepa a gran altitud, aire fino y seco, sol intenso, días ardientes y noches heladas, depredadores aéreos.
+
+Más en [[marichi]].
 
 ## Injerto
 

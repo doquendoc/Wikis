@@ -4,9 +4,11 @@ description: "Construidos más que esculpidos. La colonia más poderosa, y la qu
 sidebar:
   order: 6
 ficha:
-  - ["Planeta", "Taishan"]
+  - ["Planeta", "[[taishan|Taishan]]"]
   - ["Colonia", "Jingwei"]
   - ["Gravedad", "1,7 g"]
+  - ["Atmósfera", "Densa, a alta presión"]
+  - ["Clima", "Calor seco, mineral"]
   - ["Injerto", "Fauna excavadora pesada"]
   - ["Idioma", "Mandarín"]
   - ["En la guerra", "Se preparan para atacar"]
@@ -14,6 +16,8 @@ ficha:
 ## Planeta
 
 1,7 g, atmósfera densa a alta presión, calor seco, mineral.
+
+Más en [[taishan]].
 
 ## Injerto
 

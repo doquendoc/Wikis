@@ -4,16 +4,20 @@ description: "La subespecie que pasa por humana hasta que se mueve. Un depredado
 sidebar:
   order: 2
 ficha:
-  - ["Planeta", "Atalanta"]
+  - ["Planeta", "[[atalanta|Atalanta]]"]
   - ["Colonia", "Hestia"]
   - ["Gravedad", "1,15 g"]
-  - ["Temperatura", "≈ 39 °C"]
+  - ["Clima", "Selva caliente y húmeda, con tormentas"]
+  - ["Oxígeno", "Rico"]
+  - ["Temp. corporal", "≈ 39 °C"]
   - ["Injerto", "La díada"]
   - ["Idioma", "Inglés"]
 ---
 ## Planeta
 
 1,15 g, selva densa, caliente y húmeda, rica en oxígeno, con tormentas. Depredadores rapidísimos, eliminados a tiros en las zonas habitadas.
+
+Más en [[atalanta]].
 
 ## Injerto
 

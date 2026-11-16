@@ -38,3 +38,5 @@ Comerciantes neutrales. Son los dueños de Tampu y los que pusieron sus reglas, 
 ## Hogar
 
 Mares poco profundos con mareas enormes. Evolucionaron de organismos que se apilaban como arrecifes.
+
+Ver [[mundo-qhatu]].

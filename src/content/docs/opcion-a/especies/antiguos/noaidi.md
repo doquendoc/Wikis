@@ -34,3 +34,5 @@ Crean un contenedor de pneuma donde crece la descendencia. Lleva mucho tiempo y 
 ## Hogar
 
 Un mundo riquísimo en pneuma: el primer festín de los Ammit. Sus ciudades eran de pneuma solidificado y se disolvieron al morir ellos, así que hoy es un planeta vacío, casi sin ruinas.
+
+Ver [[mundo-noaidi]].

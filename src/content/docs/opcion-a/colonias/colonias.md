@@ -15,6 +15,17 @@ pendientes:
 | [[chhaya]] *(sánscrito: sombra, el doble)* | India | Coalición del Golfo (financió), Francia | Hindi y sánscrito | Marichi *(rayo de luz y espejismo)* | Indraprastha |
 | [[xingtian]] *(el guerrero que siguió luchando sin cabeza)* | China | Brasil, Pakistán | Mandarín | Taishan | Jingwei |
 
+## Los planetas
+
+| | Planeta | Gravedad | Temperatura | Aire | Luz |
+|---|---|---|---|---|---|
+| [[kairos]] | [[atalanta]] | 1,15 g | Caliente | Húmedo, rico en oxígeno | Tormentas |
+| [[iskra]] | [[mrak]] | 1 g | 5 – 10 °C | Niebla y humedad | Tenue; enana roja con llamaradas |
+| [[chhaya]] | [[marichi]] | Algo menos de 1 g | Días ardientes, noches heladas | Fino y seco | Sol intenso |
+| [[xingtian]] | [[taishan]] | 1,7 g | Calor seco | Denso, a alta presión | — |
+
+Todos los mundos, también los de otras especies, en [[planetas]].
+
 ## La regla general
 
 Cada rasgo heredado es **una preferencia del cuerpo, no una necesidad**, y la tecnología y las ciudades de cada colonia están diseñadas alrededor de él.

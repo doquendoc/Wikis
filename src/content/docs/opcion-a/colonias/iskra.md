@@ -4,10 +4,13 @@ description: "Un mundo tenue, no oscuro. Lo que los hace iskra es la piel, y la 
 sidebar:
   order: 4
 ficha:
-  - ["Planeta", "Mrak (oscuridad)"]
+  - ["Planeta", "[[mrak|Mrak]] (oscuridad)"]
   - ["Colonia", "Ogonyok (llamita)"]
   - ["Gravedad", "1 g"]
-  - ["Temperatura", "≈ 35,5 °C"]
+  - ["Temperatura", "5 – 10 °C"]
+  - ["Aire", "Niebla y humedad"]
+  - ["Luz", "Tenue; enana roja con llamaradas"]
+  - ["Temp. corporal", "≈ 35,5 °C"]
   - ["Pulso", "≈ 40 ppm"]
   - ["Idioma", "Ruso"]
 ---
@@ -18,6 +21,8 @@ ficha:
 No es un mundo oscuro, sino **tenue**: minerales fosforescentes, flora y fauna bioluminiscente y el pneuma de todo lo vivo marcándose en la niebla lo alumbran desde dentro, y la estrella apenas aporta. Su fauna, los *likho*, se volvió agresiva por la radiación.
 
 Las llamaradas de su estrella son cada vez más fuertes y frecuentes: la radiación enferma a la gente, daña a los niños antes de nacer y hace la superficie inhabitable. Les tocó el planeta más cruel, y esa es la raíz de la guerra.
+
+Más en [[mrak]].
 
 ## Injerto
 

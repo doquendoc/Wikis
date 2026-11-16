@@ -36,6 +36,8 @@ Un planeta de gravedad alta (1,3 g), atmósfera densa, caliente y seca, muy radi
 
 No les gusta su mundo: lo quieren dejar, igual que los [[iskra]].
 
+Ver [[mundo-kirks]].
+
 ## Dieta
 
 Omnívoros oportunistas. Comen carroña, raíces y lo que haya, aguantan comida pasada y agua sucia, comen mucho de golpe y luego resisten días. En Tampu comen lo que nadie quiere, y por eso los qhatu los toleran: limpian.

@@ -20,3 +20,5 @@ Pacíficos, tranquilos y comilones. Se alquilan como guardias, porteros y luchad
 ## Hogar
 
 Un mundo bombardeado sin parar por rocas y meteoritos. De ahí las placas.
+
+Ver [[mundo-baatar]].

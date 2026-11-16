@@ -28,6 +28,13 @@ export const HISTORIAS = [
         ],
       },
       { dir: 'colonias', label: 'Colonias humanas' },
+      {
+        dir: 'planetas', label: 'Planetas',
+        sub: [
+          { dir: 'humanos', label: 'Mundos humanos' },
+          { dir: 'otros', label: 'Otros mundos' },
+        ],
+      },
     ],
   },
 ];
