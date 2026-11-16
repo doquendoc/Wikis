@@ -4,7 +4,7 @@ description: "El planeta de los kairos. Selva caliente, húmeda y rica en oxíge
 sidebar:
   order: 1
 ficha:
-  - ["Colonia", "[[kairos|Kairos]] · Hestia"]
+  - ["Subespecie", "[[kairos|Kairos]]"]
   - ["Capital", "[[hestia|Hestia]]"]
   - ["Gravedad", "1,15 g"]
   - ["Clima", "Caliente y húmedo, con tormentas"]
@@ -22,7 +22,7 @@ pendientes:
 
 ## Capital
 
-**[[hestia|Hestia]]**, que da nombre a la colonia. Sus lugares, y lo que pasó en cada uno la noche del ataque, en su página.
+**[[hestia|Hestia]]**. Sus lugares, y lo que pasó en cada uno la noche del ataque, en su página.
 
 ## Paisaje y clima
 

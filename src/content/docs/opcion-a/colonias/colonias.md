@@ -8,23 +8,21 @@ pendientes:
 ---
 ## La tabla
 
-| Subespecie | Capitanía | Socios | Idioma | Planeta | Colonia |
+| Subespecie | Capitanía | Socios | Idioma | Planeta | Capital |
 |---|---|---|---|---|---|
-| [[kairos]] *(griego: el instante justo)* | EE. UU. | Japón, Corea del Sur, Alemania, Italia, Reino Unido | Inglés | Atalanta | Hestia |
-| [[iskra]] *(ruso: chispa)* | Rusia | Kazajistán, Bielorrusia | Ruso | Mrak *(oscuridad)* | Ogonyok *(llamita)* |
-| [[chhaya]] *(sánscrito: sombra, el doble)* | India | Coalición del Golfo (financió), Francia | Hindi y sánscrito | Marichi *(rayo de luz y espejismo)* | Indraprastha |
-| [[xingtian]] *(el guerrero que siguió luchando sin cabeza)* | China | Brasil, Pakistán | Mandarín | Taishan | Jingwei |
+| [[kairos]] *(griego: el instante justo)* | EE. UU. | Japón, Corea del Sur, Alemania, Italia, Reino Unido | Inglés | [[atalanta]] | [[hestia]] |
+| [[iskra]] *(ruso: chispa)* | Rusia | Kazajistán, Bielorrusia | Ruso | [[mrak]] *(oscuridad)* | Ogonyok *(llamita)* |
+| [[chhaya]] *(sánscrito: sombra, el doble)* | India | Coalición del Golfo (financió), Francia | Hindi y sánscrito | [[marichi]] *(rayo de luz y espejismo)* | Indraprastha |
+| [[xingtian]] *(el guerrero que siguió luchando sin cabeza)* | China | Brasil, Pakistán | Mandarín | [[taishan]] | Jingwei |
 
 ## Los planetas
 
 | | Planeta | Capital | Gravedad | Temperatura | Aire | Luz |
 |---|---|---|---|---|---|---|
 | [[kairos]] | [[atalanta]] | [[hestia]] | 1,15 g | Caliente | Húmedo, rico en oxígeno | Tormentas |
-| [[iskra]] | [[mrak]] | Lampada* | 1 g | 5 – 10 °C | Niebla y humedad | Tenue; enana roja con llamaradas |
-| [[chhaya]] | [[marichi]] | Amaravati* | Algo menos de 1 g | Días ardientes, noches heladas | Fino y seco | Sol intenso |
-| [[xingtian]] | [[taishan]] | Tianzhu* | 1,7 g | Calor seco | Denso, a alta presión | — |
-
-\* Por confirmar.
+| [[iskra]] | [[mrak]] | Ogonyok | 1 g | 5 – 10 °C | Niebla y humedad | Tenue; enana roja con llamaradas |
+| [[chhaya]] | [[marichi]] | Indraprastha | Algo menos de 1 g | Días ardientes, noches heladas | Fino y seco | Sol intenso |
+| [[xingtian]] | [[taishan]] | Jingwei | 1,7 g | Calor seco | Denso, a alta presión | — |
 
 Todos los mundos, también los de otras especies, en [[planetas]].
 

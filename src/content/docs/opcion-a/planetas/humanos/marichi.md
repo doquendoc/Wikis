@@ -5,8 +5,8 @@ sidebar:
   order: 4
 ficha:
   - ["Nombre", "Sánscrito: rayo de luz y espejismo"]
-  - ["Colonia", "[[chhaya|Chhaya]] · Indraprastha"]
-  - ["Capital", "Amaravati (por confirmar)"]
+  - ["Subespecie", "[[chhaya|Chhaya]]"]
+  - ["Capital", "Indraprastha"]
   - ["Gravedad", "Algo menos de 1 g"]
   - ["Paisaje", "Estepa a gran altitud"]
   - ["Aire", "Fino y seco"]
@@ -15,7 +15,7 @@ ficha:
   - ["Fauna", "Depredadores aéreos"]
   - ["Idioma", "Hindi y sánscrito"]
 pendientes:
-  - "Confirmar las secciones marcadas: capital (Amaravati), paisaje, fauna (mayavi, garudas) y flora (chandani)."
+  - "Confirmar las secciones marcadas: la capital, paisaje, fauna (mayavi, garudas) y flora (chandani)."
   - "Temperaturas en cifras y duración del día."
 ---
 ## El planeta
@@ -26,11 +26,11 @@ En la estepa crece **un arbusto rico en pneuma** cuya savia, mezclada con henna,
 
 ## Capital
 
+**Indraprastha**, *la llanura de Indra*: la capital de los Pándavas en el *Mahábharata*.
+
 :::caution[Por confirmar]
 Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
 :::
-
-**Amaravati**, la ciudad celeste de Indra. Si la colonia es Indraprastha, *la llanura de Indra*, la capital es su cielo.
 
 Construida en lo alto de una meseta, con fachadas claras y cristal por todas partes para que entre la luz: los chhaya buscan el sol y se tumban bajo cualquier lámpara. Allí está el palacio de la familia real, el de [[leela|Leela]], y los grandes teatros de ilusiones. Las casas tienen habitaciones aisladas para dormir.
 

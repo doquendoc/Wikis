@@ -4,15 +4,15 @@ description: "El planeta de los xingtian. Gravedad altísima, atmósfera densa a
 sidebar:
   order: 5
 ficha:
-  - ["Colonia", "[[xingtian|Xingtian]] · Jingwei"]
-  - ["Capital", "Tianzhu (por confirmar)"]
+  - ["Subespecie", "[[xingtian|Xingtian]]"]
+  - ["Capital", "Jingwei"]
   - ["Gravedad", "1,7 g"]
   - ["Atmósfera", "Densa, a alta presión"]
   - ["Clima", "Calor seco"]
   - ["Paisaje", "Mineral"]
   - ["Idioma", "Mandarín"]
 pendientes:
-  - "Confirmar las secciones marcadas: capital (Tianzhu), paisaje, fauna (pixiu) y flora."
+  - "Confirmar las secciones marcadas: la capital, paisaje, fauna (pixiu) y flora."
   - "Temperatura en cifras, luz y duración del día."
 ---
 ## El planeta
@@ -21,11 +21,13 @@ pendientes:
 
 ## Capital
 
+**Jingwei**, el pájaro del mito chino que intenta llenar el mar a base de piedrecitas, una a una, sin rendirse nunca. Le pega a un pueblo de proverbios de paciencia.
+
 :::caution[Por confirmar]
 Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
 :::
 
-**Tianzhu** (en chino, *el pilar del cielo*). La montaña que en los mitos sostiene el cielo, aquí vaciada por dentro: la ciudad está excavada en una montaña bajo una cúpula. Arriba, los mayores astilleros de las colonias; abajo, kilómetros de galerías de techo bajo, que es como les gusta vivir.
+Excavada dentro de una montaña, bajo una cúpula. Arriba, los mayores astilleros de las colonias; abajo, kilómetros de galerías de techo bajo, que es como les gusta vivir.
 
 ## Paisaje y clima
 
@@ -43,7 +45,7 @@ El viento es lento pero arrastra polvo y arena como un muro, y cuando llega una 
 Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
 :::
 
-- **El *pixiu***, la bestia excavadora del injerto xingtian. El nombre viene de un animal mítico chino que come oro y plata. Este come roca y minerales, y abre túneles que duran siglos: las primeras galerías de Tianzhu fueron suyas.
+- **El *pixiu***, la bestia excavadora del injerto xingtian. El nombre viene de un animal mítico chino que come oro y plata. Este come roca y minerales, y abre túneles que duran siglos: las primeras galerías de Jingwei fueron suyas.
 - **Planeadores**: animales planos como rayas que flotan a poca altura sobre el aire denso. Volar de verdad, con 1,7 g, casi nada puede.
 - Todo lo demás es bajo, macizo y blindado, y vive pegado al suelo o debajo de él.
 

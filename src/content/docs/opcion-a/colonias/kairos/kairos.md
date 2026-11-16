@@ -6,7 +6,6 @@ sidebar:
   label: "La colonia"
 ficha:
   - ["Planeta", "[[atalanta|Atalanta]]"]
-  - ["Colonia", "Hestia"]
   - ["Capital", "[[hestia|Hestia]]"]
   - ["Gravedad", "1,15 g"]
   - ["Clima", "Selva caliente y húmeda, con tormentas"]

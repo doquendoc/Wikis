@@ -1,11 +1,11 @@
 ---
 title: "Hestia"
-description: "La capital de Atalanta, que da nombre a la colonia kairos. Donde estuvo la delegación iskra, donde murieron Grace, Hiroshi y Ken, y donde estaba el núcleo del arca."
+description: "La capital de Atalanta y de los kairos. Donde estuvo la delegación iskra, donde murieron Grace, Hiroshi y Ken, y donde estaba el núcleo del arca."
 sidebar:
   order: 2
 ficha:
   - ["Planeta", "[[atalanta|Atalanta]]"]
-  - ["Es", "La capital de la colonia [[kairos|kairos]]"]
+  - ["Subespecie", "[[kairos|Kairos]]"]
   - ["Gobierno", "La Boulé (por confirmar)"]
   - ["Sede", "El Pritaneo (por confirmar)"]
   - ["Ciencia", "El Asclepión (por confirmar)"]

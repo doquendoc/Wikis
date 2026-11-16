@@ -6,7 +6,7 @@ sidebar:
 ---
 ## Los mundos humanos
 
-| Mundo | Quién | Gravedad | Temperatura | Aire | Luz |
+| Mundo | Subespecie · capital | Gravedad | Temperatura | Aire | Luz |
 |---|---|---|---|---|---|
 | [[atalanta]] | [[kairos\|Kairos]] · Hestia | 1,15 g | Caliente | Húmedo, rico en oxígeno | Tormentas |
 | [[mrak]] | [[iskra\|Iskra]] · Ogonyok | 1 g | 5 – 10 °C | Niebla y humedad | Enana roja, tenue; llamaradas |

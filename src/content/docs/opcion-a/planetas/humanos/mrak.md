@@ -5,8 +5,8 @@ sidebar:
   order: 3
 ficha:
   - ["Nombre", "Ruso: oscuridad"]
-  - ["Colonia", "[[iskra|Iskra]] · Ogonyok (llamita)"]
-  - ["Capital", "Lampada (por confirmar)"]
+  - ["Subespecie", "[[iskra|Iskra]]"]
+  - ["Capital", "Ogonyok (llamita)"]
   - ["Gravedad", "1 g"]
   - ["Temperatura", "5 – 10 °C"]
   - ["Aire", "Niebla y humedad"]
@@ -15,7 +15,7 @@ ficha:
   - ["Fauna", "Los *likho*"]
   - ["Idioma", "Ruso"]
 pendientes:
-  - "Confirmar las secciones marcadas: capital (Lampada), paisaje (y si la estrella está fija en el cielo), fauna (likho, svetlyak) y flora."
+  - "Confirmar las secciones marcadas: la capital, paisaje (y si la estrella está fija en el cielo), fauna (likho, svetlyak) y flora."
   - "Detalles de las llamaradas: frecuencia, daño, cuánto tiempo les queda."
 ---
 ## El planeta
@@ -28,13 +28,13 @@ Su fauna, los *likho*, se volvió agresiva por la radiación.
 
 ## Capital
 
+**Ogonyok**, *llamita* en ruso. Un pueblo de nombres de fuego: *iskra*, chispa; Ogonyok, llamita.
+
 :::caution[Por confirmar]
 Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
 :::
 
-**Lampada** (en ruso, la lamparilla de aceite que se mantiene siempre encendida ante los iconos). Pega con un pueblo de nombres de fuego: *iskra*, chispa; *Ogonyok*, llamita.
-
-Fue la primera ciudad que construyeron al llegar el arca, y la más profunda: galerías blindadas bajo la roca, a salvo de las llamaradas, iluminadas con luz azul y verde muy baja. Las calles más viejas conservan las paredes de mineral fosforescente sin tratar, y en ellas casi no hace falta luz.
+La primera ciudad que construyeron al llegar el arca, y la más profunda: galerías blindadas bajo la roca, a salvo de las llamaradas, con luz azul y verde muy baja. Las calles más viejas conservan las paredes de mineral fosforescente sin tratar, y en ellas casi no hace falta luz.
 
 ## Paisaje y clima
 
