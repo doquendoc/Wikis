@@ -11,7 +11,7 @@ ficha:
   - ["Luz", "Por zonas, sin criterio"]
   - ["Ley qhatu", "No llega"]
 pendientes:
-  - "Qué fabricaba exactamente la planta, y la prueba que hay dentro."
+  - "Qué fabricaba exactamente la planta."
   - "Nombre propio de la zona del Desguace donde la nave deja a Senri."
 ---
 ## Las condiciones
@@ -47,11 +47,11 @@ Aquí deja la nave a Senri en el [[cap-3|capítulo 3]], no en la Fábrica.
 ### La Escoria
 La zona industrial muerta **bajo** el Desguace, a la que no entra nadie y a la que no llegan naves.
 
-Aquí está también el disco abandonado donde [[ravdna|Ravdna]] montó la arena, el laberinto y la cúpula.
+Aquí está también el disco abandonado donde [[ravdna|Ravdna]] montó la cúpula.
 
 ### La Vieja Fábrica
 En el fondo de la Escoria. Una planta de transferencia de pneuma de estilo humano, moderna y hecha polvo por los años de abandono desde que la Viuda se quedó el Fondo: **tanques, cintas, cámaras selladas, raíles y un ala donde se extraía pneuma de animales**.
 
 Lo que procesaba era [[pneuma|pneuma]], y para eso no hace falta calor, hace falta radiación; pero los qhatu decidieron que era más *terrícola* meterle tres chimeneas gigantes de concreto al edificio, y eso es exactamente lo que hicieron. Esas chimeneas son el faro que se ve desde el Desguace.
 
-Es el escenario de la tercera prueba.
+Es el escenario de la tercera prueba. El laberinto son los almacenes de contenedores que la rodean ([[cap-3|cap. 3]]). Dentro, escaleras arriba, una sala redonda completamente negra con **la arena**: una caja de cristal de diez por diez en el centro, que se cierra con barrotes de pneuma que suben del suelo ([[cap-4|cap. 4]]). Muy por debajo de la sala hay guardianes de la Viuda.

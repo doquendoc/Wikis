@@ -56,7 +56,7 @@ La Esclusa. Su ventanal da a la esclusa de verdad: se bebe mirando a quién lanz
 
 ## Cómo se reconocen
 
-Senri lo reconoce **por el pneuma**: no ve el de todo el mundo, ve el de quien tiene mucho y lo controla poco, y Lev reúne las dos cosas. Pero duda, y no sabe si quiere que sea él, porque lleva la armadura del Régimen y eso significa que juró lealtad a Viktor *después*: el desertor acusado del golpe lleva encima el uniforme del hombre contra el que lo dio.
+Senri lo reconoce **por el pneuma**: no ve el de todo el mundo, ve el de quien tiene mucho y lo controla poco, y Lev reúne las dos cosas. Pero duda (la certeza le llega en el [[cap-2|cap. 2]], cuando lo huele), y no sabe si quiere que sea él, porque lleva la armadura del Régimen y eso significa que juró lealtad a Viktor *después*: el desertor acusado del golpe lleva encima el uniforme del hombre contra el que lo dio.
 
 ## Lo que siembra
 

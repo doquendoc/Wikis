@@ -49,7 +49,7 @@ Gasta su propio pneuma para disparar a los núcleos de tres guardianes y deshace
 
 Senri le tira su moneda; Lev se la devuelve y dice que puede conseguir la suya solo; Senri le contesta que no le queda pneuma. **Lo está cuidando mientras lo insulta**, y Lev no entiende por qué.
 
-Senri le pregunta si piensa matarlo. En algún momento del capítulo le dice que se quite el casco, y Lev no lo hace: Senri está casi seguro de quién es y busca la confirmación, y **esa negativa es una respuesta**.
+Senri le pregunta si piensa matarlo. En algún momento del capítulo le dice que se quite el casco, y Lev no lo hace. Senri ya sabe quién es: en este capítulo lo huele, y desde entonces lo sabe con certeza.
 
 Lev iba a irse cuando entran un par de tipos, miran la escena, el pedestal y lo que tienen en las manos. Senri maldice, intenta moverse y tropieza; Lev se dice que está cometiendo otro error y lo levanta. Senri se resiste y lo amenaza, y se calla cuando empiezan a dispararles. Lev lo mete en el ascensor.
 

@@ -11,7 +11,7 @@ ficha:
   - ["Estado", "Borrador escrito"]
   - ["En la banda", "18 → 17 horas"]
 pendientes:
-  - "La prueba de dentro de la Fábrica, y qué fabricaba exactamente la planta."
+  - "Qué fabricaba exactamente la planta."
   - "Nombre de la mascarilla de media cara: en el borrador salen «el bozal» y «el respirador». Elegir uno."
   - "Qué es el tesoro que Mushi escupe y que «los terrícolas quieren», y cuándo se cobra."
   - "Cómo llegó a los almacenes antes que Senri el xingtian muerto con banda: si a cada uno lo dejaron en un sitio distinto o si Senri iba en dirección contraria."

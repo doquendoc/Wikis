@@ -22,6 +22,8 @@ De una presa que proyectaba señuelos —la especie de Laddoo— y de sus depred
 ### Pueden
 Alterar la percepción de quien mira, con ilusiones y señuelos de sí mismos (**reflejos**). No son solo imágenes: atontan, juegan con los sentidos y hacen creer lo que muestran, así que un golpe falso duele de verdad.
 
+**Las ilusiones generan toxinas**, y son ellas las que debilitan y se meten en la gente. En un espacio cerrado es más fácil drogar a alguien así, y un respirador tendría que ser muy bueno para filtrarlas.
+
 Es su forma de luchar. Sin ellas, un chhaya es más débil cuerpo a cuerpo que cualquier otro linaje.
 
 ### Les cuesta

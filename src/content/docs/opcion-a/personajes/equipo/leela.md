@@ -21,6 +21,7 @@ personaje:
       - "Un desastre cuando nadie mira"
       - "Instintiva: prefiere actuar a pensar"
       - "Quizá sociópata: nadie sabe si siente o imita, quizá ni ella"
+      - "No es una luchadora: es una niña y casi no tiene fuerza. En espacios cerrados es muy útil, porque sus ilusiones drogan mejor"
     quiere: "Recuperar a su familia: Kamala y Laddoo, no sus padres."
     necesita: "Desenmascarar el pacto de forma que no se pueda arreglar."
   aspecto:

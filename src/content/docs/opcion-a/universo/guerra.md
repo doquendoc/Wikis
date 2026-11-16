@@ -17,7 +17,8 @@ ficha:
 | | **Mrak:** su superior toma el poder y el arca, pero muere, y Viktor acaba mandando |
 | | **Indraprastha:** [[nadia\|Nadia]] toma el arca y la familia real pacta para que pare el ataque, pero la resistencia huye con el núcleo. De ahí la guerra civil |
 | | **Atalanta:** con la delegación como tapadera, la cámara del núcleo está vacía. Muere Ken, y [[lev\|Lev]] —19 años, a las órdenes de Nadia— deja vivir a [[senri\|Senri]] |
-| **Año 2** | Lev encabeza un golpe contra Viktor. Fracasa y huye |
+| | Días o semanas después, [[lev\|Lev]] encabeza un golpe contra Viktor. Fracasa y lo encarcelan |
+| | Pasa un tiempo preso y escapa. Cuando empieza el libro lleva dos años prófugo |
 | **Año 3** | **Empieza el libro** |
 
 La delegación había pasado semanas en Atalanta: además de pedir el arca, Viktor iba a probar los cristales de Grace, que filtran la luz, en los dos únicos iskra con [[trastornos|hiperpneumia]], él y Lev.

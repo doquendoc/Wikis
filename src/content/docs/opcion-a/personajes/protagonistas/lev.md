@@ -50,7 +50,7 @@ personaje:
       - tipo: "Parche"
         donde: "Abdomen, sobre el corte"
         que: "Pneuma solidificado: el de su mensajero muerto, que Senri hace bajar sobre la herida para cubrirla y cerrarla. Se le queda en el cuerpo."
-        nota: "[[cap-3|Capítulo 3]]. Puede ser lo que delate ante Ravdna que Senri absorbe pneuma."
+        nota: "[[cap-3|Capítulo 3]]. Puede ser lo que delate ante Ravdna que Senri absorbe pneuma. Al despertar no le duele y se nota más fuerte que antes ([[cap-4|cap. 4]])."
       - tipo: "Daño interno"
         donde: "Termorregulación"
         que: "Una herida del golpe se la dañó: sin armadura, su cuerpo se enfría y no remonta solo."
@@ -130,12 +130,18 @@ personaje:
       que: "Teniente en segunda fila de la delegación; Viktor prueba en él los cristales de Grace. Coincide muchas veces con un crío kairos y se quita el casco una vez delante de él. Nota que el chaval está colgado y lo descarta. Ken le advierte de que acercarse al hijo de los Hayami parece una operación, y se retira creyéndolo."
     - cuando: "19 años · año 0 · la noche del golpe"
       que: "Ya con la armadura negra. Ve a Grace matarse con la pistola de Viktor. Mata a Ken, deja vivir a Senri y miente para que nadie lo busque donde está escondido."
-    - cuando: "Tras Hestia"
-      que: "Confronta a Viktor, que casi lo mata. Nadia lo mete en una nave con el piloto automático."
-    - cuando: "21 años · año 2 · el golpe"
-      que: "Contra Viktor, para buscar alternativas sin más muertes. Solo lo siguen Timur y unos pocos. Pierde; Nadia mata a Timur y a los demás y lo deja escapar a él."
-    - cuando: "22 años · Tampu"
+    - cuando: "19 años · tras Hestia"
+      que: "Se opone a Viktor de inmediato, y vuelve con ellos."
+    - cuando: "19 años · días o semanas después · el golpe"
+      que: "Contra Viktor, para buscar alternativas sin más muertes. Solo lo siguen Timur y unos pocos. Pierde; Nadia mata a Timur y a los demás."
+    - cuando: "Preso"
+      que: "Pasa un tiempo en prisión, y escapa."
+    - cuando: "Dos años prófugo"
       que: "Desertor con precio de 50 millones. Cada semana alguien de Viktor intenta cogerlo."
+    - cuando: "22 años · cap. 3"
+      que: "Mata a su mensajero y acaba medio muerto en un contenedor del Desguace, con un corte en el abdomen. Senri le cierra la herida con pneuma."
+    - cuando: "22 años · cap. 4"
+      que: "Despierta con el parche, sella la armadura y se pone el respirador de Senri. Llega a la Fábrica con media cara al aire, y Lin Mei dice delante de todos que es el iskra al que Viktor lleva dos años cazando. Sube con Senri a la caja de cristal."
   sabe:
     - "Que Senri es el hijo de los Hayami"
     - "Que fue él quien mató a Ken"
@@ -151,6 +157,9 @@ pendientes:
   - "Detalles de las llamaradas de Mrak: frecuencia, daño, cuánto tiempo les queda."
   - "Si llega a decirle alguna vez que lo notó entonces y se fue igual."
   - "Dónde tiene las cicatrices del golpe."
+  - "Cuánto tiempo pasa preso y cómo escapa."
+  - "Dónde caen ahora las dos veces que lo salva Nadia. Antes eran meterlo en una nave con piloto automático cuando Viktor casi lo mata tras Hestia, y dejarlo escapar en el golpe."
+  - "Si la fuerza que nota al despertar en el cap. 4 le viene del parche: llevaba vacío desde que gastó su pneuma en La Máquina."
 ---
 ## Personalidad
 
@@ -184,11 +193,10 @@ Sus patrones cambian según lo que siente y se marcan más cuanto más caliente 
 |---|---|
 | [[cap-2\|Cap. 2]] · azotea | Bastón eléctrico de un kirk: el visor parpadea |
 | Cap. 2 · pasillo | Balazo de lado a lado; sella los agujeros con material de la propia armadura |
-| [[cap-3\|Cap. 3]] · el Fondo | El casco, agrietado: respira el aire seco del Fondo |
-| Cap. 3 · la arena | **Primera rotura:** un golpe le revienta el filtro y le apaga el visor. Se lo quita, y así recupera el olfato y la percepción justo antes del laberinto |
+| [[cap-3\|Cap. 3]] · el Fondo | El casco, agrietado: respira el aire seco del Fondo. Una abertura en el torso, en el mismo sitio donde le dio el bastón del kirk |
+| [[cap-4\|Cap. 4]] · el contenedor | **Primera rotura:** el filtro del casco, inservible, y el visor, transparente. Sella el torso gastando más material de los anclajes, pliega el casco y se pone el respirador de Senri. Recupera el olfato y nota el pneuma en la cara |
 | Cap. 10 · las ruinas | **Segunda y definitiva:** un pastor le revienta el torso |
 
-Senri le ve la cara por primera vez en el laberinto, a oscuras y con los patrones encendidos.
 
 ## Su petición a Ravdna
 

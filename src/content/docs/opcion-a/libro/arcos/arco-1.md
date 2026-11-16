@@ -12,6 +12,8 @@ pendientes:
   - "Nombre de la competición: Carrera, Prueba u otro. El título del libro, *La Última Carrera*, depende de esto."
   - "Quedaban restos de una versión antigua en la que Senri se comía un núcleo de Ravdna: la fuerza para sujetar a Lev en el pozo (cap. 5), y en el cap. 6, que Ravdna notara un núcleo apagado y que Senri sintiera familiaridad con ella por sus recuerdos. Los he quitado; si algo de eso vuelve, hay que decidir de dónde sale."
   - "Idea: cuando Ravdna se da cuenta de que Senri absorbe pneuma, intenta matarlo ella misma. Podría notarlo por el parche que Lev lleva en el cuerpo desde el cap. 3."
+  - "Qué viene después de la arena: Diana tiene otra idea para el capítulo siguiente. El laberinto ya pasó (son los contenedores del cap. 3), así que el capítulo 4 antiguo desaparece. De él quedaban: que Senri paga su deuda guiando a Lev a ciegas con la funda de la katana de Ken; el tramo de luz cegadora y calor; que Nadia debería sufrir con el calor y no lo hace; y la prueba de las condiciones de la base (oscuridad, luz, frío y calor). Decidir qué se recoloca."
+  - "La cúpula y el pozo (cap. 5) y Ravdna (cap. 6) están escritos para venir después del laberinto: revisar cuando se decida lo que sigue a la arena."
   - "Si el secuestro va en capítulo propio (el libro pasaría a 31)."
   - "Si Nadia nota antes o después lo que hace Senri con el pneuma: de momento, lo que la hace quererlo vivo es reconocerlo como el hijo de los Hayami."
 ---
@@ -23,9 +25,8 @@ Cada prueba replica un punto de la base donde murió un grupo anterior. **Ravdna
 |---|---|---|
 | 1 · El bar | Disposición a quitarle algo a otro para avanzar | La trampa final: tres caen para que pase uno |
 | 2 · La Máquina | Percepción en el caos y entender el pneuma | La tormenta y los mecanismos de la ciudadela |
-| 3 · El Fondo y la arena | Si puedes dañar algo de pneuma | Los pastores |
-| 4 · El laberinto | Si aguantas oscuridad, luz, frío y calor | Las condiciones de la base |
-| 5 · La cúpula y el pozo | — | La cámara que pide vidas |
+| 3 · El Fondo, los almacenes y la arena | Si puedes dañar algo de pneuma | Los pastores |
+| 4 · La cúpula y el pozo | — | La cámara que pide vidas |
 
 ## Reglas de la carrera
 
@@ -46,15 +47,7 @@ Cada prueba replica un punto de la base donde murió un grupo anterior. **Ravdna
 
 **3 · [[cap-3|El Fondo]]** · POV de Senri. Ficha aparte.
 
-### 4 · El laberinto
-
-Desde la arena caen a un laberinto en oscuridad total y frío, camino de la cúpula.
-
-Es el terreno de [[lev|Lev]], que sin casco percibe mejor que nadie, y Senri lo sigue sin permiso porque ve el pneuma con sus propios ojos: **es la primera vez que le ve la cara**, y lo reconoce como el teniente de Hestia. No lo dice.
-
-A medio camino todo cambia a luz cegadora, calor y estruendo, y el sol lo deslumbra y le quema. Senri paga ahí su deuda: lo guía sin tocarlo, tendiéndole la funda de la katana de Ken.
-
-[[nadia|Nadia]], que se hace pasar por xingtian, debería sufrir con el calor y no lo hace. Al salir, Lev ya está en la cúpula.
+**4 · [[cap-4|La arena]]** · POV de Lev. Ficha aparte.
 
 ### 5 · La cúpula y el pozo
 

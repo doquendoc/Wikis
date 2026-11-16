@@ -11,7 +11,7 @@ pendientes:
 
 **Lev reconoce a Senri de inmediato** en el capítulo 1: le vio la cara en Hestia, donde coincidieron varias veces, y aunque haya crecido y lleve el pelo largo, más claro y tatuajes, lo identifica. No lo dice, y esa es una decisión que sostiene dieciocho capítulos.
 
-**Los dos callan la misma mitad.** Senri también lo reconoce —en el laberinto, al verle la cara— y se calla que lo sabe. Y se convence de que no fue él quien mató a Ken, porque aquel llevaba la armadura negra del Nuevo Régimen y el casco puesto, y pudo ser cualquiera de los que se cambiaron esa noche.
+**Los dos callan la misma mitad.** Senri también lo reconoce: en el bar duda, y desde que lo huele en el [[cap-2|capítulo 2]] lo sabe con certeza. Se calla que lo sabe. Y se convence de que no fue él quien mató a Ken, porque aquel llevaba la armadura negra del Nuevo Régimen y el casco puesto, y pudo ser cualquiera de los que se cambiaron esa noche.
 
 **La visita diplomática.** El teniente al que Senri le hizo gracia con un chiste, y que respondió *tak tochno*, mató a Ken esa misma noche.
 

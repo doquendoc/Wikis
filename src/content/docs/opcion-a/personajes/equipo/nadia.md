@@ -94,7 +94,7 @@ personaje:
       que: "Toma el arca de Indraprastha. Dirige el ataque a Hestia, con Lev a sus órdenes, y mata a Hiroshi Hayami."
     - cuando: "Tras Hestia"
       que: "Salva a Lev cuando Viktor casi lo mata: lo mete en una nave con el piloto automático."
-    - cuando: "Año 2 · el golpe de Lev"
+    - cuando: "Semanas después de Hestia · el golpe de Lev"
       que: "Mata a Timur y a los demás, y deja escapar solo a Lev."
     - cuando: "Año 3 · Tampu"
       que: "Se presenta a la Última Carrera como Lin Mei, con un prototipo de armadura diseñado por ella."
@@ -109,6 +109,7 @@ personaje:
     - "Lo que Senri lleva dentro"
 pendientes:
   - "Estatura exacta de Nadia, que es alta para una xingtian."
+  - "Con el nuevo orden (el golpe de Lev semanas después de Hestia, prisión y fuga), dónde caen las dos veces que lo salva."
   - "Sin decidir si Nadia llega a saber cómo perdió Senri las monedas en La Máquina. De momento, lo que se entiende del cap. 2: solo ve que vuelve con una."
 ---
 ## Su petición

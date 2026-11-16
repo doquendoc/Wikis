@@ -104,7 +104,7 @@ pendientes:
 
 **No puede:** gastar sin límite, porque todo sale de ella y se recarga despacio, y por eso sus pruebas son baratas; abrir portales a ciegas —necesita un recuerdo del lugar, suyo o de alguien a quien toca, duran segundos y pasan pocos—; entrar en la base, porque los campos los bloquean hacia dentro; crear vida, curar o fabricar tecnología; ni luchar contra los Ammit, **porque su pneuma los alimenta**.
 
-**Sus creaciones:** la arena, el laberinto, la cúpula, los sabuesos que rompen pulseras, los mensajeros, los guardianes y los soldados.
+**Sus creaciones:** la arena, la cúpula, los sabuesos que rompen pulseras, los mensajeros, los guardianes y los soldados.
 
 ## Su muerte
 

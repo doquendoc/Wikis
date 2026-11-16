@@ -68,6 +68,8 @@ personaje:
       que: "Se libera y se esconde en el Desguace, que es su despensa: come metal."
     - cuando: "Cap. 3"
       que: "Unos kirks lo cazan para venderlo, mientras muda con una sola cuchilla útil. Senri tropieza con su escultura y la deja en el suelo; Mushi se le sube a la espalda y no se suelta. Le pide que lo lleve hasta terminar la muda a cambio de un tesoro. Le da el rastro de su muda para orientarse, y Senri huele a Lev en su lugar. Le dice que cambia cerca de su par y que un kairos sin par está mal. Sube a la torre y le señala la Fábrica."
+    - cuando: "Cap. 4"
+      que: "En la Fábrica, Senri lo hace bajarse porque pesa demasiado, y él se le agarra a la bota para que no lo deje tirado. En la caja de cristal le pregunta a Lev si su par está dispuesto a llevarlo."
     - cuando: "Cap. 6"
       que: "Mata al otro kairos que ataca en la sala de Ravdna."
     - cuando: "Cap. 27"

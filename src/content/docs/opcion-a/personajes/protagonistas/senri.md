@@ -51,6 +51,10 @@ personaje:
         donde: "En la sien: nada"
         que: "No es un kairos cortado, y eso se ve."
         nota: "El qhatu del ascensor le ofrece compradores para su vínculo ([[cap-2|cap. 2]]) y los kirks del Desguace lo ven como presa cara ([[cap-3|cap. 3]])."
+      - tipo: "Tobillo torcido"
+        donde: "Un tobillo"
+        que: "Se lo tuerce huyendo del mensajero con los treinta kilos de Mushi a la espalda. Fuera de escena."
+        nota: "Lo nota Lin Mei en el [[cap-4|cap. 4]]: hace un gesto de dolor y cambia el peso de pie."
     ropa: "Capas oscuras y prácticas, chaqueta corta de cuello alto, guantes sin dedos, botas ligeras, bolsillos llenos de comida."
     lleva:
       - "La katana de Ken"
@@ -111,7 +115,7 @@ personaje:
   relaciones:
     - con: "[[lev|Lev Volkov]]"
       lellama: "iskra; imbécil"
-      es: "El teniente de Hestia del que se colgó a los dieciséis; hoy, su par, y desde el cap. 3 lo sospecha y lo rechaza. Le salva la vida en el Desguace. Lo reconoce por el pneuma en el bar y por la cara en el laberinto, y decide que no fue él quien mató a Ken porque quiere que no lo sea. Huele a frío, a metal y a aire húmedo, y tiene una voz grave que le suena."
+      es: "El teniente de Hestia del que se colgó a los dieciséis; hoy, su par, y desde el cap. 3 lo sospecha y lo rechaza. Le salva la vida en el Desguace. Lo reconoce por el pneuma en el bar y lo sabe con certeza desde que lo huele en el [[cap-2|cap. 2]], y decide que no fue él quien mató a Ken porque quiere que no lo sea. Huele a frío, a metal y a aire húmedo, y tiene una voz grave que le suena."
     - con: "[[mushi|Mushi]]"
       lellama: "mushikera"
       es: "Lo recoge en el Desguace por no pisar su arte. Con él sale su cara privada antes que con nadie. Nota sus parches al tacto."
@@ -131,13 +135,15 @@ personaje:
     - cuando: "16 años · la visita iskra"
       que: "La delegación iskra pasa semanas en Atalanta, con la armadura antigua, que no es negra. Le da conversación a un teniente callado de 19 años; Lev se quita el casco una sola vez y solo lo ve él. Le hace reír con un chiste estúpido y Lev responde *tak tochno* a su capitán. Se vincula sin saberlo. Un amanecer se agacha a despertarlo, dormido sentado tras una guardia, y se queda oliéndole el pelo más de la cuenta."
     - cuando: "16 años · año 0 · la traición"
-      que: "Elias Hart abre las puertas. Grace se mata en la sala de interrogatorios con la pistola de Viktor. Hiroshi muere peleando. A Senri lo hieren de muerte; Ken lo esconde en una casucha del patio, entiende al verle la herida lo que lleva dentro, pelea contra Lev y muere suplicándole por él. Senri no oye nada: solo ve al iskra agacharse junto a Ken y hablar. Lleva tres años explicándose mal esa imagen. Lo rescatan unos soldados y se separa de ellos."
+      que: "Elias Hart abre las puertas. Grace se mata en la sala de interrogatorios con la pistola de Viktor. Hiroshi muere peleando. A Senri lo hieren de muerte; Ken lo esconde a las afueras del palacio, entiende al verle la herida lo que lleva dentro, pelea contra Lev y muere suplicándole por él. Senri no oye nada: solo ve al iskra agacharse junto a Ken y hablar. Lleva tres años explicándose mal esa imagen. Lo rescatan unos soldados y se separa de ellos."
     - cuando: "16 a 19 años · Tampu"
       que: "Llega con la katana, el *omamori*, las notas de su madre y un órgano que lo mata. Trabaja de cazador, escolta y piloto. Busca a Lev en los registros y encuentra un desertor acusado del golpe contra Viktor, con precio."
     - cuando: "19 años · cap. 1"
       que: "Empieza la Última Carrera en La Esclusa."
     - cuando: "19 años · cap. 3"
       que: "Huyendo de un mensajero por el Desguace, huele a Lev y se pregunta por primera vez en serio si se vinculó a él hace tres años. Lo encuentra muriéndose y le cierra la herida con el pneuma de su mensajero muerto. Le deja el respirador."
+    - cuando: "19 años · cap. 4"
+      que: "Llega a la Fábrica con el tobillo torcido y sin respirador, así que no puede acelerar. No mira a Lev. Le rechaza el respirador y que lo ayude, y aun así acaban en la caja de cristal juntos."
   sabe:
     - "Desde el cap. 3, que puede estar vinculado a Lev. Lo rechaza"
     - "Que Hart fue el traidor"
@@ -156,6 +162,7 @@ pendientes:
   - "Alias de Senri en Tampu."
   - "Nombres científicos del gen suyo y de Hana, y del de Viktor y Lev."
   - "Nombre del respirador de media cara."
+  - "Dónde exactamente lo esconde Ken a las afueras del palacio: quizá un templo."
 ---
 ## Personalidad
 
