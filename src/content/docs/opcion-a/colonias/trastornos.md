@@ -2,7 +2,7 @@
 title: "Los dos trastornos"
 description: "Una condición rarísima en cada colonia, descritas por médicos que no se hablan. Las dos llevan «pneuma» en el nombre y son la misma familia."
 sidebar:
-  order: 7
+  order: 6
 pendientes:
   - "Nombres científicos para el gen de Senri y Hana, y para el de Viktor y Lev (los propuestos no valían)."
   - "Cuánto sabían los iskra sobre la condición de Senri y Hana antes del golpe."

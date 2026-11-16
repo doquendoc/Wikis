@@ -73,3 +73,16 @@ Texto normal en markdown. **Negrita**, *cursiva*, tablas, listas, > avisos.
 Es la misma sintaxis que Obsidian, así que cada carpeta de historia se puede abrir como vault.
 
 Al pie de cada página sale «Mencionada en», con todas las que enlazan a ella.
+
+## Insignias y propuestas
+
+- Las insignias salen solas (`src/lib/insignias.mjs`): el **estado** de un capítulo sale del campo `Estado` de su ficha (Borrador, Escaleta, Revisado); **Por confirmar** aparece si la página tiene un recuadro `:::caution[Por confirmar]` o un valor de ficha con `(por confirmar)`; **N pendientes** enlaza al recuadro de pendientes.
+- Todo lo que proponga Claude sin que Diana lo haya decidido va dentro de un recuadro:
+
+  ```md
+  :::caution[Por confirmar]
+  Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
+  :::
+  ```
+  y con una línea en `pendientes` que diga qué hay que confirmar. Al confirmarlo, se quita el recuadro.
+- Un subgrupo de la barra lateral puede ir entre páginas sueltas: en `historias.mjs`, dale `orden` (como `colonias/kairos`).

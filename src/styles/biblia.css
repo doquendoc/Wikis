@@ -391,3 +391,102 @@ header .description, [data-pagefind-body] > p.description { color: var(--sl-colo
   .pj-marcas li { grid-template-columns: minmax(0, 1fr); gap: 0.25rem; }
 }
 .pj-marcas + .pj-pares, .pj-rasgos + .pj-pares { margin-top: 1.2rem; }
+
+/* =====================================================================
+   Navegación de cabecera: botón Atrás + migas
+   ===================================================================== */
+.cabecera-nav {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.4rem 0.8rem;
+  margin: 0 0 0.45rem;
+}
+.cabecera-nav .migas { margin: 0; }
+.migas-sep { color: var(--sl-color-gray-4); }
+.atras {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.2rem 0.6rem 0.2rem 0.45rem;
+  font-family: var(--sl-font-mono);
+  font-size: 0.7rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: var(--sl-color-gray-2);
+  border: 1px solid var(--sl-color-gray-5);
+  border-radius: 999px;
+  background: var(--bb-ficha);
+  min-height: 1.9rem;
+}
+.atras:hover, .atras:focus-visible { color: var(--sl-color-accent-high); border-color: var(--sl-color-accent); }
+
+/* =====================================================================
+   Insignias: mismas variantes que las de la barra lateral de Starlight
+   ===================================================================== */
+.insignias { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.7rem 0 0; }
+.insignia {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.12rem 0.55rem;
+  font-family: var(--sl-font-mono);
+  font-size: 0.66rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  line-height: 1.5;
+  border-radius: 999px;
+  border: 1px solid var(--bb-badge-borde, var(--sl-color-gray-4));
+  background: var(--bb-badge-fondo, transparent);
+  color: var(--bb-badge-texto, var(--sl-color-gray-2));
+  white-space: nowrap;
+  vertical-align: 0.1em;
+  text-decoration: none;
+}
+.insignia--success { --bb-badge-borde: var(--sl-color-green); --bb-badge-fondo: var(--sl-color-green-low); --bb-badge-texto: var(--sl-color-green-high); }
+.insignia--note { --bb-badge-borde: var(--sl-color-blue); --bb-badge-fondo: var(--sl-color-blue-low); --bb-badge-texto: var(--sl-color-blue-high); }
+.insignia--tip { --bb-badge-borde: var(--sl-color-purple); --bb-badge-fondo: var(--sl-color-purple-low); --bb-badge-texto: var(--sl-color-purple-high); }
+.insignia--caution { --bb-badge-borde: var(--sl-color-orange); --bb-badge-fondo: var(--sl-color-orange-low); --bb-badge-texto: var(--sl-color-orange-high); }
+.insignia--pendiente { --bb-badge-borde: var(--bb-oxido); --bb-badge-texto: var(--bb-oxido); border-style: dashed; }
+a.insignia--pendiente:hover { background: color-mix(in srgb, var(--bb-oxido) 12%, transparent); }
+.ficha dd .insignia { margin-left: 0.3rem; font-size: 0.58rem; }
+
+/* insignias de la barra lateral: misma tipografía */
+.sidebar-content .sl-badge {
+  font-family: var(--sl-font-mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+/* recuadros «Por confirmar»: título en la tipografía de las etiquetas */
+.starlight-aside__title {
+  font-family: var(--sl-font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.sl-markdown-content .starlight-aside { font-size: 0.92rem; }
+
+/* tablas: filas alternas y cabecera fija al desplazar */
+.sl-markdown-content tbody tr:nth-child(even) td { background: color-mix(in srgb, var(--sl-color-gray-6) 55%, transparent); }
+.sl-markdown-content thead th { border-bottom: 2px solid var(--sl-color-gray-5); }
+.sl-markdown-content td:first-child { font-weight: 600; }
+
+/* el destino del enlace «N pendientes» no queda bajo la barra superior */
+#pendientes { scroll-margin-top: calc(var(--sl-nav-height, 3.5rem) + 1.5rem); }
+
+/* insignias de la barra lateral con el mismo aspecto suave que las de la cabecera */
+.sidebar-content .sl-badge {
+  border-radius: 999px;
+  border: 1px solid var(--bb-badge-borde, var(--sl-color-gray-4));
+  background: var(--bb-badge-fondo, transparent);
+  color: var(--bb-badge-texto, var(--sl-color-gray-2));
+  padding: 0 0.4rem;
+}
+.sidebar-content .sl-badge.success { --bb-badge-borde: var(--sl-color-green); --bb-badge-fondo: var(--sl-color-green-low); --bb-badge-texto: var(--sl-color-green-high); }
+.sidebar-content .sl-badge.note { --bb-badge-borde: var(--sl-color-blue); --bb-badge-fondo: var(--sl-color-blue-low); --bb-badge-texto: var(--sl-color-blue-high); }
+.sidebar-content .sl-badge.tip { --bb-badge-borde: var(--sl-color-purple); --bb-badge-fondo: var(--sl-color-purple-low); --bb-badge-texto: var(--sl-color-purple-high); }
+.sidebar-content .sl-badge.caution { --bb-badge-borde: var(--sl-color-orange); --bb-badge-fondo: var(--sl-color-orange-low); --bb-badge-texto: var(--sl-color-orange-high); }
+.sidebar-content a[aria-current='page'] .sl-badge { border-color: currentColor; }

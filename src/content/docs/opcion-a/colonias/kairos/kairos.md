@@ -2,7 +2,8 @@
 title: "Kairos"
 description: "La subespecie que pasa por humana hasta que se mueve. Un depredador de emboscada metido en una república."
 sidebar:
-  order: 2
+  order: 1
+  label: "La colonia"
 ficha:
   - ["Planeta", "[[atalanta|Atalanta]]"]
   - ["Colonia", "Hestia"]

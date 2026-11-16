@@ -2,7 +2,7 @@
 title: "Chhaya"
 description: "Proyectan lo que quieren que veas, y mientras duermen proyectan lo que no."
 sidebar:
-  order: 5
+  order: 4
 ficha:
   - ["Planeta", "[[marichi|Marichi]] (rayo de luz y espejismo)"]
   - ["Colonia", "Indraprastha"]

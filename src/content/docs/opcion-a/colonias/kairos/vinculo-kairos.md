@@ -2,7 +2,8 @@
 title: "El vínculo kairos"
 description: "Biología, no romanticismo. La díada caza en pareja, y el vínculo vino en el mismo injerto que los reflejos."
 sidebar:
-  order: 3
+  order: 2
+  label: "El vínculo"
 ficha:
   - ["Base real", "El topillo de la pradera"]
   - ["Vía de entrada", "El olfato"]

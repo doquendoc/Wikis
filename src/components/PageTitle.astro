@@ -1,27 +1,69 @@
 ---
-// Título con migas de pan encima (Personajes › Protagonistas) y la entradilla debajo.
+// Cabecera de cada página: botón «Atrás» y migas de pan (Personajes › Protagonistas),
+// el título, las insignias calculadas (estado, por confirmar, pendientes) y la entradilla.
 import Default from '@astrojs/starlight/components/PageTitle.astro';
-import { ETIQUETAS, historiaDe } from '../lib/historias.mjs';
+import { ETIQUETAS, HISTORIAS, historiaDe } from '../lib/historias.mjs';
 import { enlazarHTML } from '../lib/wikilinks.mjs';
+import { insignias } from '../lib/insignias.mjs';
 
 const { entry } = Astro.locals.starlightRoute;
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const historia = historiaDe(entry.id);
 const partes = entry.id.split('/').slice(0, -1);
 const migas = partes.map((_, i) => ETIQUETAS[partes.slice(0, i + 1).join('/')]).filter(Boolean);
 const lede = entry.data.description;
+const portadaGeneral = entry.id === 'index' || entry.id === '';
+const portadaHistoria = HISTORIAS.some((h) => h.dir === entry.id);
+// Si no hay historial dentro de la wiki, «Atrás» lleva a la portada de la historia (o a la general).
+const destino = historia && !portadaHistoria ? `${base}${historia}/` : base;
+const badges = insignias(entry);
 ---
 
 {
-  migas.length > 0 && (
-    <p class="migas">
-      {migas.map((m, i) => (
-        <>
-          {i > 0 && <span aria-hidden="true"> › </span>}
-          <span>{m}</span>
-        </>
-      ))}
-    </p>
+  !portadaGeneral && (
+    <div class="cabecera-nav">
+      <a class="atras" href={destino} data-atras>
+        <span aria-hidden="true">←</span> Atrás
+      </a>
+      {migas.length > 0 && (
+        <p class="migas">
+          {migas.map((m, i) => (
+            <>
+              {i > 0 && <span aria-hidden="true" class="migas-sep"> › </span>}
+              <span>{m}</span>
+            </>
+          ))}
+        </p>
+      )}
+    </div>
   )
 }
 <Default />
+{
+  badges.length > 0 && (
+    <p class="insignias">
+      {badges.map((b) =>
+        b.href ? (
+          <a class={`insignia insignia--${b.variant}`} href={b.href}>{b.text}</a>
+        ) : (
+          <span class={`insignia insignia--${b.variant}`}>{b.text}</span>
+        )
+      )}
+    </p>
+  )
+}
 {lede && <p class="lede" set:html={enlazarHTML(lede, historia, import.meta.env.BASE_URL)} />}
+
+<script>
+  // Atrás de verdad cuando se ha llegado desde otra página de la wiki; si no, el enlace.
+  document.querySelectorAll<HTMLAnchorElement>('[data-atras]').forEach((a) => {
+    a.addEventListener('click', (ev) => {
+      let dentro = false;
+      try { dentro = !!document.referrer && new URL(document.referrer).origin === location.origin; } catch {}
+      if (dentro && history.length > 1) {
+        ev.preventDefault();
+        history.back();
+      }
+    });
+  });
+</script>

@@ -2,7 +2,7 @@
 title: "Iskra"
 description: "Un mundo tenue, no oscuro. Lo que los hace iskra es la piel, y la armadura les quita la mitad."
 sidebar:
-  order: 4
+  order: 3
 ficha:
   - ["Planeta", "[[mrak|Mrak]] (oscuridad)"]
   - ["Colonia", "Ogonyok (llamita)"]

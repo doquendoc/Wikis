@@ -1,6 +1,8 @@
 // Las historias y su árbol lateral. Cada historia es una carpeta de src/content/docs/,
 // y dentro, cada sección es una subcarpeta. Las sub-subcarpetas son subgrupos plegables.
 // Una página nueva aparece sola en su carpeta; solo hay que tocar esto para crear una
+// (Un subgrupo con `orden` se coloca entre las páginas sueltas según ese número;
+// sin él, va antes de ellas si la sección tiene subPrimero y, si no, después.)
 // historia, una sección o un subgrupo, o para cambiarles el nombre.
 export const HISTORIAS = [
   {
@@ -27,7 +29,7 @@ export const HISTORIAS = [
           { dir: 'otras', label: 'Otras especies' },
         ],
       },
-      { dir: 'colonias', label: 'Colonias humanas' },
+      { dir: 'colonias', label: 'Colonias humanas', sub: [{ dir: 'kairos', label: 'Kairos', orden: 2 }] },
       {
         dir: 'planetas', label: 'Planetas',
         sub: [

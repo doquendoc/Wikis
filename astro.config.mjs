@@ -19,9 +19,9 @@ function sueltas(dir) {
       const orden = Number((txt.match(/^\s+order:\s*(\d+)/m) || [])[1] ?? 999);
       return { slug: `${dir}/${e.name.replace(/\.mdx?$/, '')}`, orden };
     })
-    .sort((a, b) => a.orden - b.orden)
-    .map(({ slug }) => ({ slug }));
+    .sort((a, b) => a.orden - b.orden);
 }
+const limpio = ({ orden, ...item }) => item;
 
 const grupo = (label, dir) => ({ label, collapsed: true, items: [{ autogenerate: { directory: dir } }] });
 
@@ -33,13 +33,14 @@ const temas = HISTORIAS.map((h) => ({
   icon: h.icono,
   items: [
     { label: 'Portada', link: `/${h.dir}/` },
-    ...sueltas(h.dir),
+    ...sueltas(h.dir).map(limpio),
     ...h.secciones.map((s) => {
       const dir = `${h.dir}/${s.dir}`;
       if (!s.sub) return grupo(s.label, dir);
-      const subs = s.sub.map((x) => grupo(x.label, `${dir}/${x.dir}`));
-      const paginas = sueltas(dir);
-      return { label: s.label, collapsed: true, items: s.subPrimero ? [...subs, ...paginas] : [...paginas, ...subs] };
+      // Páginas sueltas y subgrupos en el mismo nivel, mezclados por orden
+      const subs = s.sub.map((x) => ({ ...grupo(x.label, `${dir}/${x.dir}`), orden: x.orden ?? (s.subPrimero ? -1 : 1000) }));
+      const items = [...sueltas(dir), ...subs].sort((a, b) => a.orden - b.orden).map(limpio);
+      return { label: s.label, collapsed: true, items };
     }),
   ],
 }));

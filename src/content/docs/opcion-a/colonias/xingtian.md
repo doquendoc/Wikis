@@ -2,7 +2,7 @@
 title: "Xingtian"
 description: "Construidos más que esculpidos. La colonia más poderosa, y la que todavía no ha entrado en la guerra."
 sidebar:
-  order: 6
+  order: 5
 ficha:
   - ["Planeta", "[[taishan|Taishan]]"]
   - ["Colonia", "Jingwei"]
