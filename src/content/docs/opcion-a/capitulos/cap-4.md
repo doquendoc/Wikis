@@ -14,7 +14,6 @@ pendientes:
   - "Cómo cae Cabeza de Plomo y cómo se disloca Lev el hombro."
   - "Cap. 4 es POV de Lev: por qué acepta Senri ese respirador y lo que le pesa haber matado van en su siguiente POV, o se ven solo por fuera."
   - "Si el cuerpo de Senri obedece por el vínculo, por su entrenamiento o sin que se sepa. La wiki solo dice que el vínculo deteriora el juicio en todo lo que afecte al par."
-  - "Si Cabeza de Plomo es kairos."
   - "Qué deportes se juegan en Mrak, heredados de la Tierra. Los kairos, béisbol."
   - "Qué le hace a Lev el aire del Fondo, y por qué le hace falta el respirador."
   - "Un espacio breve para Mrak y cómo se vive allí, al regular el respirador."
