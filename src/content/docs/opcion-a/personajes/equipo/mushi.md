@@ -1,6 +1,6 @@
 ---
 title: "Mushi"
-description: "Kamakiri. Cincuenta centímetros y cuarenta kilos de lealtad obsesiva que se abraza a Senri como un lémur."
+description: "Kamakiri. Cincuenta centímetros y treinta kilos de lealtad obsesiva que se abraza a Senri como un lémur."
 sidebar:
   order: 3
 personaje:
