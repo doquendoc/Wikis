@@ -131,7 +131,7 @@ personaje:
     - cuando: "Muy joven"
       que: "Salva él solo a un pelotón de los *likho*. Después le salva la vida a Viktor matando a Pavel, colega de sus padres. Entra en la escolta como teniente."
     - cuando: "19 años · Hestia"
-      que: "Teniente en segunda fila de la delegación; Viktor prueba en él los cristales de Grace. Coincide muchas veces con un crío kairos y se quita el casco una vez delante de él. Nota que el chaval está colgado y lo descarta. Ken le advierte de que acercarse al hijo de los Hayami parece una operación, y se retira creyéndolo."
+      que: "Teniente en segunda fila de la delegación, alojada en el Asclepión; Viktor prueba en él los cristales de Grace. Coincide muchas veces con un crío kairos y se quita el casco una vez delante de él. Nota que el chaval está colgado y lo descarta. Ken le advierte de que acercarse al hijo de los Hayami parece una operación, y se retira creyéndolo."
     - cuando: "19 años · año 0 · la noche del golpe"
       que: "Ya con la armadura negra. Ve a Grace matarse con la pistola de Viktor. Mata a Ken, deja vivir a Senri y miente para que nadie lo busque donde está escondido."
     - cuando: "19 años · tras Hestia"

@@ -2,7 +2,7 @@
 title: "Mrak"
 description: "El planeta de los iskra. No es oscuro sino tenue: niebla, frío húmedo y una enana roja cuyas llamaradas lo están volviendo inhabitable."
 sidebar:
-  order: 2
+  order: 3
 ficha:
   - ["Nombre", "Ruso: oscuridad"]
   - ["Colonia", "[[iskra|Iskra]] · Ogonyok (llamita)"]

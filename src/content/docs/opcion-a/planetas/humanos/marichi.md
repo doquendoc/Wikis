@@ -2,7 +2,7 @@
 title: "Marichi"
 description: "El planeta de los chhaya. Estepa a gran altitud, aire fino y seco, sol intenso, días ardientes y noches heladas."
 sidebar:
-  order: 3
+  order: 4
 ficha:
   - ["Nombre", "Sánscrito: rayo de luz y espejismo"]
   - ["Colonia", "[[chhaya|Chhaya]] · Indraprastha"]

@@ -34,7 +34,7 @@ Al ir a recoger el rifle ve en el suelo **el respirador de Senri**. Lo reconoce 
 
 ### Recuerdo: Hestia
 
-Los dos de guardia fuera del salón donde la delegación se reúne con Grace y los demás científicos de Hestia. Senri grita de golpe por una bola mal cantada, se da cuenta de lo que ha hecho y le pregunta a Lev si lo va a delatar. Lev lo ignora. Senri se acerca más y le pregunta si no le van los deportes; Lev no responde, pero es demasiado consciente de lo cerca que está.
+En el Asclepión, los dos de guardia fuera del salón donde la delegación se reúne con Grace y los demás científicos de Hestia. Senri grita de golpe por una bola mal cantada, se da cuenta de lo que ha hecho y le pregunta a Lev si lo va a delatar. Lev lo ignora. Senri se acerca más y le pregunta si no le van los deportes; Lev no responde, pero es demasiado consciente de lo cerca que está.
 
 Senri expande la proyección del holo. Lev intenta no mirar y acaba atendiendo al partido. Anota el equipo de negro, Senri maldice y le clava los ojos: se suponía que tenía que irle al mismo que él. Lev no dice nada. Senri le pasa el dedo por el brazo: que no disimule, su pneuma dice a gritos que es un traidor.
 
@@ -54,7 +54,7 @@ El olor del óxido, tan intenso que casi lo saborea. Solo oye su propia respirac
 
 ## El rastro
 
-Rifle al hombro y pistola en mano. El rastro de pneuma va del contenedor al charco en que se convirtió el mensajero que mató: **una línea perfecta, ni una gota fuera de sitio**. ¿Cómo lo llevó Senri hasta el contenedor así? ¿Cómo selló la herida sin manchar siquiera la armadura? ¿Fue así como sobrevivió a aquella herida a las afueras del palacio?
+Rifle al hombro y pistola en mano. El rastro de pneuma va del contenedor al charco en que se convirtió el mensajero que mató: **una línea perfecta, ni una gota fuera de sitio**. ¿Cómo lo llevó Senri hasta el contenedor así? ¿Cómo selló la herida sin manchar siquiera la armadura? ¿Fue así como sobrevivió a aquella herida en el jardín del Pritaneo?
 
 La banda vibra: de 3 horas a 2:59. Trepa a los contenedores y ve las chimeneas, con tres luces blancas en lo alto. Avanza por encima para no perderse ni cruzarse con kirks, saltando de contenedor en contenedor. Los ojos le arden, resecos y arenosos; el regulador térmico de la armadura lo mantiene frío, pero la mitad de la cara al aire la nota caliente y seca.
 

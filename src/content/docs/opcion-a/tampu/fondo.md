@@ -12,7 +12,7 @@ ficha:
   - ["Ley qhatu", "No llega"]
 pendientes:
   - "Qué fabricaba exactamente la planta."
-  - "Nombre propio de la zona del Desguace donde la nave deja a Senri."
+  - "Confirmar los nombres propuestos: el Varadero, el Panal y la Pecera."
 ---
 ## Las condiciones
 
@@ -55,3 +55,18 @@ En el fondo de la Escoria. Una planta de transferencia de pneuma de estilo human
 Lo que procesaba era [[pneuma|pneuma]], y para eso no hace falta calor, hace falta radiación; pero los qhatu decidieron que era más *terrícola* meterle tres chimeneas gigantes de concreto al edificio, y eso es exactamente lo que hicieron. Esas chimeneas son el faro que se ve desde el Desguace.
 
 Es el escenario de la tercera prueba. El laberinto son los almacenes de contenedores que la rodean ([[cap-3|cap. 3]]). Dentro, escaleras arriba, una sala redonda completamente negra con **la arena**: una caja de cristal de diez por diez en el centro, que se cierra con barrotes de pneuma que suben del suelo ([[cap-4|cap. 4]]). Muy por debajo de la sala hay guardianes de la Viuda.
+
+## Nombres de sitios
+
+:::caution[Por confirmar]
+Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
+:::
+
+Los qhatu no le han puesto nombre a casi nada del Fondo, así que son nombres de la gente.
+
+| Nombre | Qué es |
+|---|---|
+| **El Varadero** | La zona del Desguace donde la nave deja a Senri ([[cap-3\|cap. 3]]): donde las naves que ya no vuelan se quedan varadas para que las despiecen |
+| **El Panal** | Los almacenes de contenedores que rodean la Fábrica, apilados en torres: el laberinto del [[cap-3\|cap. 3]] |
+| **La Pecera** | La caja de cristal de la arena ([[cap-4\|cap. 4]]), como la llaman los candidatos |
+

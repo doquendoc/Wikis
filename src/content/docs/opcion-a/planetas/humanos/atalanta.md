@@ -5,7 +5,7 @@ sidebar:
   order: 1
 ficha:
   - ["Colonia", "[[kairos|Kairos]] · Hestia"]
-  - ["Capital", "Pritaneo (por confirmar)"]
+  - ["Capital", "[[hestia|Hestia]]"]
   - ["Gravedad", "1,15 g"]
   - ["Clima", "Caliente y húmedo, con tormentas"]
   - ["Oxígeno", "Rico"]
@@ -13,7 +13,7 @@ ficha:
   - ["Fauna", "Depredadores rapidísimos"]
   - ["Idioma", "Inglés"]
 pendientes:
-  - "Confirmar las secciones marcadas: capital (Pritaneo), paisaje, fauna y flora."
+  - "Confirmar las secciones marcadas: paisaje, fauna y flora."
   - "Temperatura y humedad del planeta en cifras, y duración del día."
 ---
 ## El planeta
@@ -22,13 +22,7 @@ pendientes:
 
 ## Capital
 
-:::caution[Por confirmar]
-Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
-:::
-
-**Pritaneo** (*Prytaneum*, en el inglés de la colonia). En la antigua Grecia, el pritaneo era el edificio donde ardía el fuego sagrado de Hestia y se reunía el consejo de la ciudad. Le pega a una colonia que se llama Hestia y vive alrededor de su consejo.
-
-Construida en altura, sobre las copas de los árboles más grandes y en plataformas ancladas a sus troncos, muy por encima del suelo de la selva. Los kairos prefieren dormir y sentarse en alto, y aquí la ciudad entera lo hace. En el centro, el palacio del consejo y el muro con los nombres de los protectores caídos. En las afueras, los templos y la ciudad baja, más cerca del suelo.
+**[[hestia|Hestia]]**, que da nombre a la colonia. Sus lugares, y lo que pasó en cada uno la noche del ataque, en su página.
 
 ## Paisaje y clima
 
@@ -76,7 +70,7 @@ República con un consejo elegido, protegido por una casta militar. Exportan pil
 
 Los nombres de los protectores caídos se graban en un muro del consejo. Celebran el Año Nuevo japonés y Acción de Gracias, se descalzan en casa y no ofrecer comida es casi un insulto.
 
-Lugares que salen en la historia: el palacio, a cuyas afueras Ken esconde a Senri herido la noche del ataque, y el templo al que iba a rezar Hiroshi, donde están escondidas las notas de Grace.
+Los lugares que salen en la historia están en [[hestia]].
 
 ## En la guerra
 

@@ -24,7 +24,7 @@ Rarísima también.
 
 Hace producir mucho más pneuma, y más puro, que cualquier otro iskra, al precio de una hipersensibilidad brutal a la luz y a la radiación.
 
-La tienen **Viktor** y **Lev**, y es la razón de que Viktor se fijara en él. También la razón de que Viktor estuviera probando los cristales de Grace, que filtran la luz, en los dos únicos iskra que la tenían: él y Lev.
+La tienen **Viktor** y **Lev**, y es la razón de que Viktor se fijara en él. También la razón de que Viktor estuviera probando los cristales de Grace, que filtran la luz y la radiación (caros y de mucho mantenimiento: solo para la élite), en los dos únicos iskra que la tenían: él y Lev.
 
 ## Lo que nadie sabe
 

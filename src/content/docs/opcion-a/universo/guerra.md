@@ -21,7 +21,7 @@ ficha:
 | | Pasa un tiempo preso y escapa. Cuando empieza el libro lleva dos años prófugo |
 | **Año 3** | **Empieza el libro** |
 
-La delegación había pasado semanas en Atalanta: además de pedir el arca, Viktor iba a probar los cristales de Grace, que filtran la luz, en los dos únicos iskra con [[trastornos|hiperpneumia]], él y Lev.
+La delegación había pasado semanas en Atalanta: además de pedir el arca, Viktor iba a probar los cristales de Grace, que filtran la luz y la radiación, en los dos únicos iskra con [[trastornos|hiperpneumia]], él y Lev. No eran perfectos: necesitaban muchísimo mantenimiento y fabricarlos costaba una fortuna, así que nunca iban a ser para el pueblo, solo para la élite. Los lugares de esa noche están en [[hestia]].
 
 ## Cómo va ahora
 

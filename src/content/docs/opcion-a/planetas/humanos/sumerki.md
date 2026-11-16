@@ -2,7 +2,7 @@
 title: "Sumerki"
 description: "El planeta verificado para los iskra. Está tan lejos que el núcleo de un arca se gasta entero en la ida."
 sidebar:
-  order: 6
+  order: 7
 ficha:
   - ["Nombre", "Ruso: crepúsculo"]
   - ["Para", "[[iskra|Iskra]]"]

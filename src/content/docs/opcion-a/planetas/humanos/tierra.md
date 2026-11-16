@@ -2,7 +2,7 @@
 title: "La Tierra"
 description: "El origen. Donde se estrellaron los nefilim y de donde salieron las cuatro arcas, hace quinientos años."
 sidebar:
-  order: 5
+  order: 6
 ficha:
   - ["Gravedad", "1 g"]
   - ["Desde la partida", "≈ 500 años"]

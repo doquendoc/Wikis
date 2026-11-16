@@ -91,7 +91,7 @@ personaje:
     - nombre: "Hiroshi Hayami"
       relacion: "Padre"
       estado: "muerto"
-      nota: "La Espada del Consejo de Atalanta, protector del consejo de Hestia. Cría guerreros. Lo mató [[nadia|Nadia]] en el golpe, sin llegar a alzar la espada. Iba a rezar a un templo donde están escondidas las notas de Grace."
+      nota: "La Espada de la Boulé, el consejo de [[hestia|Hestia]]: la cabeza de la casta militar que lo protege. Cría guerreros. Lo mató [[nadia|Nadia]] en el golpe, sin llegar a alzar la espada. Iba a rezar a un templo donde están escondidas las notas de Grace."
     - nombre: "Grace Hayami"
       relacion: "Madre"
       estado: "muerta"
@@ -129,13 +129,13 @@ personaje:
       es: "Su única salida. Desde el cap. 6 sabe que un devorador murió por él, y lo necesita igual."
   cronologia:
     - cuando: "Infancia"
-      que: "Familia japonesa y estadounidense de militares que protegen al consejo de Hestia. Pasa las tardes en el laboratorio de Grace, porque ve lo que ella estudia. Sabe lo que es Fintan; lo que no sabe hasta después es que el órgano que lleva dentro es suyo."
+      que: "Familia japonesa y estadounidense de militares que protegen al consejo de Hestia. Pasa las tardes en el laboratorio de Grace, en el Asclepión, porque ve lo que ella estudia. Sabe lo que es Fintan; lo que no sabe hasta después es que el órgano que lleva dentro es suyo."
     - cuando: "12 o 13 años · el trasplante"
       que: "A Hana y a él les toca la misma lotería genética. Hana muere; él aguanta más, y Fintan le trasplanta un órgano suyo y muere al quedarse sin pneuma. Para la transferencia, Grace roba el núcleo del arca de Hestia y lo gasta entero. Nadie más lo sabe. Le quitan el bazo para hacer sitio. No ha vuelto a enfermar."
     - cuando: "16 años · la visita iskra"
       que: "La delegación iskra pasa semanas en Atalanta, con la armadura antigua, que no es negra. Le da conversación a un teniente callado de 19 años; Lev se quita el casco una sola vez y solo lo ve él. Le hace reír con un chiste estúpido y Lev responde *tak tochno* a su capitán. Se vincula sin saberlo. Un amanecer se agacha a despertarlo, dormido sentado tras una guardia, y se queda oliéndole el pelo más de la cuenta."
     - cuando: "16 años · año 0 · la traición"
-      que: "Elias Hart abre las puertas. Grace se mata en la sala de interrogatorios con la pistola de Viktor. Hiroshi muere peleando. A Senri lo hieren de muerte; Ken lo esconde a las afueras del palacio, entiende al verle la herida lo que lleva dentro, pelea contra Lev y muere suplicándole por él. Senri no oye nada: solo ve al iskra agacharse junto a Ken y hablar. Lleva tres años explicándose mal esa imagen. Lo rescatan unos soldados y se separa de ellos."
+      que: "Elias Hart abre las puertas. Grace se mata en la sala de interrogatorios con la pistola de Viktor. Hiroshi muere peleando. A Senri lo hieren de muerte; Ken lo esconde en la casa de té del jardín del Pritaneo, entiende al verle la herida lo que lleva dentro, pelea contra Lev y muere suplicándole por él. Senri no oye nada: solo ve al iskra agacharse junto a Ken y hablar. Lleva tres años explicándose mal esa imagen. Lo rescatan unos soldados y se separa de ellos."
     - cuando: "16 a 19 años · Tampu"
       que: "Llega con la katana, el *omamori*, las notas de su madre y un órgano que lo mata. Trabaja de cazador, escolta y piloto. Busca a Lev en los registros y encuentra un desertor acusado del golpe contra Viktor, con precio."
     - cuando: "19 años · cap. 1"
@@ -162,7 +162,7 @@ pendientes:
   - "Alias de Senri en Tampu."
   - "Nombres científicos del gen suyo y de Hana, y del de Viktor y Lev."
   - "Nombre del respirador de media cara."
-  - "Dónde exactamente lo esconde Ken a las afueras del palacio: quizá un templo."
+  - "Confirmar los lugares de Hestia (la Boulé, el Pritaneo y su jardín, el Asclepión): ver [[hestia]]."
 ---
 ## Personalidad
 

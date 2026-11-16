@@ -2,7 +2,7 @@
 title: "Taishan"
 description: "El planeta de los xingtian. Gravedad altísima, atmósfera densa a alta presión y calor seco: viven bajo cúpulas y bajo tierra."
 sidebar:
-  order: 4
+  order: 5
 ficha:
   - ["Colonia", "[[xingtian|Xingtian]] · Jingwei"]
   - ["Capital", "Tianzhu (por confirmar)"]
