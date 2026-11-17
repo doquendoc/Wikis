@@ -1,9 +1,8 @@
 ---
 title: "Noaidi"
-description: "Un cuerpo de pneuma solidificado que hay que pagar cada segundo. Solo queda uno en esta galaxia."
+description: "Un cuerpo de pneuma solidificado que hay que pagar cada segundo, con un corazón que comen los Ammit. Libres, quizá solo quedan dos."
 sidebar:
   order: 1
-pendientes:
 ficha:
   - ["# Cuerpo", ""]
   - ["Nombre", "Sami: chamán, el que media entre mundos"]
@@ -19,7 +18,7 @@ ficha:
   - ["Solidificarlo", "Solo ellos"]
   - ["Reproducción", "Un contenedor; debilita para siempre a los dos padres"]
   - ["# Hoy", ""]
-  - ["En esta galaxia", "Queda una: [[ravdna|Ravdna]]"]
+  - ["En esta galaxia", "[[ravdna|Ravdna]] y su hermano, sin nacer: quizá los últimos libres"]
   - ["Planeta", "[[mundo-noaidi|Vacío]]"]
 ---
 ## Aspecto
