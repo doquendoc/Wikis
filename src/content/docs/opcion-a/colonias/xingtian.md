@@ -10,7 +10,9 @@ ficha:
   - ["Capital", "Jingwei"]
   - ["Idioma", "Mandarín"]
   - ["Injerto", "Fauna excavadora pesada"]
-  - ["En la guerra", "Se preparan para atacar"]
+  - ["Población", "≈ 25 – 35 millones (por confirmar)"]
+  - ["Núcleo", "Guardado: el único que nunca se usó"]
+  - ["En la guerra", "A punto de entrar: les piden ayuda los kairos y los chhaya legítimos"]
   - ["No aguantan", ["Gravedad baja", "Aire normal", "Agua"]]
   - ["Fuera de casa llevan", ["Compresor de aire ligero", "Botas o guantes que amortiguan su fuerza"]]
 ---
@@ -39,6 +41,8 @@ Piel seca y ligeramente escamosa, de placas finas, más marcada en antebrazos, n
 ## Sociedad
 
 Consejos técnicos y de gremios, pacientes. Industria pesada, minería y los mayores astilleros. **La colonia más poderosa.**
+
+**Su núcleo** es el único que nunca se usó: lo guardaron cuando las demás colonias gastaron los suyos. Viktor va, o está a punto de ir, a por él, y [[nadia|Nadia]] le pide que espere. Ver [[guerra]].
 
 **Costumbres:** comidas comunitarias enormes, proverbios de paciencia y fútbol en gravedad alta.
 

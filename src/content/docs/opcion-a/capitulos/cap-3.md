@@ -18,6 +18,18 @@ pendientes:
   - "Recortar en el texto la historia de los kamakiri y la de los tesoros: frenan la persecución."
   - "La escaleta antigua tenía que Senri descubría aquí que cada cazador muerto es comida. No está en el borrador: decidir si se queda para más adelante."
 ---
+
+## Correcciones al borrador
+
+**Elegir y unificar**
+
+- *Bozal* o *respirador*.
+- **«Núcleo»** del mensajero: lo mismo que en el [[cap-2|cap. 2]], necesita otro nombre o una explicación.
+
+**Ya encaja**
+
+- «La idea de la tal Lin Mei de formar equipo con ese hombre»: Nadia sabe quiénes son Senri y Lev y los quiere cerca y vivos. Se puede aprovechar sin delatarla.
+
 ## Dónde pasa
 
 Condiciones completas en [[fondo|el Fondo]]: 1,3 g, unos cuarenta grados, poco oxígeno y la humedad del desierto. Después de tres años en Tampu, Senri se ha acostumbrado a ir más ligero que en Atalanta (1,15 g), y aquí lo nota en cada salto.

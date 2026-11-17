@@ -22,8 +22,34 @@ pendientes:
   - "Nombre definitivo del bar y alias de Senri en Tampu."
   - "Si Nadia no se enciende a medianoche, al no verse la marca bajo la armadura."
   - "Repasar caribeñismos («jalar el gatillo», «amarrado») y erratas de nombres (penuma, xiantiang, cchaya, Tres Ojos y Tercer Ojo alternando)."
-  - "En el borrador, la camarera «tiene la línea en la nuca»: hay que cambiarlo por el implante en la sien."
 ---
+
+## Correcciones al borrador
+
+**Cambiar**
+
+- **El portal de la Viuda, dos veces.** «Había llegado [...] en una nave de pneuma, a través de un portal de penuma»: quitar el portal y dejar la nave. «Partió a través de un portal y regresó sola»: «partió en su nave». A [[aaru|Aaru]] no se llega por portal.
+- **La línea en la nuca** de la camarera → el implante en la sien. Ver [[vinculo-kairos]].
+- **Laddoo.** Plantarlo en la capucha de la sudadera de Leela, sin decir lo que es. Ver [[leela]].
+- **Dónde muere Hiroshi.** «Volvió al Palacio de Atalanta, al jardín en el que vio a un iskra volarle los sesos a su padre»: ahora es en el centro científico, de noche. Ver [[hestia]].
+
+**Elegir y unificar**
+
+- *Pasión Kairo* o *Pasión Verde*.
+- *Nifilim* o *nefilim*.
+- *Última Carrera* o *Última Prueba*.
+- «Palacio de Atalanta» y «Consejo de Hestia»: nombres de los lugares, ver [[hestia]].
+
+**Revisar**
+
+- «El tiempo que trató de ganar para que el Consejo de Hestia escapara»: es lo que cree Senri, y no es verdad. **Encaja** si se queda como creencia suya; sirve de semilla.
+- «Se alegraba de que los iskra la mataran entre los primeros»: Grace se mató. Si Senri no lo sabe, se queda; si lo sabe, cambiarlo.
+- «A su preciada colección de libros [...] arder como el resto del palacio»: qué edificio arde.
+
+**Ya encaja**
+
+- La Viuda «quería soldados» y volvía sola.
+
 ## Escenario
 
 ### La calle

@@ -60,7 +60,7 @@ personaje:
     - con: "[[leela|Leela]]"
       es: "Le da metal y le pone lazos rosas."
     - con: "[[nadia|Nadia]]"
-      es: "Es el único que oye su petición secreta a Ravdna."
+      es: "Es el único que oye su pacto con Ravdna."
   cronologia:
     - cuando: "Antes de Tampu"
       que: "Lo secuestran de su nido y lo obligan a matar atado a un mercenario. Los kirks usan a los kamakiri como armas, también en Atalanta."
@@ -72,18 +72,22 @@ personaje:
       que: "En la Fábrica, Senri lo hace bajarse porque pesa demasiado, y él se le agarra a la bota para que no lo deje tirado. En la caja de cristal le pregunta a Lev si su par está dispuesto a llevarlo."
     - cuando: "Cap. 6"
       que: "Mata al otro kairos que ataca en la sala de Ravdna."
-    - cuando: "Cap. 27"
-      que: "Senri le da un cuerpo con las capacidades que hereda de Ravdna."
+    - cuando: "Final"
+      que: "Quiere un cuerpo propio. Quién se lo da está por decidir."
   sabe:
     - "Que Senri tiene parches: los nota al tacto"
-    - "La petición secreta de Nadia"
+    - "El pacto secreto de Nadia con Ravdna"
     - "Que Senri huele a vínculo"
 pendientes:
   - "Qué es el tesoro que escupe y tiene escondido, y que «los terrícolas quieren»."
   - "Cómo llama Mushi a Senri."
+  - "Quién le da el cuerpo, ahora que Senri no absorbe a Ravdna."
+  - "Si su cuerpo de metal lo protege de la radiación de Lev (propuesta)."
 ---
 ## Arco
 
-Quiere un cuerpo propio para no tener que agarrarse a nadie. Se lo acaba dando Senri, al final, con las capacidades que hereda de [[ravdna|Ravdna]].
+Quiere un cuerpo propio para no tener que agarrarse a nadie. Antes se lo daba Senri al final, con lo que heredaba de [[ravdna|Ravdna]] al absorberla; con el final nuevo, está por decidir.
+
+**Con Lev:** puede estar cerca, pero no lo toca, por la radiación ([[trastornos]]).
 
 **El peligro que lleva encima:** puede soltar lo de los parches de Senri con su traductor, o delatarlo con una escultura.

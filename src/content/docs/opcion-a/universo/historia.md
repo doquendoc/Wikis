@@ -10,14 +10,19 @@ ficha:
   - ["Arcas", "4, una por núcleo"]
   - ["Sacadas de", "La nave [[nefilim]] que cayó en la Tierra"]
   - ["# Los núcleos", ""]
-  - ["Estado al llegar", "Agotados"]
-  - ["Regenerarse", "Siglos"]
-  - ["Dónde", "En tierra, protegidos"]
-  - ["Las arcas", "En órbita"]
+  - ["Son", "Corazones de [[noaidi]]: cuatro que se sacrificaron en la nave"]
+  - ["Tamaño", "Caben en un puño"]
+  - ["Estado al llegar", "Gastados"]
+  - ["Recarga", "≈ 50 años"]
+  - ["Guardados", "En tierra; las arcas, en órbita"]
+  - ["Quedan", ["Kairos: dentro de [[senri|Senri]]", "Chhaya: dentro de Laddoo", "Iskra: estalló", "Xingtian: guardado"]]
+  - ["# Las arcas", ""]
+  - ["Capacidad", "≈ 50 000 personas (por confirmar)"]
   - ["# Tecnología", ""]
   - ["Compartida", ["Traductores niwashi", "Naves mejoradas por los niwashi"]]
   - ["Lengua común", "Inglés"]
 pendientes:
+  - "Capacidad de las arcas y poblaciones de cada colonia: están como propuesta."
   - "Nombre técnico de las arcas y de la tecnología nefilim (propuestas: Tebá, Ararat)."
 ---
 La Tierra mandó expediciones durante siglos sin resultados. Lo que lo cambió todo fue que se le cayera encima una nave [[nefilim]].
@@ -30,15 +35,30 @@ Cada arca era mixta, de al menos tres naciones, pero una tenía la capitanía e 
 
 Los humanos llegaron desarrollados, con tecnología y armas. En los cuatro planetas estaban los [[niwashi]], que los ayudaron a adaptarse y **aceleraron su evolución**: los cambios son biológicos, muy visibles y puede que no hayan terminado.
 
-## El problema de los núcleos
+## Los núcleos
 
-Los núcleos llegaron agotados y regenerar su pneuma lleva siglos, así que nadie los toca durante generaciones.
+Lo que nadie sabe es qué son: **corazones de [[noaidi]]**. Los cuatro de la nave eran cuatro noaidi que viajaban con los nefilim y se sacrificaron para moverla. Ver [[pueblos-antiguos]].
 
-- Las arcas están **en órbita**: fortaleza, capital y bote salvavidas si aparecen los [[ammit|Ammit]].
+Llegaron gastados del viaje, y un núcleo tarda unos **cincuenta años** en recargarse. Al cabo de ese tiempo estaban listos, y como los [[ammit|Ammit]] ya parecían un mito, **las colonias los usaron**. Solo los xingtian guardaron el suyo.
+
+| Colonia | Para qué lo usó | Dónde está hoy |
+|---|---|---|
+| [[kairos\|Kairos]] | Investigación, sobre todo del gen kairos | Dentro de [[senri\|Senri]]. Grace lo gastó en él y dejó una copia en la cámara |
+| [[chhaya\|Chhaya]] | Un lujo de la élite | Dentro de Laddoo, la mascota de [[leela\|Leela]] |
+| [[iskra\|Iskra]] | Mandar pneuma a la atmósfera de Mrak para frenar la radiación | Estalló hace siete u ocho años. Ver [[mrak]] |
+| [[xingtian\|Xingtian]] | Nada: lo guardaron | En [[taishan\|Taishan]] |
+
+- Las arcas están **en órbita**: fortaleza, capital y bote salvavidas si aparecen los Ammit.
 - Los núcleos no: se guardan **en tierra**, protegidos.
-- No se pueden construir más arcas.
+- No se pueden construir más arcas, y nadie puede crear núcleos.
 
-Por eso la [[guerra|guerra]] no va de arcas, va de núcleos, y por eso la petición de [[lev|Lev]] —que Ravdna recargue uno— lo resolvería todo sin una muerte más.
+Por eso la [[guerra|guerra]] no va de arcas, va de núcleos.
+
+:::caution[Por confirmar]
+Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
+:::
+
+Cada arca lleva unas **50 000 personas**. A los iskra, que son entre 150 000 y 200 000, les hacen falta tres.
 
 ## Tecnología compartida
 

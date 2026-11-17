@@ -6,12 +6,12 @@ sidebar:
 ficha:
   - ["Nombre", "Hebreo: los gigantes, los caídos"]
   - ["Estado", "Extintos"]
-  - ["Legado", "4 núcleos de pneuma"]
+  - ["Legado", "4 núcleos: cuatro noaidi que se sacrificaron"]
   - ["Causa de la muerte", "El oxígeno de la Tierra"]
 pendientes:
   - "En el borrador del cap. 1 se escriben «nifilim», y la galaxia se llama Nifilia. Decidir: nefilim o nifilim (y si Nifilia viene de ellos)."
 ---
-Especie gigante de la misma galaxia que los [[noaidi]], aliados o parientes suyos: de ahí los núcleos de pneuma de su nave, que dieron las cuatro arcas humanas.
+Especie gigante de la misma galaxia que los [[noaidi]], aliados o parientes suyos. Cuatro noaidi viajaban en su nave y **se sacrificaron para moverla**: sus corazones son los cuatro núcleos que dieron las cuatro arcas humanas.
 
 Huían de los [[ammit|Ammit]] igual que ellos. Su planeta se había destruido por algo natural, así que se mudaban. Algo salió mal en el viaje, el piloto automático detectó vida avanzada y aparcó en la Tierra, y murieron al contacto con el oxígeno. Ver [[mundo-nefilim]].
 

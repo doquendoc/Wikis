@@ -11,6 +11,8 @@ ficha:
 pendientes:
   - "Qué descubre Senri al investigar la nave en el capítulo 7."
   - "El roce del capítulo 10, que escala la mano del pozo."
+  - "El cuarto de lavado puede dejar de ser el escenario: lo que se queda son los momentos a solas."
+  - "Desde el cap. 10 Lev va con el torso roto: qué pasa con su radiación cerca del grupo, y cuánto tiempo puede pasar así."
   - "Momentos propios de Leela en los arcos 2 y 3."
   - "Mejorar el diseño de la base."
 ---

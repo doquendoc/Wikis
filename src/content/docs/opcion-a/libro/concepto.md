@@ -13,6 +13,7 @@ ficha:
   - ["Romance", "Rivals to lovers: [[senri|Senri]] y [[lev|Lev]]"]
   - ["Final", "Feliz por ahora: juntos"]
   - ["Formato", "Debut autoconclusivo, con puerta a un libro 2"]
+  - ["Antes de publicar", "Esquema del libro 2"]
   - ["Idioma", "Español"]
   - ["# Cómo se cuenta", ""]
   - ["POV", "Dual: Senri y Lev, alternando"]
@@ -31,7 +32,7 @@ BL, *rivals to lovers* entre [[senri|Senri]] (kairos) y [[lev|Lev]] (iskra), con
 
 ## Formato
 
-Debut autoconclusivo con cierre parcial. La misión se cierra; el grupo sigue unido con un objetivo nuevo que abre una posible segunda parte, no obligatoria.
+Debut autoconclusivo con cierre parcial. Se cierran los arcos de los personajes; la amenaza de los [[ammit|Ammit]] queda abierta. El grupo sigue unido y eso abre una segunda parte, cuyo esquema tiene que estar hecho antes de publicar.
 
 ## POV
 
@@ -44,7 +45,7 @@ El lector sabe desde el capítulo 2 que Lev mató a Ken: **no es misterio, es su
 ## Reglas de alcance (enfoque de película)
 
 - Solo se explica lo que toca la misión; lo demás es textura de una línea.
-- Pocas especies en escena. Los [[ammit|Ammit]] no aparecen nunca: solo sus restos y lo que Senri lleva dentro.
+- Pocas especies en escena. Los [[ammit|Ammit]] apenas aparecen: sus restos, lo que Senri lleva dentro y, al final, los que despiertan.
 - Un escenario principal por acto: la estación, el viaje, la base.
 - La [[guerra|guerra]] de los iskra es fondo.
 - La tecnología funciona sin justificarse.

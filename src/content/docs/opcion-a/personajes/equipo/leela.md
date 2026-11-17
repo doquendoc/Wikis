@@ -1,10 +1,10 @@
 ---
 title: "Leela Rathore"
-description: "Chhaya, 13 años. Heredera de Indraprastha, y la vendieron los suyos. Pide en vez de robar, y no por moral."
+description: "Chhaya, 13 años. Hija de los golpistas de Indraprastha, y lleva el núcleo de su colonia escondido en su mascota. Pide en vez de robar, y no por moral."
 sidebar:
   order: 2
 personaje:
-  rol: "Heredera de Indraprastha"
+  rol: "La que lleva el núcleo chhaya"
   especie: "[[chhaya]]"
   edad: "13"
   apodos:
@@ -14,7 +14,8 @@ personaje:
   datos:
     - ["Altura", "1,45 m"]
     - ["Peso", "≈ 34 kg"]
-    - ["Armas", "Ilusiones, un *katar* de mango rosa y un bastón extensible"]
+    - ["Armas", "Ilusiones, un *katar* de mango rosa, un bastón extensible y Laddoo"]
+    - ["En la capucha", "Laddoo, con el núcleo chhaya dentro"]
   vistazo:
     rasgos:
       - "Modales impecables, adorable cuando le conviene"
@@ -22,8 +23,8 @@ personaje:
       - "Instintiva: prefiere actuar a pensar"
       - "Quizá sociópata: nadie sabe si siente o imita, quizá ni ella"
       - "No es una luchadora: es una niña y casi no tiene fuerza. En espacios cerrados es muy útil, porque sus ilusiones drogan mejor"
-    quiere: "Recuperar a su familia: Kamala y Laddoo, no sus padres."
-    necesita: "Desenmascarar el pacto de forma que no se pueda arreglar."
+    quiere: "Salvar a Laddoo, porque para quitarle el núcleo lo matarían."
+    necesita: "Alguien que pueda sacarle el núcleo a Laddoo sin matarlo: al final cree que es Senri, o lo que salga del huevo."
   aspecto:
     rasgos:
       - ["Piel", "Dorada, con un tornasolado muy visible, como aceite sobre agua; brilla como el nácar con las luces"]
@@ -34,7 +35,7 @@ personaje:
     marcas:
       - tipo: "Mehndi"
         donde: "Manos y brazos"
-        que: "Tatuado desde pequeña con los motivos de la casa real: henna con savia de la estepa, permanente, con pneuma debajo."
+        que: "Tatuado desde pequeña con los motivos de su familia: henna con savia de la estepa, permanente, con pneuma debajo."
         nota: "No se borra, reacciona a su pneuma y la delata, así que lo lleva tapado. Es lo único de casa que no ha podido perder ni vender. Se lo grabaron «hace un par de años» (cap. 1)."
       - tipo: "Banda"
         donde: "Muñeca, bajo la manga de la sudadera"
@@ -42,6 +43,7 @@ personaje:
         nota: "No es suya: la cogió del suelo cuando le cortaron las manos a su dueño (cap. 1)."
     ropa: "Todo rosa: sudadera enorme, falda sobre mallas, zapatillas que se iluminan, consola en el cinturón."
     lleva:
+      - "A Laddoo, en la capucha"
       - "Una *diya*, que enciende cada noche donde duerme"
       - "La consola"
   voz:
@@ -70,6 +72,7 @@ personaje:
       - "Los videojuegos"
       - "El rosa: ve diez rosas distintos"
       - "Mushi"
+      - "Laddoo"
       - "Ganar"
     odia:
       - "La oscuridad"
@@ -81,17 +84,17 @@ personaje:
     - nombre: "Aditya Rathore"
       relacion: "Padre"
       estado: "vivo"
-      nota: "Pactó con los iskra y la entregó como rehén para salvar la colonia."
+      nota: "Su partido perdió las elecciones y se alió con los iskra para dar un golpe contra el gobierno legítimo, a cambio del arca y el núcleo. Fabricaban las armaduras de mayavi."
     - nombre: "Meera Rathore"
       relacion: "Madre"
       estado: "viva"
-      nota: "Querían una princesa perfecta. No eran cercanos. La vendieron."
+      nota: "Querían una hija perfecta. No eran cercanos."
     - nombre: "Kamala"
       relacion: "Su aya"
-      nota: "Su familia de verdad. La saca del palacio y se queda atrás cubriendo la huida. Al final se une al grupo y cocina para todos."
+      nota: "Su familia de verdad, y espía del gobierno legítimo desde siempre. Puso el núcleo a salvo; la hirieron y se lo dio a Leela. Queda fuera de la historia."
     - nombre: "Laddoo"
       relacion: "Su mascota"
-      nota: "De la especie de la que los chhaya heredaron las ilusiones: proyecta señuelos y come tierra y arena. Se queda en el palacio."
+      nota: "Un mayavi, la especie de la que los chhaya heredaron las ilusiones. Pequeño, va en su capucha, proyecta señuelos y come tierra y arena. Se tragó el núcleo y se le fusionó. Se cierra y se aísla."
   relaciones:
     - con: "[[senri|Senri]]"
       lellama: "bhaiya"
@@ -101,33 +104,51 @@ personaje:
       es: "Sabe que es iskra desde el principio, por el acento, y lo trata con modales perfectos porque trata bien a todo el mundo."
     - con: "[[nadia|Lin Mei]]"
       lellama: "didi"
-      es: "Le copia el truco de juntar las bandas en el bar. Reconoce la tecnología de su armadura y se lo calla."
+      es: "Le copia el truco de juntar las bandas en el bar. Laddoo nota algo en ella y no le gusta, y Leela no entiende por qué. Descubre tarde lo de la armadura."
     - con: "[[mushi|Mushi]]"
-      es: "Lo único que le recuerda a Laddoo es que come sin parar. Le da metal y le pone lazos rosas."
+      es: "Le da metal y le pone lazos rosas."
   cronologia:
-    - cuando: "0 a 11 años · el palacio"
-      que: "Heredera de Indraprastha. Aprende que lo que mejor se le da es fingir. Le graban el mehndi."
-    - cuando: "11 años · la traición"
-      que: "Sus padres pactan con los iskra: no ser atacados a cambio de entregarla como rehén. Kamala la saca del palacio y se queda atrás; ella escapa dejando un señuelo de sí misma. Laddoo se queda."
+    - cuando: "0 a 11 años · Indraprastha"
+      que: "Hija de gente con poder. Aprende que lo que mejor se le da es fingir. Le graban el mehndi."
+    - cuando: "11 años · el golpe"
+      que: "El partido de sus padres, que ha perdido las elecciones, da un golpe con los iskra. Kamala pone el núcleo a salvo, la hieren y se lo da a Leela. Leela lo esconde en Laddoo, que se lo traga, y escapa dejando un señuelo de sí misma."
     - cuando: "11 a 13 años · sola"
       que: "Roba, actúa en espectáculos de ilusiones y hace trabajos de distracción, hasta llegar a Tampu. Duerme en la calle."
     - cuando: "13 años · cap. 1"
       que: "Coge una banda de la Viuda del suelo, de alguien a quien le cortaron las manos."
-    - cuando: "Coda · cap. 28"
-      que: "Su familia la recibe con los brazos abiertos y la van a entregar igualmente. Escapa con Kamala y Laddoo."
+    - cuando: "Final"
+      que: "Se queda con Senri, porque cree que él, o lo que salga del huevo, puede sacarle el núcleo a Laddoo."
   sabe:
     - "Que Lev es iskra"
-    - "Que la armadura de Lin Mei es tecnología iskra, y por tanto prueba del pacto"
+    - "Que Laddoo lleva dentro el núcleo de su colonia"
     - "Cuándo miente cualquiera"
     - "Que Senri lleva injertos: ve las costuras"
+  ignora:
+    - "Lo de la armadura de Lin Mei, hasta tarde"
+    - "Que Nadia sabe quién es"
 pendientes:
   - "En qué momento rompe el protocolo con Senri."
+  - "Cuándo descubre lo de la armadura de Lin Mei, y qué lo dispara."
+  - "Cuándo se entera Senri de lo de Laddoo."
+  - "Qué pasa con Kamala: si sigue viva y dónde."
   - "Momentos propios suyos en los arcos 2 y 3."
 ---
 ## Lo que quiere
 
-**Petición a Ravdna:** «quiero recuperar a mi familia». Nadie sabe a cuál se refiere.
+**Petición a Ravdna:** «quiero recuperar a mi familia». Nadie sabe a cuál se refiere, y la ambigüedad se queda.
 
-**Objetivo final:** si Indraprastha sabe que su familia real la ha vendido, el acuerdo se cae y los iskra pierden ese apoyo.
+**Lo que de verdad quiere:** salvar a Laddoo. Lleva dentro el núcleo de Indraprastha, fusionado, y para quitárselo lo matarían.
 
-**A quién odia:** no a los iskra, que le parecen peligrosos y no le gustan, y punto. Odia a su familia y a la facción que la vendió, **porque fueron los suyos quienes abrieron la puerta**.
+**A quién odia:** no a los iskra, que le parecen peligrosos y no le gustan, y punto. Odia a su familia y a su partido, **porque fueron los suyos quienes abrieron la puerta**.
+
+## Laddoo
+
+Un mayavi de [[marichi|Marichi]]: pequeño, va en su capucha, proyecta señuelos y come tierra y arena. Leela escondió el núcleo en él, se lo tragó y **se le fusionó**.
+
+**Se cierra y se aísla.** Así no lo perciben Senri, Lev ni Viktor; Ravdna sí, si lo tiene muy cerca. Los Ammit tampoco. Lo sabe Leela y, más adelante, Senri.
+
+Es un arma, y por eso Ravdna y Nadia los necesitan a los dos hasta llegar al huevo.
+
+## Al final
+
+Se queda con Senri, porque cree que él, o lo que salga del huevo, puede sacarle el núcleo a Laddoo sin matarlo.

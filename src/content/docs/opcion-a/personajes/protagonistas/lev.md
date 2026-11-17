@@ -17,13 +17,14 @@ personaje:
     - ["Precio", "50 millones: solo valen más los miembros del Consejo iskra que sobrevivieron al golpe de Viktor"]
     - ["Su pneuma sabe a", "Sangre y ozono"]
     - ["Trastorno", "[[trastornos|Hiperpneumia]]"]
+    - ["Radiactivo", "En dosis bajas, desde la explosión de Mrak. La armadura lo bloquea"]
   vistazo:
     rasgos:
       - "Disciplinado, contenido, de pocas palabras"
       - "Humor cínico: suelta una observación amarga y sigue"
       - "Exigente hasta el último detalle, sobre todo consigo mismo"
       - "Cuanto más cerca del límite, más se cierra"
-    quiere: "Los dos núcleos que faltan, para quedarse en Mrak en vez de irse: el planeta por el que murieron sus padres."
+    quiere: "Tres núcleos, para quedarse en Mrak en vez de irse: el planeta por el que murieron sus padres."
     miedo: "Que Senri sepa que entonces notó que el chaval estaba colgado y se fue igual. Es lo que nunca dice."
   aspecto:
     rasgos:
@@ -99,48 +100,50 @@ personaje:
     - nombre: "Svetlana"
       relacion: "Madre"
       estado: "muerta"
-      nota: "*Luminosa*. Científica: buscaba proteger a los iskra de la radiación y murió por ella. De ella recuerda las canciones."
+      nota: "*Luminosa*. Científica de la instalación del núcleo, que frenaba la radiación de Mrak. Murió cuando estalló. De ella recuerda las canciones."
     - nombre: "Konstantin"
       relacion: "Padre"
       estado: "muerto"
-      nota: "*Constante*. Científico, como ella. Severo con todos menos con Svetlana. Viktor saboteó su investigación."
+      nota: "*Constante*. Científico, como ella. Severo con todos menos con Svetlana. Murió en la explosión."
     - nombre: "Timur"
       relacion: "Mentor"
       estado: "muerto"
-      nota: "*Hierro*. Lo crió en el ejército. Controlaba sus patrones y Lev nunca pudo leerlo, así que aprendió a olerlo y a oír sus latidos. Lo mató Nadia en el golpe."
+      nota: "*Hierro*. Lo crió en el ejército. Controlaba sus patrones y Lev nunca pudo leerlo, así que aprendió a olerlo y a oír sus latidos. Lo ejecutaron tras el golpe de Lev."
   relaciones:
     - con: "[[senri|Senri Hayami]]"
       lellama: "malchik"
       es: "El crío kairos que hablaba demasiado en Hestia; el hermano del hombre que mató. Lo reconoce en cuanto lo ve en el bar y decide no decírselo. Su conflicto va de «¿debería decírselo?» a «si se lo digo lo pierdo» y a «ya es tarde»."
     - con: "Viktor Orlov"
       lellama: "general"
-      es: "Se fijó en él por la hiperpneumia y lo hizo teniente de su escolta tras salvarle la vida. Lev dio un golpe contra él y perdió. Le ha puesto precio."
+      es: "Lo cubrió en la explosión y se criaron casi como hermanos. Lo hizo teniente de su escolta. Lev dio un golpe contra él y perdió. Le ha puesto precio."
     - con: "[[nadia|Nadia Orlova]]"
-      es: "La conoce desde jóvenes. Lo ha salvado dos veces sin explicarse, y él lo interpreta como desprecio. Teme que Lin Mei sea ella y no quiere confirmarlo."
+      es: "La gemela de Viktor; se criaron casi como hermanos desde la explosión. Lo sacó de la cárcel antes de que lo ejecutaran sin explicarse, y él lo interpreta como desprecio. Teme que Lin Mei sea ella y no quiere confirmarlo. Es la única que puede tocarlo sin riesgo."
     - con: "[[leela|Leela]]"
       lellama: "sahab"
-      es: "Lo trata con modales perfectos. Le toca los pies en señal de respeto, entre la cortesía y la burla."
+      es: "Lo trata con modales perfectos. Le toca los pies en señal de respeto, entre la cortesía y la burla: por encima de la armadura, porque tocarlo a él no es buena idea."
     - con: "[[mushi|Mushi]]"
       es: "Guerra fría. Tira sus esculturas a la basura, y aun así acaba con una en el bolsillo."
     - con: "[[ravdna|Ravdna]]"
-      es: "Le promete los dos núcleos, y se los ha prometido también a Nadia. No le dice qué hay en el contenedor."
+      es: "Le promete núcleos, los mismos que a Nadia, y le miente sobre de dónde van a salir. No le dice qué hay en el contenedor."
   cronologia:
     - cuando: "Infancia"
-      que: "Hijo de Svetlana y Konstantin, que buscan cómo proteger a los iskra de la radiación. Mueren por ella."
+      que: "Hijo de Svetlana y Konstantin, científicos de la instalación del núcleo, que frenaba la radiación de Mrak."
+    - cuando: "14 o 15 años · la explosión"
+      que: "Una emergencia en la instalación: sus padres y Nadia quedan atrapados. Viktor va a sacarlos y Lev se cuela detrás; Viktor lo cubre. El núcleo estalla, mueren sus padres y Lev sale radiactivo."
     - cuando: "Huérfano"
-      que: "Criado en el ejército por Timur. Aprende a leer a la gente por el olor y el latido."
+      que: "Criado en el ejército por Timur, y casi como un hermano de Viktor y Nadia. Aprende a leer a la gente por el olor y el latido."
     - cuando: "Muy joven"
-      que: "Salva él solo a un pelotón de los *likho*. Después le salva la vida a Viktor matando a Pavel, colega de sus padres. Entra en la escolta como teniente."
+      que: "Salva él solo a un pelotón de los *likho*. Entra en la escolta de Viktor como teniente."
     - cuando: "19 años · Hestia"
       que: "Teniente en segunda fila de la delegación, alojada en el Asclepión; Viktor prueba en él los cristales de Grace. Coincide muchas veces con un crío kairos. Una vez se quita la armadura para ver el amanecer a través del cristal de Grace, y el chico se tapa los ojos para no incomodarlo ([[cap-2|cap. 2]]). Nota que el chaval está colgado y lo descarta. Ken le advierte de que acercarse al hijo de los Hayami parece una operación, y se retira creyéndolo."
     - cuando: "19 años · año 0 · la noche del golpe"
-      que: "Ya con la armadura negra. Ve a Grace matarse con la pistola de Viktor. Mata a Ken, deja vivir a Senri y miente para que nadie lo busque donde está escondido."
+      que: "Ya con la armadura negra. Ve a Grace matarse con la pistola de Viktor. Ken lo ataca y Lev, defendiéndose, le da una herida mortal. Ken no deja que lo lleve a un médico y le pide que saque a Senri. Lev lo saca y lo mete en una nave con piloto automático."
     - cuando: "19 años · tras Hestia"
       que: "Se opone a Viktor de inmediato, y vuelve con ellos."
     - cuando: "19 años · días o semanas después · el golpe"
-      que: "Contra Viktor, para buscar alternativas sin más muertes. Solo lo siguen Timur y unos pocos. Pierde; Nadia mata a Timur y a los demás."
+      que: "Contra Viktor, para buscar alternativas sin más muertes. Solo lo siguen Timur y unos pocos. Pierde y lo encarcelan."
     - cuando: "Preso"
-      que: "Pasa un tiempo en prisión, y escapa."
+      que: "Nadia lo saca antes de que lo ejecuten. A Timur y a los demás los ejecutan."
     - cuando: "Dos años prófugo"
       que: "Desertor con precio de 50 millones. Cada semana alguien de Viktor intenta cogerlo."
     - cuando: "22 años · cap. 3"
@@ -152,25 +155,29 @@ personaje:
     - "Que fue él quien mató a Ken"
     - "Lo que le suplicó Ken, aunque no entendió por qué"
     - "Que vio a Grace matarse"
+    - "Que sacó a Senri de Hestia"
+    - "Que es radiactivo, y que tocar a alguien no es buena idea"
   ignora:
     - "Si Senri lo ha reconocido"
     - "Que Senri está vinculado a él"
-    - "Lo que lleva Senri dentro"
+    - "Lo que lleva Senri dentro (hasta Aaru)"
     - "Que Lin Mei es Nadia (lo teme)"
-    - "Que Viktor saboteó la investigación de sus padres y que Pavel lo había descubierto"
+    - "Que los núcleos son corazones de noaidi"
+    - "Que Ravdna le ha prometido a Nadia los mismos núcleos"
 pendientes:
   - "Detalles de las llamaradas de Mrak: frecuencia, daño, cuánto tiempo les queda."
   - "Si llega a decirle alguna vez que lo notó entonces y se fue igual."
   - "Dónde tiene las cicatrices del golpe."
-  - "Cuánto tiempo pasa preso y cómo escapa."
-  - "Dónde caen ahora las dos veces que lo salva Nadia. Antes eran meterlo en una nave con piloto automático cuando Viktor casi lo mata tras Hestia, y dejarlo escapar en el golpe."
+  - "Cuánto tiempo pasa preso y cómo lo saca Nadia."
+  - "La tabla de twists dice que Nadia lo salva dos veces: una es sacarlo de la cárcel. ¿La otra?"
+  - "Cuántos núcleos le promete Ravdna."
   - "Si la fuerza que nota al despertar en el cap. 4 le viene del parche: llevaba vacío desde que gastó su pneuma en La Máquina."
 ---
 ## Personalidad
 
 **Contradicción:** se cree un hombre de deber, y sus mejores momentos rompen las reglas.
 
-Carga con la culpa: esa noche mató a gente a la que debería haber apoyado. Posesivo con el grupo y desconfiado con Nadia.
+Carga con la culpa: esa noche mató a Ken, que solo protegía a su hermano, y no hizo nada por Grace. Posesivo con el grupo y desconfiado con Nadia.
 
 ## Percepción y patrones
 
@@ -210,11 +217,21 @@ Cómo está hecha, de dónde saca la energía y qué módulos tiene: [[skorlupa]
 
 ## Su petición a Ravdna
 
-Los dos núcleos que faltan, **para no tener que irse**.
+**Tres núcleos, para no tener que irse.** El de Mrak mandaba pneuma a la atmósfera y frenaba la radiación de la estrella; desde que estalló, nada la frena. Con tres, Mrak vuelve a ser habitable. Ver [[mrak]].
 
-Sus padres trabajaban en un gas basado en pneuma que se traga la radiación sin dañar los ecosistemas, y dejaron las instalaciones montadas: lo que nunca tuvieron fue una fuente capaz de generarlo, y un núcleo sí lo es.
+Pedir eso lo pone en contra de todo su gobierno —Viktor quiere irse con tres arcas; él quiere conservar su planeta— y explica que su golpe no arrastrara a nadie: **proponía quedarse en un mundo que todos dan por muerto**.
 
-Pedir eso lo pone en contra de todo su gobierno —Viktor quiere irse quitándole un arca a otro; él quiere conservar su planeta— y explica que su golpe no arrastrara a nadie: **proponía quedarse en un mundo que todos dan por muerto**.
+Ravdna le promete los mismos núcleos que a Nadia, y no le dice de dónde van a salir. Lo entiende en Aaru, cuando descubre que [[senri|Senri]] lleva uno dentro: duda de que sacárselo sea seguro, y no elige matarlo.
+
+## La radiación
+
+Desde la explosión es **radiactivo en dosis bajas**, como hacerse una placa. La armadura lo bloquea, y es otra razón para no quitársela. Puede estar un rato sin casco; tocarlo no es buena idea.
+
+- **Nadia** puede tocarlo: tiene la misma condición y lleva armadura.
+- **[[leela|Leela]] y [[mushi|Mushi]]** pueden estar cerca, pero no lo tocan.
+- **[[senri|Senri]]** es inmune, por el órgano y el núcleo.
+
+Ver [[trastornos]].
 
 ## Lo que calla
 
@@ -225,9 +242,3 @@ Pedir eso lo pone en contra de todo su gobierno —Viktor quiere irse quitándol
 > Una vez le dijeron que acercarse a ese chico era una trampa. Parte de lo que lo frena en Tampu es eso.
 
 **Remates posibles:** en la fiebre tararea una canción de su madre, y al final se la canta al bebé. O Senri repite el chiste de la visita y Lev responde por reflejo *tak tochno*.
-
-## El secreto de Viktor
-
-**Viktor saboteó la investigación de Svetlana y Konstantin** para forzar el éxodo a un planeta mejor, lejos de las demás colonias, y controlar la galaxia con ayuda de los niwashi. Pavel lo descubrió.
-
-> Lev salvó al hombre que mató a sus padres y mató al único que podía decirle la verdad.

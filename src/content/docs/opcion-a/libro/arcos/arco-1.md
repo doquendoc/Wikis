@@ -15,7 +15,7 @@ pendientes:
   - "Qué viene después de la arena: Diana tiene otra idea para el capítulo siguiente. El laberinto ya pasó (son los contenedores del cap. 3), así que el capítulo 4 antiguo desaparece. De él quedaban: que Senri paga su deuda guiando a Lev a ciegas con la funda de la katana de Ken; el tramo de luz cegadora y calor; que Nadia debería sufrir con el calor y no lo hace; y la prueba de las condiciones de la base (oscuridad, luz, frío y calor). Decidir qué se recoloca."
   - "La cúpula y el pozo (cap. 5) y Ravdna (cap. 6) están escritos para venir después del laberinto: revisar cuando se decida lo que sigue a la arena."
   - "Si el secuestro va en capítulo propio (el libro pasaría a 31)."
-  - "Si Nadia nota antes o después lo que hace Senri con el pneuma: de momento, lo que la hace quererlo vivo es reconocerlo como el hijo de los Hayami."
+  - "Si Nadia nota antes o después lo que hace Senri con el pneuma: lo quiere vivo porque sabe quién es y le vale para los núcleos."
 ---
 ## La idea de fondo
 
@@ -61,19 +61,19 @@ Abajo, Lev guarda el arma. Senri descubre un parche nuevo.
 
 Senri llega quinto: dentro están Leela, Lev, Nadia y otro kairos, y [[ravdna|Ravdna]] va a matarlo por regla. Nadia interviene comparando a los dos kairos con las tarifas del registro qhatu, que lleva en su libreta y que nadie puede discutir. El otro kairos se ve perdido y ataca; [[mushi|Mushi]] lo mata, y Nadia lo suma como argumento. Ravdna los contrata a los cuatro.
 
-**Las peticiones**, que es lo que mueve todo el libro:
+**Las peticiones**, que es lo que mueve todo el libro. Nadie sabe lo que ha pedido el otro.
 
 | Quién | Qué pide | Cómo |
 |---|---|---|
-| Leela | Llegar a su familia | En público |
-| Nadia | Los dos núcleos que faltan, para tener tres arcas y evacuar a su pueblo | En voz baja; lo oye Mushi |
-| Lev | Esos mismos dos núcleos, para alimentar las instalaciones de sus padres y **no** tener que irse | En privado |
-| Senri | Que le extraiga una porción de su órgano | En privado |
+| Leela | «Recuperar a mi familia» | En público |
+| Nadia | Núcleos para las arcas de Viktor. Es un pacto | A solas; lo oye Mushi |
+| Lev | Tres núcleos, para quedarse en Mrak | En privado |
+| Senri | Que le saque el núcleo que lleva dentro sin convertirlo en lo que era Fintan | En privado |
 
-**Lo de Senri**, que es el riesgo más grande que corre en el libro: le cuenta lo que lleva dentro y le pide que complete la investigación de Grace y Fintan. El órgano es de pneuma, así que una porción puede crecer en otro cuerpo alimentándose justo del excedente que mata a los kairos: una donación, y de ahí una cadena. No lo cura a él, y lo sabe.
+**Lo de Senri**, que es el riesgo más grande que corre en el libro: le cuenta lo que lleva dentro. Ravdna lo necesita vivo para llegar al huevo, así que dice que sí y miente.
 
-**Ravdna calcula**: lo necesita para la misión, así que acepta y miente. Lo que le está pidiendo le daría a toda una especie la capacidad de consumir pneuma ajeno, y eso es exactamente el origen de los [[ammit|devoradores]] otra vez. Encarga a Nadia que lo mate al final, y Nadia no lo cumple porque le coge cariño.
+**El pacto de Nadia** está hecho sobre una mentira. Ravdna le promete dos núcleos —los de Laddoo y Senri, sin decirle dónde están— a cambio de que le consiga el huevo y le quite de en medio a Lev y a Leela. Lo más sencillo para sacar esos núcleos es matar a Senri y a Laddoo, pero no enseguida: para llegar al huevo hacen falta Lev, Senri, y Leela con Laddoo, que es un arma.
 
-Ravdna ya sabe que un devorador murió por él, y se pregunta si lo que Fintan estaba haciendo era empezar otra vez. **Ha prometido los mismos dos núcleos dos veces, y ellos no lo saben.**
+Ravdna no puede crear núcleos: los que promete son los de otros. Ya sabe que un devorador murió por Senri, y se pregunta si lo que Fintan estaba haciendo era empezar otra vez. **Ha prometido los mismos núcleos dos veces, y ellos no lo saben.**
 
-Cruzan su portal.
+Suben a su nave.

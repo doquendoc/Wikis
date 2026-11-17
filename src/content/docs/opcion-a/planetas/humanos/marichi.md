@@ -40,7 +40,7 @@ En la estepa crece **un arbusto rico en pneuma** cuya savia, mezclada con henna,
 Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
 :::
 
-Construida en lo alto de una meseta, con fachadas claras y cristal por todas partes para que entre la luz: los chhaya buscan el sol y se tumban bajo cualquier lámpara. Allí está el palacio de la familia real, el de [[leela|Leela]], y los grandes teatros de ilusiones. Las casas tienen habitaciones aisladas para dormir.
+Construida en lo alto de una meseta, con fachadas claras y cristal por todas partes para que entre la luz: los chhaya buscan el sol y se tumban bajo cualquier lámpara. Allí están la casa de la familia de [[leela|Leela]] y los grandes teatros de ilusiones. Las casas tienen habitaciones aisladas para dormir.
 
 ## Paisaje y clima
 
@@ -58,7 +58,7 @@ De día el calor levanta **espejismos** por todas partes: lagos que no existen y
 Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
 :::
 
-- **Los *mayavi*** (*ilusionistas*, en hindi). La especie de Laddoo, de la que los chhaya heredaron las ilusiones. Pequeños, viven en colonias en la estepa y comen tierra y arena. Cuando baja una rapaz, la colonia entera proyecta copias de sí misma, y el cielo ataca a un enjambre de fantasmas.
+- **Los *mayavi*** (*ilusionistas*, en hindi). La especie de Laddoo, de la que los chhaya heredaron las ilusiones. Pequeños, viven en colonias en la estepa y comen tierra y arena. Cuando baja una rapaz, la colonia entera proyecta copias de sí misma, y el cielo ataca a un enjambre de fantasmas. Se cierran y se aíslan: hechos una bola, no los nota ni quien percibe el pneuma. De su piel se hace la armadura de [[nadia|Nadia]].
 - **Los *garudas***, las rapaces gigantes que los cazan desde muy alto. Ven el ultravioleta, como los chhaya, y el injerto les debe la vista. Llevan millones de años en una carrera contra los mayavi: unos aprendiendo a engañar y los otros a ver a través del engaño.
 - Manadas de herbívoros de patas largas que viajan de noche, cuando hiela pero no hay rapaces.
 
@@ -80,13 +80,13 @@ Buscan la luz y se tumban bajo cualquier lámpara; miran arriba y una sombra sob
 
 ## Cómo se vive
 
-Monarquía hereditaria, mezcla del legado de los maharajás y las monarquías del Golfo. Usar una ilusión sin consentimiento es delito. Exportan espectáculo, medios, arte, diplomacia y espionaje.
+Democracia, hoy en guerra civil. Usar una ilusión sin consentimiento es delito. Exportan espectáculo, medios, arte, diplomacia y espionaje.
 
 Casas con habitaciones aisladas para dormir, porque proyectan sin control mientras duermen. Un festival de luces heredero de Diwali, dulces en cada visita, café con cardamomo y el teatro de ilusiones como gran arte.
 
 ## En la guerra
 
-[[nadia|Nadia]] tomó el arca de Indraprastha. La familia real pactó con los iskra: no ser atacados a cambio de entregar a la heredera, [[leela|Leela]], y apoyarlos. La resistencia huyó con el núcleo, y de ahí la guerra civil.
+El partido de la familia de [[leela|Leela]] perdió las elecciones y se alió con los iskra para dar un golpe contra el gobierno legítimo, a cambio del arca y el núcleo. Lo llevó [[nadia|Nadia]]. Kamala, el aya de Leela y espía del gobierno legítimo, puso el núcleo a salvo, y hoy lo lleva dentro Laddoo. De ahí la guerra civil.
 
 ## Fuera de Marichi
 

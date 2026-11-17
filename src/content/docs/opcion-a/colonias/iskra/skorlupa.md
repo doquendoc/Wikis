@@ -85,8 +85,8 @@ Las armaduras del Régimen llevan un módulo de rastreo. **Lev se lo quitó.** S
 
 ## La de Nadia
 
-Un prototipo de élite que diseñó ella a partir de la de Lev, y que **no sigue estas reglas**: se cultiva directamente sobre la piel y funciona con un núcleo pequeño, no con su pneuma. Por eso puede taparlo entero. Ver [[nadia]].
+Otra cosa, que **no sigue estas reglas**: está hecha con la especie de Laddoo, los *mayavi* de [[marichi|Marichi]]. Aísla del todo, es durísima y crea ilusiones: su aspecto de xingtian. La fabricaba para los iskra la familia de [[leela|Leela]], y es prueba de la alianza. [[ravdna|Ravdna]] ve a través de ella. Ver [[nadia]].
 
 ## Lo que significa
 
-Llevarla es cambiar la mitad de lo que los hace iskra por protección: la piel deja de sentir y la nariz de oler. Para Lev, además, es lo que lo separa de las dos personas que fue. Cómo se le va rompiendo a lo largo del libro está en [[lev]].
+Llevarla es cambiar la mitad de lo que los hace iskra por protección: la piel deja de sentir y la nariz de oler. A [[lev|Lev]], además, le bloquea la radiación que lleva dentro desde la explosión de Mrak ([[trastornos]]): otra razón para no quitársela. Para Lev, además, es lo que lo separa de las dos personas que fue. Cómo se le va rompiendo a lo largo del libro está en [[lev]].

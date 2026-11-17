@@ -13,6 +13,8 @@ ficha:
   - ["Injerto", "Fauna de cuevas y niebla"]
   - ["Temp. corporal", "≈ 35,5 °C"]
   - ["Pulso", "≈ 40 ppm"]
+  - ["Población", "≈ 150 000 – 200 000 (por confirmar)"]
+  - ["Núcleo", "Estalló hace 7 u 8 años"]
   - ["No aguantan", ["Luz intensa", "Parpadeo", "Gritos", "Sequedad"]]
   - ["Fuera de casa llevan", ["[[skorlupa|La armadura (skorlupa)]]"]]
 ---
@@ -22,7 +24,7 @@ ficha:
 
 No es un mundo oscuro, sino **tenue**: minerales fosforescentes, flora y fauna bioluminiscente y el pneuma de todo lo vivo marcándose en la niebla lo alumbran desde dentro, y la estrella apenas aporta. Su fauna, los *likho*, se volvió agresiva por la radiación.
 
-Las llamaradas de su estrella son cada vez más fuertes y frecuentes: la radiación enferma a la gente, daña a los niños antes de nacer y hace la superficie inhabitable. Les tocó el planeta más cruel, y esa es la raíz de la guerra.
+Las llamaradas de su estrella son cada vez más fuertes y frecuentes: la radiación enferma a la gente, daña a los niños antes de nacer y hace la superficie inhabitable. Les tocó el planeta más cruel, y esa es la raíz de la guerra. Su núcleo mandaba pneuma a la atmósfera para frenar la radiación, y **estalló hace siete u ocho años**.
 
 Más en [[mrak]].
 
@@ -90,4 +92,4 @@ Gobierno centralizado y muy militarizado. Ciudades blindadas y subterráneas cas
 
 ## Lo suyo propio
 
-La [[trastornos|hiperpneumia]], que es la razón de que Viktor se fijara en Lev.
+La [[trastornos|hiperpneumia]] y, desde la explosión del núcleo, **la radiación** que llevan dentro Viktor, Nadia y Lev.

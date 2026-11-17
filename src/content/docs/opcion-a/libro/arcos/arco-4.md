@@ -1,12 +1,22 @@
 ---
 title: "Arco 4 · La cámara"
-description: "Capítulos 22 a 27. Las dos traiciones, la muerte de Ravdna y el portal que se queda abierto."
+description: "Capítulos 22 a 27. Las dos traiciones, la muerte de Ravdna y la vuelta con un núcleo que paga Senri."
 sidebar:
   order: 4
 ficha:
   - ["Capítulos", "22 – 27"]
   - ["Escenario", "La cámara y la nave"]
   - ["Coste", "Nadie cobra"]
+  - ["Muere", "Ravdna, a manos de Nadia"]
+  - ["La vuelta", "Con el núcleo de Senri"]
+  - ["Abierto", "Los Ammit pueden llegar a Tampu"]
+pendientes:
+  - "Reordenar los caps. 24 a 27 con el final nuevo: en qué capítulo mata Nadia a Ravdna y dónde (propuesta abajo)."
+  - "Por qué no usan el núcleo de Ravdna para volver (propuesta abajo)."
+  - "Qué pasa con el huevo: quién lo lleva, si nace en el libro 1 y quién lo abre."
+  - "Qué hace el Ammit que sube a la nave después de quitarle el núcleo a Nadia."
+  - "Cuánto le cuesta a Senri mover la nave."
+  - "Qué núcleos le quedan a Lev a su alcance: el de Laddoo, y «el de Nadia», que se lo ha quitado el Ammit."
 ---
 ### 22 · La víspera
 
@@ -20,9 +30,9 @@ Nadia atrapa a todos menos a Senri, que cruza solo gracias al órgano y amenaza 
 
 Al sacar el contenedor, la base pierde sustentación y empieza a hundirse; los guardianes van a por todos menos Senri.
 
-Y la armadura rota de Lev, que es **un foco de pneuma puro andando**, despierta a unos cuantos Ammit: no en masa, porque no son tantos, pero suficientes.
+Y la armadura rota de Lev, que es **un foco de pneuma puro andando**, despierta a los [[ammit|Ammit]]: no en masa, porque no son tantos, pero suficientes.
 
-Nadia muestra lo que es: su armadura falla o se rompe y Lev la reconoce al verla y oírla. Sale a la luz que mató a Hiroshi. Nadia huye con el contenedor y **Lev elige quedarse con el grupo**.
+Nadia muestra lo que es: su armadura falla o se rompe y Lev la reconoce al verla y oírla. Sale a la luz quién es: la gemela de Viktor, la que llevó el golpe de Indraprastha y la que sacó a Lev de la cárcel. Nadia huye con el contenedor y **Lev elige quedarse con el grupo**.
 
 ### 25 · El eyector
 
@@ -30,28 +40,38 @@ Sacan a Senri. Nadia usó un eyector y dejó el otro sin energía; Senri lo alim
 
 ### 26 · La nave de Ravdna
 
-Pelea con Nadia, que huye sin el contenedor pero con los dos núcleos: es lo único que Ravdna llegó a pagar, por adelantado.
+:::caution[Por confirmar]
+Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
+:::
 
-Ravdna se está muriendo y no puede cumplir nada más. Está intentando hacer nacer a su hermano y no le queda pneuma para conseguirlo.
+Nadia llega antes que ellos. Ya sabe lo que son los núcleos, porque lo ha visto en la granja, y entiende que Ravdna le prometió los de Laddoo y Senri. **La mata y le quita el suyo.** Intenta llevarse también el huevo y a Laddoo, y el grupo la para. Con el único que afloja es con Senri.
 
-### 27 · El portal
+### 27 · La vuelta
 
-La nave va a estallar. Leela, que vio a Senri absorber pneuma y usarlo como ella, lo dice en voz alta, y **Ravdna toma su última decisión: dejarse comer** para que sea él quien abra el huevo.
+:::caution[Por confirmar]
+Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
+:::
 
-Lo que la lleva hasta ahí es darse cuenta de que si Senri tiene dentro el órgano de un devorador es porque otro se lo dio muriéndose: no todos son monstruos. Le hace jurar que no devorará al bebé, le enseña cómo hacerlo, porque él no sabe, y se deja absorber entera. Muere sin ver nacer a su hermano, fiándose de la palabra de alguien a quien lleva meses llamando «criatura».
+El núcleo de Ravdna está casi vacío: lo gastó en lanzar el viaje de ida, y por eso no les sirve para volver.
 
-Con lo que acaba de recibir, Senri le da un cuerpo a [[mushi|Mushi]] y abre él mismo el portal, desde un recuerdo de ella. **Usar esas capacidades le cuesta su propia vida, y lo hace igual.**
+Lo que sí está decidido:
 
-### El reparto final
+- **Usan el poder del núcleo de Senri para mover la nave**, y le cuesta: cuanto más tira de él, más pneuma y menos kairos.
+- **Un Ammit sube con ellos** y le quita a Nadia el núcleo de Ravdna. Ella se queda destrozada, y se queda con el grupo.
 
-- **Leela** se va a por su familia.
-- **Lev** se va a por los dos núcleos, antes de que Nadia los gaste.
-- **Senri** no va con él, y es un acuerdo entre los dos: con lo que lleva dentro y con el huevo encima, si lo cogen tienen un arma y un esclavo, así que Lev volverá a Tampu y lo esperará allí.
+## El reparto final
 
-### El portal abierto
+| Quién | Con qué se queda |
+|---|---|
+| **Nadia** | Con nada: el núcleo de Ravdna se lo quita el Ammit. Se queda con el grupo |
+| **Leela** | Con Senri, porque cree que él, o lo que salga del huevo, puede sacarle el núcleo a Laddoo |
+| **Lev** | Sin sus tres núcleos. Tiene cerca el de Laddoo y le falta el que tenía Nadia. Al huevo no lo va a matar |
+| **Senri** | Con el núcleo dentro, más gastado y él menos kairos |
 
-El plan de Ravdna era destruirlo al salir y dejarlos allí sin nada hasta que se murieran de hambre. Senri no tiene fuerza para eso.
+Se cierran los arcos de los personajes. **La amenaza queda abierta:** los Ammit pueden llegar a Tampu. Ver [[codas]].
 
-Tiene una alternativa: comérselo al bebé y romperlo con eso. No lo hace, porque lo juró, y **esa es la decisión más discutible del libro**.
-
-Los Ammit despiertos se quedan allí, con la reserva de la piscina y una puerta abierta.
+:::note[Lo que ya no vale de la versión anterior]
+- El portal: no hay. Se va y se vuelve en la nave de Ravdna.
+- Ravdna dejándose comer por Senri, y lo que heredaba él de ella: moldear, fijar y abrir portales, y darle un cuerpo a Mushi.
+- Nadia huyendo con dos núcleos pagados por adelantado.
+:::

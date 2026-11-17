@@ -4,6 +4,7 @@ description: "Cuatro arcas, cuatro planetas, cuatro cuerpos distintos. Todas con
 sidebar:
   order: 1
 pendientes:
+  - "Confirmar las poblaciones."
   - "Temperatura corporal de chhaya y xingtian, si hace falta cerrarla."
 ---
 ## La tabla
@@ -25,6 +26,25 @@ pendientes:
 | [[xingtian]] | [[taishan]] | Jingwei | 1,7 g | Calor seco | Denso, a alta presión | — |
 
 Todos los mundos, también los de otras especies, en [[planetas]].
+
+## Población y núcleo
+
+Cada colonia es un grupo de ciudades y puestos repartidos por el planeta, no una sola ciudad.
+
+:::caution[Por confirmar]
+Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
+:::
+
+Las cifras de población son una estimación:
+
+| | Población | Su núcleo | En la guerra |
+|---|---|---|---|
+| [[xingtian]] | ≈ 25 – 35 millones | Guardado | A punto de entrar |
+| [[chhaya]] | ≈ 10 – 15 millones | Dentro de Laddoo | Guerra civil |
+| [[kairos]] | ≈ 7 millones antes de la guerra; ≈ 3 – 4 millones hoy | Dentro de [[senri]] | Casi conquistados |
+| [[iskra]] | ≈ 150 000 – 200 000 | Estalló | Atacan |
+
+Ver [[historia]] para los núcleos y [[guerra]] para la guerra.
 
 ## La regla general
 

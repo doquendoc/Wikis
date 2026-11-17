@@ -20,10 +20,29 @@ ficha:
 pendientes:
   - "En el borrador: «la Espada del Consejo de Atalanta». Ver la propuesta de [[hestia]] (la Boulé)."
   - "Qué encuentran exactamente arriba, en el piso diez, más allá del pedestal."
-  - "En el borrador, el qhatu del ascensor dice que no ve «una línea en la nuca»: hay que adaptarlo al implante en la sien."
-  - "En el borrador aparece «el Mar de Chatarra»: ahora se llama el Desguace."
   - "Revisar el nombre de Lin Mei y cuándo lo da, ahora que la escena del bar y la del club se tocan."
 ---
+
+## Correcciones al borrador
+
+**Cambiar**
+
+- **La línea en la nuca**, dos veces: el qhatu del ascensor («No veo una línea en tu nuca») y Lev mirándole la nuca a Senri → el implante en la sien. Ver [[vinculo-kairos]].
+- **«El Mar de Chatarra»** → el Desguace.
+- **Laddoo** en la capucha de Leela, si sale en escena.
+
+**Elegir y unificar**
+
+- «La Espada del Consejo de Atalanta»: nombre del consejo, ver [[hestia]].
+- **«Núcleos» de los guardianes y los mensajeros.** Ahora un núcleo es el corazón de un noaidi y Ravdna no puede crearlos: lo que llevan dentro sus creaciones necesita otro nombre, o una explicación.
+
+**Ya encaja**
+
+- «Viktor no se va a rendir hasta conseguir sus tres Arcas»: es justo lo que necesita. Ver [[guerra]].
+- «Morirán cientos de miles»: los iskra son entre 150 000 y 200 000.
+- Los kairos compartieron su tecnología para que Mrak no acabara destruido: los cristales de Grace.
+- Lev ve a Grace suicidarse con la pistola de Viktor.
+
 ## El sitio
 
 La banda marca el número del disco: **el tres**. Ver [[tampu]].

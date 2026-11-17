@@ -43,6 +43,6 @@ Lo que se sabe sale de las sondas. Orbita una estrella fría y tranquila, **sin 
 
 ## El problema
 
-Ninguna nave corriente llega, y **el núcleo de un arca se gasta entero en el viaje de ida**, así que no hay vuelta. Por eso Viktor necesita quitarle un arca a otra colonia, y Nadia pide dos núcleos para tener tres arcas.
+Ninguna nave corriente llega, y **el núcleo de un arca se gasta entero en el viaje de ida**, así que no hay vuelta. A los iskra les hacen falta **tres arcas, cada una con su núcleo**. Tienen dos arcas, la suya y la de Indraprastha, y ningún núcleo: el suyo estalló. Ver [[guerra]].
 
 Algunos [[kirks]] subirán con los iskra a Sumerki.

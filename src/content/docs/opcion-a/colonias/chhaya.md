@@ -11,6 +11,9 @@ ficha:
   - ["Idioma", "Hindi y sánscrito"]
   - ["Injerto", "Presa con señuelos + rapaces"]
   - ["Combustible", "Glucosa"]
+  - ["Población", "≈ 10 – 15 millones (por confirmar)"]
+  - ["Gobierno", "Democracia; hoy en guerra civil"]
+  - ["Núcleo", "Dentro de Laddoo"]
   - ["No aguantan", ["Oscuridad", "Espacios cerrados", "Agua"]]
   - ["Fuera de casa llevan", ["Dulces o geles de glucosa", "Luz propia"]]
 ---
@@ -40,6 +43,9 @@ Piel de dorada a morena con un tornasolado bien visible, como aceite sobre agua,
 
 Ojos de rapaz, de iris oscuro enorme y casi sin blanco. Una línea oscura y fina del lagrimal a la mejilla, como la de los halcones, que reduce el reflejo del sol: de ahí la tradición del kohl, que se pinta encima. Pestañas largas y pelo negro y espeso.
 
+### Las toxinas como droga
+De las toxinas de las ilusiones sale una droga de interrogatorio: bajo su efecto no distingues una ilusión de la realidad. Es la que usan con Grace la noche de [[hestia|Hestia]], y ella la reconoce.
+
 ## Lo peor de su linaje
 
 **Proyectan reflejos mientras duermen, sin control.** Sale lo que temen, lo que desean y lo que recuerdan.
@@ -63,7 +69,9 @@ Un susto o un estornudo les arranca un señuelo fugaz.
 
 ## Sociedad
 
-Monarquía hereditaria, mezcla del legado de los maharajás y las monarquías del Golfo. **Usar una ilusión sin consentimiento es delito.** Exportan espectáculo, medios, arte, diplomacia y espionaje.
+Democracia, con partidos y elecciones; las familias poderosas heredan influencia y dinero, no cargos. **Usar una ilusión sin consentimiento es delito.** Exportan espectáculo, medios, arte, diplomacia y espionaje.
+
+**Su núcleo** era un lujo de la élite. Hoy lo lleva dentro Laddoo, la mascota de [[leela|Leela]]. Ver [[guerra]].
 
 ## Cortesía
 

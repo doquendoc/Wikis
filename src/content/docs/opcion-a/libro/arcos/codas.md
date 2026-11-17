@@ -1,50 +1,54 @@
 ---
 title: "Codas y final"
-description: "Capítulos 28 a 30. Parecen finales felices y no lo son, salvo el de la pareja."
+description: "Capítulos 28 a 30. Los arcos de los personajes se cierran; la amenaza de los Ammit queda abierta."
 sidebar:
   order: 5
 ficha:
   - ["Capítulos", "28 – 30"]
   - ["POV", "Leela · Lev · Senri"]
-  - ["Cierre", "Parcial"]
+  - ["Cierre", "Los personajes sí; la amenaza no"]
+  - ["Antes de publicar", "Esquema del libro 2"]
 pendientes:
-  - "Cómo reordenar las codas ahora que el bebé nace en Tampu, antes de ir a por Lev."
-  - "Nombre del noaidi bebé (propuesta: Áile). Nace en Tampu, en la coda, y lo despierta Senri."
+  - "Rehacer las tres codas con el final nuevo: las antiguas ya no encajan (ver abajo)."
+  - "Nombre del noaidi bebé (propuesta: Áile), y si nace en el libro 1."
+  - "Hacer el esquema del libro 2 antes de publicar."
 ---
-### 28 · POV de Leela
+## Lo decidido
 
-Llega a casa y su familia la recibe con los brazos abiertos. Bonito, con pistas ligeras de que no: la van a entregar igualmente. Escapa llevándose a su familia de verdad, Kamala y Laddoo.
+- **Nadie cobra.** Nadia consigue el núcleo de Ravdna y se lo quita un Ammit. **Se juegan la vida por promesas y vuelven con las manos vacías.**
+- **Nadia** se queda con el grupo, destrozada, para el libro 2.
+- **Leela** se queda con Senri, porque cree que él, o lo que salga del huevo, puede sacarle el núcleo a Laddoo.
+- **Lev** no va a matar al huevo para conseguir un núcleo.
+- **Los Ammit pueden llegar a Tampu.**
 
-### 29 · POV de Lev
+## Las codas antiguas
 
-Una bronca que casi gana; lo capturan y van a matarlo. Llegan Senri, Mushi, Leela y quizá el noaidi bebé ya fuera. Lleva en el bolsillo una escultura de Mushi.
+:::note[Ya no encajan]
+Escritas para el final anterior. Se quedan como referencia hasta rehacerlas.
+:::
 
-### 30 · POV de Senri
-
-Deciden quedarse juntos, no para una guerra sino para encontrar la cura sin sacrificar al bebé. Cierre romántico y de familia encontrada: Senri, Lev, Leela, Mushi, el bebé, Laddoo y Kamala, la abuela que cocina para todos.
-
-## La separación
-
-Nadie cobra. Lo único que Ravdna llegó a pagar fueron los dos núcleos de Nadia, por adelantado. **Se juegan la vida por promesas y vuelven con las manos vacías**, salvo lo que se quiten unos a otros.
-
-Lev va a alcanzar a Nadia antes de que gaste los núcleos: no es huir, es urgente, y va al planeta donde tienen precio por su cabeza.
+- **28 · Leela:** llegaba a casa, su familia la recibía con los brazos abiertos y la iban a entregar igualmente; escapaba con Kamala y Laddoo. *Ahora su familia es la que dio el golpe, Laddoo va con ella desde el principio, Kamala queda fuera y ella se queda con Senri.*
+- **29 · Lev:** iba a por Nadia antes de que gastara los núcleos, lo capturaban y lo rescataban los demás. *Ahora Nadia se queda con el grupo y no tiene núcleos.*
+- **30 · Senri:** deciden quedarse juntos para encontrar la cura sin sacrificar al bebé; cierre romántico y de familia encontrada. *Esto sigue pudiendo valer.*
 
 ## Lo que queda abierto
 
-La cura de Senri, el bebé, Viktor, Elias Hart, [[aaru]], el otro contenedor y el núcleo del arca.
+La cura de Senri, el huevo, los Ammit, Viktor, Elias Hart, [[aaru]] y los núcleos.
 
 ## Sembrado para la segunda parte
 
-**El núcleo del arca de Hestia.** Grace lo gastó entero en el trasplante de Senri: está vivo porque su madre quemó en él la escapatoria de su colonia. Quedan dos rastros: la grabación de la sala de interrogatorios, que Viktor ha visto muchas veces sin entender, y las notas de Grace, escondidas en el templo al que iba a rezar Hiroshi.
+**El núcleo de Hestia.** Lo lleva Senri dentro: está vivo porque su madre gastó en él la escapatoria de su colonia, y cada vez que lo usa es menos kairos. Quedan dos rastros: la grabación de la sala de interrogatorios y las notas de Grace, escondidas en el templo al que iba a rezar Hiroshi.
 
-**El portal abierto.** Los Ammit despiertos tienen la reserva de la piscina para moverse y un camino a Nifilia. En el libro 2 la guerra con Viktor deja de importar cuando cruzan: toca hacer las paces y defenderse, y los iskra descubren que lo que viene detrás es peor que su estrella.
+**Los Ammit.** Despiertos, con la reserva de la piscina y uno que ya ha subido a la nave. En el libro 2 la guerra con Viktor deja de importar cuando llegan: toca hacer las paces y defenderse, y los iskra descubren que lo que viene detrás es peor que su estrella.
 
-**El bebé lo complica todo.** Podría salvar a los iskra recargando un arca, pero en Aaru lo devorarían.
+**El huevo lo complica todo.** Un noaidi es un núcleo vivo: podría salvar a los iskra, y por eso Ravdna no se lo dijo a Lev.
 
-**La cadena de donaciones.** Si la investigación de Grace llega a funcionar, los kairos con un trozo de órgano son lo único que planta cara a un devorador. Es la defensa del libro 2 y, a la vez, exactamente lo que Ravdna temía.
+**Laddoo.** Lleva el núcleo chhaya fusionado. Leela solo quiere que se lo saquen sin matarlo.
 
-**El secreto de Viktor.** Saboteó la investigación de los padres de Lev para forzar el éxodo, y Lev le salvó la vida matando a quien lo había descubierto.
+**El núcleo xingtian.** El único que nunca se usó. Viktor va a por él, y Nadia le pidió que esperara.
+
+**La cadena de donaciones.** El sueño de Grace: una porción del órgano que crezca en otros kairos. Si llega a funcionar, son lo único que planta cara a un devorador. Es la defensa del libro 2 y, a la vez, exactamente lo que Ravdna temía.
 
 **Elias Hart**, el traidor de Hestia, gobierna como títere: antagonista posible para Senri.
 
-**La familia de Leela** está viva: son ellos quienes la vendieron a los iskra como rehén del pacto.
+**La familia de Leela**, los golpistas de Indraprastha, que fabricaban las armaduras de mayavi para los iskra.

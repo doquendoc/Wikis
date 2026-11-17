@@ -19,6 +19,19 @@ pendientes:
   - "Lev despierta con 3 horas en la banda, y Senri cerró el cap. 3 con unas 17: ¿catorce horas inconsciente?"
   - "Si la fuerza que nota Lev al despertar le viene del parche."
 ---
+
+## Correcciones al borrador
+
+**Cambiar**
+
+- **Quitar la mención a los Rayos.**
+- **La radiación de Lev.** Llega a la Fábrica con media cara al aire entre la gente: puede, pero poco rato, y sin tocar a nadie. Que se note en algún gesto suyo. Ver [[trastornos]].
+- **Laddoo** en la capucha de Leela, si sale en escena.
+
+**Revisar**
+
+- En la caja de cristal, la pelea cuerpo a cuerpo: Lev no debería tocar sin armadura a nadie que no sea Senri.
+
 ## Lo que ya está en el borrador
 
 - **Al despertar**, la IA de la armadura da el estado: fallo crítico del filtro y del visor, pérdida de estanqueidad, termostato al 100 %, **batería principal al 40 % y secundaria al 100 %**.

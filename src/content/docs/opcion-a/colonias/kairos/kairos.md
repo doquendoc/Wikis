@@ -12,6 +12,8 @@ ficha:
   - ["Idioma", "Inglés"]
   - ["Injerto", "La díada"]
   - ["Temp. corporal", "≈ 39 °C"]
+  - ["Población", "≈ 7 millones antes de la guerra; ≈ 3 – 4 millones hoy (por confirmar)"]
+  - ["Núcleo", "Dentro de [[senri|Senri]]; en la cámara, una copia"]
   - ["No aguantan", ["Poco oxígeno", "Ruido", "Luces intensas"]]
   - ["Fuera de casa llevan", ["Inhalador o pinza nasal de oxígeno", "Barritas de calorías"]]
 ---

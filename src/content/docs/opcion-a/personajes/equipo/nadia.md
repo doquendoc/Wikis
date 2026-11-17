@@ -1,12 +1,12 @@
 ---
 title: "Nadia Orlova"
-description: "Iskra, 34 años. La traidora. Se hace pasar por la xingtian Lin Mei y nadie dice su nombre hasta el capítulo 24."
+description: "Iskra, 26 o 27 años, gemela de Viktor. La traidora. Se hace pasar por la xingtian Lin Mei y nadie dice su nombre hasta el capítulo 24."
 sidebar:
   order: 1
 personaje:
   rol: "La traidora"
   especie: "[[iskra]], disfrazada de [[xingtian]]"
-  edad: "34"
+  edad: "26 o 27"
   apodos:
     - "*Lin Mei* (su tapadera)"
     - "*Lin* (el grupo)"
@@ -16,14 +16,17 @@ personaje:
     - ["Altura", "1,80 m: alta para una xingtian"]
     - ["Peso", "≈ 70 kg sin armadura, mucho más con ella"]
     - ["Armas", "Dos pistolas bajo la chaqueta, y la armadura"]
-    - ["Es", "Hermana de Viktor Orlov"]
+    - ["Es", "Gemela de Viktor Orlov"]
+    - ["Trastorno", "[[trastornos|Hiperpneumia]]"]
+    - ["Radiactiva", "Como Lev, desde la explosión de Mrak"]
+    - ["Formación", "Científica: pupila de los padres de Lev"]
   vistazo:
     rasgos:
       - "Pragmatismo puro: lo pone todo en balanzas"
       - "Intenta no sentir, pero se encariña rápido"
       - "Elegante, serena, nunca una mancha"
       - "Se parece a Lev más de lo que admitirían"
-    quiere: "Los dos núcleos que faltan, para tener tres arcas y evacuar a su pueblo sin quitárselas a nadie por la fuerza."
+    quiere: "Núcleos para las arcas de Viktor, y llevarse a su pueblo a Sumerki."
   aspecto:
     rasgos:
       - ["Lo que ve todo el mundo", "Una xingtian de rasgos chinos, pelo y ojos muy negros, piel clara y ligeramente escamosa, complexión ancha y maciza de líneas rectas: hombros cuadrados, torso en bloque, manos grandes"]
@@ -32,8 +35,8 @@ personaje:
     marcas:
       - tipo: "Armadura"
         donde: "Todo el cuerpo, labios incluidos"
-        que: "Una segunda piel cultivada directamente sobre ella. Bloquea cara, voz, olor y pneuma, en las dos direcciones, y ajusta su apariencia con una capa copiada de la piel chhaya."
-        nota: "Su taza nunca tiene marca de labios. Ver Su armadura, más abajo."
+        que: "Hecha con los mayavi, la especie de Laddoo. Aísla del todo —cara, voz, olor y pneuma, en las dos direcciones—, es durísima y crea ilusiones: su aspecto de xingtian."
+        nota: "Su taza nunca tiene marca de labios. Ravdna ve a través. Ver Su armadura, más abajo."
     ropa: "Negro y gris, chaqueta corta que apenas tapa las dos pistolas. Traje impecable."
     lleva:
       - "Un libro de papel: *El sueño del pabellón rojo* (cap. 1)"
@@ -61,9 +64,9 @@ personaje:
       - "El alcohol: sabe lo que significa beber entre iskra"
   familia:
     - nombre: "Viktor Orlov"
-      relacion: "Hermano mayor"
+      relacion: "Hermano gemelo"
       estado: "vivo"
-      nota: "Mariscal y líder de los iskra. Siempre se interponía cuando les pegaban. Su lealtad a él no es política: es amor."
+      nota: "Mariscal y líder de los iskra. Siempre se interponía cuando les pegaban, y fue él quien entró a sacarla en la explosión. Su lealtad a él no es política: es amor."
     - nombre: "Boris Orlov"
       relacion: "Padre"
       estado: "vivo"
@@ -74,74 +77,88 @@ personaje:
       nota: "Fría y violenta. Nadia la odia. Vive porque Viktor la protege."
   relaciones:
     - con: "[[senri|Senri Hayami]]"
-      es: "Lo trata como a un hermano pequeño listo; pasan horas estudiando juntos, ella en papel y él en pantallas. Sabe de quién es hijo, sospecha que sabe dónde está el núcleo y por eso lo quiere vivo. Ravdna le encarga matarlo al final y no lo cumple. Su traición es para él perder a un hermano por segunda vez."
+      es: "Lo trata como a un hermano pequeño listo; pasan horas estudiando juntos, ella en papel y él en pantallas. Sabe quién es y entra en la Prueba también por él: lo mantiene vivo porque le vale para los núcleos. Al final es con el único con quien afloja. Su traición es para él perder a un hermano por segunda vez."
     - con: "[[lev|Lev Volkov]]"
-      es: "Lo conoce desde jóvenes y envidiaba a su familia. Lo ha salvado dos veces sin explicarse. Sabe que el hombre de la armadura negra es él, y se calla. Quieren lo mismo para lo contrario."
+      es: "Se criaron casi como hermanos desde la explosión. Lo sacó de la cárcel antes de que lo ejecutaran, sin explicarse. Sabe que el hombre de la armadura negra es él, y se calla. Es la única que puede tocarlo. Quieren lo mismo para lo contrario: ella eligió a Viktor antes que salvar Mrak."
     - con: "Svetlana y Konstantin"
-      es: "Los padres de Lev. Los quería más que a los suyos: compartía con ellos el amor por aprender y la idea de salvar Mrak en vez de huir."
+      es: "Los padres de Lev, y sus maestros: era su pupila en la instalación del núcleo. Los quería más que a los suyos y compartía con ellos la idea de salvar Mrak en vez de huir. Quedó atrapada con ellos en la explosión."
     - con: "[[leela|Leela]]"
-      es: "La llama *pequeña*. Leela reconoce la tecnología de su armadura y se lo calla."
+      es: "La llama *pequeña*. Sabe quién es y la mantiene viva por el núcleo. Laddoo nota algo en ella y no le gusta; Leela no entiende por qué, y descubre tarde lo de la armadura."
     - con: "[[ravdna|Ravdna]]"
-      es: "La contrata también como plan de reserva: usar los cuerpos de los demás en la trampa si hace falta. Nadia lo acepta como último recurso. Es la única a la que Ravdna llega a pagar."
+      es: "Pactan a solas en el cap. 6, sobre una mentira: Ravdna le promete dos núcleos, los de Laddoo y Senri, sin decirle dónde están, a cambio de que le consiga el huevo y le quite de en medio a Lev y a Leela. En Aaru descubre lo que son los núcleos; después la mata y le quita el suyo."
   cronologia:
     - cuando: "Infancia"
-      que: "Boris y Galina le pegan cuando algo falla; Viktor se interpone siempre."
+      que: "Boris y Galina les pegan cuando algo falla; Viktor se interpone siempre."
     - cuando: "Juventud"
-      que: "Conoce a Lev y a sus padres, y quiere a Svetlana y Konstantin más que a los suyos."
-    - cuando: "Cuando mueren los padres de Lev"
-      que: "Entiende que no queda otra salida que irse, y se suma a la guerra."
+      que: "Científica, pupila de Svetlana y Konstantin en la instalación del núcleo. Los quiere más que a sus padres."
+    - cuando: "Hace 7 u 8 años · la explosión"
+      que: "Queda atrapada en la instalación con los padres de Lev. Viktor entra a sacarlos. El núcleo estalla y sobrevive radiactiva, con Viktor y Lev. Entiende que no queda otra salida que irse."
     - cuando: "Año 0"
-      que: "Toma el arca de Indraprastha. Dirige el ataque a Hestia, con Lev a sus órdenes, y mata a Hiroshi Hayami."
-    - cuando: "Tras Hestia"
-      que: "Salva a Lev cuando Viktor casi lo mata: lo mete en una nave con el piloto automático."
-    - cuando: "Semanas después de Hestia · el golpe de Lev"
-      que: "Mata a Timur y a los demás, y deja escapar solo a Lev."
+      que: "Lleva el golpe de Indraprastha, con la oposición contra el gobierno legítimo, y toma el arca. El núcleo se le escapa."
+    - cuando: "Semanas después · el golpe de Lev"
+      que: "Lo saca de la cárcel antes de que lo ejecuten. A los demás los ejecutan."
     - cuando: "Año 3 · Tampu"
-      que: "Se presenta a la Última Carrera como Lin Mei, con un prototipo de armadura diseñado por ella."
+      que: "Entra en la Última Carrera como Lin Mei, por Leela, por Senri y por Ravdna. Va disfrazada porque Ravdna rechazó a Viktor, mató a sus hombres cuando intentó entrar a la fuerza y elimina a cualquiera de los suyos."
+    - cuando: "Cap. 6"
+      que: "Pacta con Ravdna a solas."
+    - cuando: "Aaru y la vuelta"
+      que: "En Aaru descubre lo que son los núcleos. Mata a Ravdna y le quita el suyo. Intenta llevarse también el huevo y a Laddoo, y la paran."
+    - cuando: "La vuelta"
+      que: "Un Ammit sube a la nave y le quita el núcleo de Ravdna. Destrozada, se queda con el grupo."
   sabe:
     - "Que el hombre de la armadura negra es Lev"
-    - "Quién es Senri y de quién es hijo"
+    - "Quiénes son Senri y Leela"
     - "Que Senri volvió de La Máquina con una sola moneda, aunque no vio cómo"
-    - "El plan de reserva de Ravdna"
+    - "Su pacto con Ravdna"
   ignora:
     - "Qué hay en el contenedor, hasta el cap. 24"
-    - "Que Ravdna ha prometido esos mismos núcleos a Lev"
-    - "Lo que Senri lleva dentro"
+    - "Que Ravdna ha prometido núcleos a Lev"
+    - "Lo que son los núcleos y dónde están, hasta Aaru"
 pendientes:
   - "Estatura exacta de Nadia, que es alta para una xingtian."
-  - "Con el nuevo orden (el golpe de Lev semanas después de Hestia, prisión y fuga), dónde caen las dos veces que lo salva."
+  - "Cuántos núcleos necesita: Ravdna le promete dos, y a los iskra les faltan tres."
+  - "La tabla de twists dice que salva a Lev dos veces: una es sacarlo de la cárcel. ¿La otra?"
+  - "De dónde saca la energía su armadura, ahora que no es de núcleo."
+  - "Si Senri ve a través de la ilusión: las ilusiones no engañan a quien ve el pneuma, y él la ve como xingtian."
   - "Sin decidir si Nadia llega a saber cómo perdió Senri las monedas en La Máquina. De momento, lo que se entiende del cap. 2: solo ve que vuelve con una."
 ---
 ## Su petición
 
-No es maldad, es aritmética: con tres arcas salvan a casi todos, pero dejan gente atrás y a tres colonias sin su bote salvavidas.
+No es maldad, es aritmética: con tres arcas y sus núcleos salvan a casi todos, pero dejan a otras colonias sin su bote salvavidas.
 
-Es lo único que Ravdna llega a pagar, por adelantado, y lo mismo que le había prometido a Lev. Al final se va con ellos y Lev sale detrás.
+**El pacto** es en el capítulo 6, a solas con Ravdna, y está hecho sobre una mentira. Ravdna le promete dos núcleos —los de Laddoo y Senri, sin decirle dónde están— a cambio de que le consiga el huevo y le quite de en medio a Lev y a Leela.
+
+Lo más sencillo para sacar esos núcleos es matar a Senri y a Laddoo. No lo hacen enseguida porque, para llegar al huevo, necesitan a Lev, a Senri y a Leela con Laddoo, que es un arma.
+
+## En Aaru
+
+Descubre lo que son los núcleos: corazones de [[noaidi]]. **Mata a Ravdna y le quita el suyo.** Intenta llevarse también el huevo y a Laddoo, y la paran. Con el único que afloja es con Senri.
+
+En la nave de vuelta, un [[ammit|Ammit]] le quita el núcleo de Ravdna. Se queda destrozada y sin nada, y se queda con el grupo para el libro 2.
+
+**No es tan villana.** No mató a Hiroshi. Lo que pesa de su revelación cae del lado de Leela, cuyo golpe llevó, y de Lev: eligió a Viktor antes que salvar Mrak.
 
 ## Su armadura
 
-Un prototipo que no sigue las reglas de la [[skorlupa]] normal: no se alimenta de su pneuma, sino de un núcleo, y por eso puede taparlo entero.
+No sigue las reglas de la [[skorlupa]] normal: está hecha con **los mayavi**, la especie de Laddoo. La fabricaba para los iskra la oposición de Indraprastha, la familia de [[leela|Leela]], y es prueba de la alianza.
 
-Un prototipo de élite que diseñó ella misma a partir de la de Lev: material vivo y denso cultivado directamente sobre la piel.
+- **Aísla del todo:** cara, voz, olor y pneuma, en las dos direcciones. Por eso puede taparla entera.
+- **Es durísima**, y bloquea la radiación que lleva dentro.
+- **Crea ilusiones:** su aspecto de xingtian.
+- **[[ravdna|Ravdna]] ve a través de ella.**
 
 **Cómo come:** normal. Sella lo que sale, no lo que entra: filtra el aire que exhala y no deja saliva ni olor. A cambio no nota la temperatura ni las texturas.
 
-**Se endurece con el impacto** y almacena la energía de los golpes para devolverla en uno solo. Aguanta luz, calor y frío: es la única iskra que se mueve a pleno sol sin problema.
+**Aguanta luz, calor y frío:** es la única iskra que se mueve a pleno sol sin problema. Hay que quitársela para lavarse: en la nave, ratos en su cabina cerrada en los que es vulnerable.
 
-**Vive de un núcleo de pneuma pequeño que se agota.** Son escasos, y por eso solo la élite las lleva y ella pide núcleos grandes a Ravdna. Hay que quitársela para lavarse y recargarla: en la nave, ratos en su cabina cerrada en los que es vulnerable.
-
-**Puntos débiles:** la energía almacenada tiene un límite, y al desactivar el bloqueo para revelarse queda expuesta unos segundos.
+**Puntos débiles:** al desactivar el bloqueo para revelarse queda expuesta unos segundos.
 
 ### Lo que la delata
 
 - Una xingtian debería sufrir con el calor y ella no.
 - Lev no le huele ni le oye nada, y **ese vacío es lo que lo inquieta**.
 - Senri ve un vacío donde debería haber pneuma.
-- Leela reconoce la tecnología.
+- Laddoo nota algo en ella y no le gusta.
 - Su costumbre de traer café pasa por modales xingtian, pero el calor debería agobiarla.
 
 Lev la reconoce en el capítulo 24, cuando la armadura falla o se rompe y la ve y la oye.
-
-## En el grupo
-
-No planeaba matarlos: aceptó el plan de Ravdna como último recurso, y en el capítulo 23 la situación lo exige. En la nave son ellos los que la obligan a luchar.
