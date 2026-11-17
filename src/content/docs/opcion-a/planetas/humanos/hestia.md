@@ -8,13 +8,17 @@ ficha:
   - ["Planeta", "[[atalanta|Atalanta]]"]
   - ["Subespecie", "[[kairos|Kairos]]"]
   - ["Dónde", "En las copas de la selva (por confirmar)"]
-  - ["# Lugares", ""]
   - ["Gobierno", "La Boulé (por confirmar)"]
-  - ["Sede", "El Pritaneo (por confirmar)"]
+  - ["# Lugares", ""]
+  - ["Sede del gobierno", "El Pritaneo (por confirmar)"]
+  - ["El núcleo del arca", "Bajo el Pritaneo (por confirmar)"]
+  - ["El jardín", "Del Pritaneo, con casa de té (por confirmar)"]
   - ["Ciencia", "El Asclepión (por confirmar)"]
-  - ["El núcleo", "Bajo el Pritaneo (por confirmar)"]
-  - ["El jardín", "Casa de té del Pritaneo (por confirmar)"]
-  - ["El templo", "?"]
+  - ["El templo de Hiroshi", "?"]
+  - ["# La noche del ataque", ""]
+  - ["Muertos", ["Grace", "Hiroshi", "Ken"]]
+  - ["El traidor", "Elias Hart"]
+  - ["Lo que buscaban", "El núcleo: no estaba"]
 pendientes:
   - "Confirmar las secciones marcadas: la ciudad, la Boulé, el Pritaneo y su jardín, el Asclepión, el templo y la noche del ataque."
   - "Nombre del templo al que iba a rezar Hiroshi."
@@ -39,6 +43,10 @@ Hiroshi Hayami, el padre de [[senri|Senri]], era **la Espada de la Boulé**, la 
 
 ## El Pritaneo
 
+:::note[En los borradores]
+Los capítulos 1 y 2 lo llaman «el Palacio de Atalanta», y al consejo, «el Consejo de Hestia» y «el Consejo de Atalanta». Si confirmas la Boulé y el Pritaneo, hay que cambiarlo en el texto.
+:::
+
 :::caution[Por confirmar]
 Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
 :::
@@ -51,7 +59,11 @@ Dentro está también **el muro de los protectores caídos**, con sus nombres gr
 
 ### El jardín
 
-Un jardín japonés dentro del recinto, con una casa de té al fondo. Es donde Ken esconde a Senri herido la noche del ataque, y donde muere Ken. Es el jardín que Lev calla.
+Un jardín japonés dentro del recinto, con una casa de té al fondo.
+
+- Aquí **un iskra le vuela los sesos a Hiroshi** delante de Senri, sin que llegue a alzar la espada, mientras gana tiempo para que el consejo escape ([[cap-1|cap. 1]]).
+- Aquí Ken esconde a Senri herido y aquí muere Ken. Es el jardín que Lev calla.
+- La biblioteca de Grace, miles de libros, algunos impresos en la Tierra, **ardió con el resto del edificio** ([[cap-1|cap. 1]]).
 
 ## El Asclepión
 
@@ -68,6 +80,8 @@ Aquí está **el laboratorio de Grace**, donde Senri pasa las tardes porque ve l
 ## Los cristales de Grace
 
 Filtran la luz y la radiación, y servían para que los iskra vivieran mejor. Viktor los prueba en los dos únicos iskra con [[trastornos|hiperpneumia]], él y [[lev|Lev]].
+
+Por el cristal, un iskra ve los rojos, los naranjas y los amarillos que no distingue, y no se quema. Con uno, Lev se quitó la armadura para ver el amanecer de Atalanta ([[cap-2|cap. 2]]).
 
 **No son perfectos:** necesitan muchísimo mantenimiento y fabricarlos cuesta una fortuna. Nunca iban a ser para el pueblo, solo para la élite.
 

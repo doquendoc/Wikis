@@ -13,7 +13,7 @@ personaje:
   datos:
     - ["Altura", "1,73 m"]
     - ["Peso", "≈ 70 kg (pesa más de lo que aparenta por los parches)"]
-    - ["Armas", "La katana de Ken, pistola gastada"]
+    - ["Armas", "La katana de Ken y una pistola de balas (no de pulsos) que le costó cien mil soles"]
     - ["Estilo", "*iaijutsu*: espera el instante y corta una vez"]
     - ["En Tampu", "3 años · vive en los Anillos"]
   vistazo:
@@ -29,7 +29,7 @@ personaje:
     rasgos:
       - ["Complexión", "Delgado y fibroso"]
       - ["Rasgos", "Japoneses"]
-      - ["Pelo", "Largo, más claro que de niño. Se le eriza cuando se tensa"]
+      - ["Pelo", "Largo y pálido, más claro que de niño. Se le eriza cuando se tensa"]
       - ["Ojos", "Tornasolados, del color del [[pneuma|pneuma]]: tirando a ámbar, cambian con la luz y el ángulo y cuando acelera o el órgano trabaja. Pupila vertical, nunca quietos. No brillan"]
       - ["Piel", "Caliente, salvo los parches, fríos y lisos"]
       - ["Rubor", "Permanente en orejas, nudillos y pómulos"]
@@ -133,7 +133,7 @@ personaje:
     - cuando: "12 o 13 años · el trasplante"
       que: "A Hana y a él les toca la misma lotería genética. Hana muere; él aguanta más, y Fintan le trasplanta un órgano suyo y muere al quedarse sin pneuma. Para la transferencia, Grace roba el núcleo del arca de Hestia y lo gasta entero. Nadie más lo sabe. Le quitan el bazo para hacer sitio. No ha vuelto a enfermar."
     - cuando: "16 años · la visita iskra"
-      que: "La delegación iskra pasa semanas en Atalanta, con la armadura antigua, que no es negra. Le da conversación a un teniente callado de 19 años; Lev se quita el casco una sola vez y solo lo ve él. Le hace reír con un chiste estúpido y Lev responde *tak tochno* a su capitán. Se vincula sin saberlo. Un amanecer se agacha a despertarlo, dormido sentado tras una guardia, y se queda oliéndole el pelo más de la cuenta."
+      que: "La delegación iskra pasa semanas en Atalanta, con la armadura antigua, que no es negra. Le da conversación a un teniente callado de 19 años; Le ofrece esperar fuera o taparse los ojos para que Lev se quite la armadura y vea el amanecer de Atalanta a través del cristal de Grace, y se los tapa «como un idiota» para no incomodarlo ([[cap-2|cap. 2]]). Le hace reír con un chiste estúpido y Lev responde *tak tochno* a su capitán. Se vincula sin saberlo. Un amanecer se agacha a despertarlo, dormido sentado tras una guardia, y se queda oliéndole el pelo más de la cuenta."
     - cuando: "16 años · año 0 · la traición"
       que: "Elias Hart abre las puertas. Grace se mata en la sala de interrogatorios con la pistola de Viktor. Hiroshi muere peleando. A Senri lo hieren de muerte; Ken lo esconde en la casa de té del jardín del Pritaneo, entiende al verle la herida lo que lleva dentro, pelea contra Lev y muere suplicándole por él. Senri no oye nada: solo ve al iskra agacharse junto a Ken y hablar. Lleva tres años explicándose mal esa imagen. Lo rescatan unos soldados y se separa de ellos."
     - cuando: "16 a 19 años · Tampu"
@@ -157,6 +157,7 @@ personaje:
     - "Qué le suplicó Ken a Lev"
     - "Que Lin Mei es Nadia, y que Nadia mató a su padre"
 pendientes:
+  - "Color de los ojos: la ficha dice «tirando a ámbar», y en el cap. 2 Lev los ve «plata tornasolado, como el zarevo». ¿Es la vista iskra, que ve mal el ámbar, o son plateados?"
   - "Nombre del órgano (descartados: ka, fuelle, corazón)."
   - "Qué hace con su propia dieta ahora que Aaru ya no es su objetivo: las fuentes de pneuma muy puro siguen siendo rarísimas."
   - "Alias de Senri en Tampu."

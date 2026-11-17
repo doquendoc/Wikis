@@ -4,10 +4,19 @@ description: "Cuatro núcleos, cuatro arcas, cuatro planetas. Quinientos años d
 sidebar:
   order: 3
 ficha:
-  - ["Arcas", "4, una por núcleo"]
+  - ["# La llegada", ""]
+  - ["Galaxia", "Nifilia"]
   - ["Desde la llegada", "500 años"]
-  - ["Estado de los núcleos", "Llegaron agotados"]
+  - ["Arcas", "4, una por núcleo"]
+  - ["Sacadas de", "La nave [[nefilim]] que cayó en la Tierra"]
+  - ["# Los núcleos", ""]
+  - ["Estado al llegar", "Agotados"]
   - ["Regenerarse", "Siglos"]
+  - ["Dónde", "En tierra, protegidos"]
+  - ["Las arcas", "En órbita"]
+  - ["# Tecnología", ""]
+  - ["Compartida", ["Traductores niwashi", "Naves mejoradas por los niwashi"]]
+  - ["Lengua común", "Inglés"]
 pendientes:
   - "Nombre técnico de las arcas y de la tecnología nefilim (propuestas: Tebá, Ararat)."
 ---

@@ -4,12 +4,18 @@ description: "Pequeños, feos y pesadísimos. De parásitos de bestias metálica
 sidebar:
   order: 2
 ficha:
+  - ["# Cuerpo", ""]
   - ["Nombre", "Japonés: mantis"]
-  - ["Piernas", "Ninguna"]
+  - ["Tamaño", "Pequeños y pesadísimos"]
+  - ["Piernas", "Ninguna: dos brazos con manitas"]
+  - ["Garras", "3 retráctiles: dos de los hombros, una de la espalda"]
   - ["Dieta", "Metal"]
-  - ["Garras", "3 retráctiles"]
-  - ["En Tampu", "Rarísimos"]
+  - ["Mudan", "Las cuchillas: el metal se derrite y cuelga"]
+  - ["# En Tampu", ""]
+  - ["Cuántos", "Rarísimos, casi extinguidos"]
   - ["Precio", "Millones"]
+  - ["Los cazan", "Los [[kirks]], para venderlos y usarlos como armas"]
+  - ["Conocido", "[[mushi|Mushi]]"]
 ---
 ## Aspecto
 

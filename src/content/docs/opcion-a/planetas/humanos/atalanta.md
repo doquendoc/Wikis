@@ -6,11 +6,11 @@ sidebar:
 ficha:
   - ["# Condiciones", ""]
   - ["Gravedad", "1,15 g"]
-  - ["Temperatura", "28 – 35 °C (por confirmar)"]
+  - ["Temperatura", "≈ 30 °C en invierno (deducido del cap. 1: la Esclusa está diez grados por debajo); más en verano (por confirmar)"]
   - ["Oxígeno", "Rico"]
   - ["Humedad", "Muy alta"]
   - ["Atmósfera", "Como la de la Tierra, con más oxígeno (por confirmar)"]
-  - ["Luz", "Sol amarillo; el suelo de la selva, en penumbra (por confirmar)"]
+  - ["Luz", "Sol fuerte; amaneceres en rojo, naranja y amarillo, «los más bonitos de Nifilia», según los niwashi (cap. 2)"]
   - ["Día y noche", "Días de unas 26 horas (por confirmar)"]
   - ["Clima", "Tormentas eléctricas casi diarias (por confirmar)"]
   - ["# Vida", ""]

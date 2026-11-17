@@ -17,6 +17,7 @@ personaje:
     - ["Ciclo", "Cada 50 años"]
     - ["Privilegio", "La única Carta Blanca de Tampu"]
     - ["Vive", "En el disco inferior"]
+    - ["Su símbolo", "Un círculo de pneuma, simple como una sortija, en el costado de sus naves"]
   vistazo:
     rasgos:
       - "Orgullosa, fría y elegante"

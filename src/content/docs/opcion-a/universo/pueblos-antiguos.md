@@ -5,6 +5,15 @@ sidebar:
   order: 2
 pendientes:
   - "Si el origen común de noaidi y Ammit se confirma o se queda como hipótesis para el libro 2."
+ficha:
+  - ["# Los tres pueblos", ""]
+  - ["Noaidi", "Producen pneuma y lo moldean; hoy queda una: [[ravdna|Ravdna]]"]
+  - ["Nefilim", "Producen pneuma; extintos: su arca cayó en la Tierra"]
+  - ["Ammit", "No lo producen: lo absorben con un órgano que les regalaron"]
+  - ["# Su galaxia", ""]
+  - ["Es", "Otra, lejos de Nifilia"]
+  - ["La perdieron", "Los Ammit echaron a los otros dos"]
+  - ["En ella está", "[[aaru|Aaru]]"]
 ---
 ## Antes
 

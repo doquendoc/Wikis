@@ -61,6 +61,8 @@ personaje:
       - "Pide en vez de robar a las personas, por cálculo: nunca sabes lo que vale un objeto para su dueño. A un local sí le roba"
       - "Si le dicen que no, lo acepta y se va"
       - "Llora a voluntad"
+      - "Su lado de la suerte es el derecho ([[cap-2|cap. 2]])"
+      - "Al qhatu del ascensor lo llama *tío*"
       - "Le toca los pies a Lev en señal de respeto, entre la cortesía y la burla"
       - "Proyecta reflejos mientras duerme: lleva dieciocho meses enseñándole sus pesadillas a desconocidos"
     gusta:

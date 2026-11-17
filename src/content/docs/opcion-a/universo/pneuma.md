@@ -4,10 +4,19 @@ description: "Un campo biológico que produce todo ser vivo. Lo que parece magia
 sidebar:
   order: 1
 ficha:
-  - ["Qué es", "Campo biológico"]
-  - ["Se puede", "Medir, almacenar, transferir"]
+  - ["# Qué es", ""]
+  - ["Es", "Campo bioeléctrico del sistema nervioso"]
+  - ["Lleva", "Lo que se siente y los recuerdos"]
+  - ["Firma", "Única: identifica a cada ser"]
   - ["Al morir", "Se disipa, salvo que algo lo capture"]
-  - ["Solidificarlo", "Solo los [[noaidi]]"]
+  - ["# Los tres niveles", ""]
+  - ["Corriente", "El de cualquier ser vivo: el 99 %"]
+  - ["Puro", "Se extrae y se comercia; los núcleos"]
+  - ["Solidificado", "Materia con núcleo; solo los [[noaidi]]"]
+  - ["# Quién lo percibe", ""]
+  - ["Lo notan", "[[iskra|Iskra]], en la piel"]
+  - ["Lo ven", "[[kairos|Kairos]] con pneuma en los ojos"]
+  - ["Lo absorben", "[[ammit|Ammit]] y [[senri|Senri]]"]
 pendientes:
   - "Nombre del órgano."
   - "Término general para «algo que contiene pneuma», al estilo de *afín* en la otra historia (descartados: hechuras, rico, vivo, énteo)."

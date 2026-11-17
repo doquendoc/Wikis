@@ -4,10 +4,17 @@ description: "Los jardineros. Ecologistas muy avanzados que aceleraron la evoluc
 sidebar:
   order: 1
 ficha:
+  - ["# Quiénes son", ""]
   - ["Nombre", "Japonés: jardinero"]
-  - ["Hogar", "Ninguno: naves vivas"]
+  - ["Aspecto", "Altos y lentos; un mosaico de rasgos de otras especies"]
+  - ["Viven", "Mucho"]
   - ["Reproducción", "Lenta"]
+  - ["Hogar", "Ninguno: naves vivas"]
+  - ["# Lo que han hecho", ""]
+  - ["Aceleraron", ["A los humanos de las cuatro colonias", "A los [[kirks]]", "A las bestias de los [[kamakiri]]"]]
+  - ["Inventaron", "Los traductores que lleva todo el mundo"]
   - ["Con los Ammit", "Los conocen y les temen"]
+  - ["Su palabra", "Nadie la discute"]
 ---
 ## Aspecto
 

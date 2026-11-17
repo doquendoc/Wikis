@@ -11,6 +11,7 @@ ficha:
   - ["Veces en la vida", "Una"]
   - ["Nombre clínico", "Síndrome de impronta pneumática"]
 pendientes:
+  - "Qué son exactamente las píldoras blancas del cap. 1 y si tienen otro nombre."
   - "Nombre del implante de los cortados, que va en la sien (descartados: el clavo, el freno, la chapa)."
   - "Cómo se ve desde fuera el implante de la sien."
 ---
@@ -38,6 +39,10 @@ Forzarlo es posible con químicos, y es una barbaridad que se vende cara: pareja
 - La separación duele en el cuerpo, como una abstinencia.
 
 Por eso nadie se enrolla por probar: **un beso ya es una declaración**. Y por eso maduran tarde: la atracción y el deseo no aparecen hasta los quince o dieciséis, y hasta entonces se guarda distancia.
+
+## Las píldoras blancas
+
+Quitan el olfato, y con él el empuje del cuerpo hacia otros. Senri no las toma: no quiere renunciar a su olfato ([[cap-1|cap. 1]]).
 
 ## Lo que hace peligroso saberlo
 

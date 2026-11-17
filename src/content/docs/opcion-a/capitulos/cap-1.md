@@ -4,12 +4,21 @@ description: "POV de Senri. Franja baja de Tampu, de la noche a la medianoche."
 sidebar:
   order: 1
 ficha:
+  - ["# El capítulo", ""]
   - ["POV", "Senri"]
-  - ["Dónde", "La Esclusa, Franja baja"]
-  - ["Cuándo", "Hasta medianoche"]
   - ["Estado", "Borrador escrito"]
   - ["Mide", "Quitarle algo a otro"]
+  - ["# Dónde y cuándo", ""]
+  - ["Dónde", "La Esclusa, Franja baja"]
+  - ["Cuándo", "23:30 → medianoche, hora terrícola"]
+  - ["# Lo que sale", ""]
+  - ["Personajes", ["[[senri|Senri]]", "[[leela|Leela]]", "[[lev|Lev]]", "[[nadia|Lin Mei]]", "Tres Ojos", "El Cojo", "Batu", "La camarera kairos"]]
+  - ["Precios", ["Barrita en la expendedora: 300 soles (robados)", "Barritas en el bar: 140 soles", "Pistola de Senri: 100 000 soles"]]
+  - ["Barritas", ["Pasión Kairo / Pasión Verde", "Eternidad", "Vínculo Azucarado", "Chococlimax"]]
 pendientes:
+  - "La barrita verde se llama primero «Pasión Kairo» y luego «Pasión Verde». Elegir una."
+  - "En el borrador el evento se llama «Última Carrera» y también «Última Prueba»."
+  - "En el borrador sale «el Palacio de Atalanta» y «el Consejo de Hestia»: ver la propuesta de lugares en [[hestia]]."
   - "Nombre definitivo del bar y alias de Senri en Tampu."
   - "Si Nadia no se enciende a medianoche, al no verse la marca bajo la armadura."
   - "Repasar caribeñismos («jalar el gatillo», «amarrado») y erratas de nombres (penuma, xiantiang, cchaya, Tres Ojos y Tercer Ojo alternando)."

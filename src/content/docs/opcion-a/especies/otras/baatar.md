@@ -4,10 +4,16 @@ description: "Dos metros y medio de gente pacífica y comilona cuyas cicatrices 
 sidebar:
   order: 5
 ficha:
+  - ["# Cuerpo", ""]
   - ["Nombre", "Mongol: héroe, guerrero"]
   - ["Altura", "≈ 2,5 m"]
-  - ["Carácter", "Pacífico"]
-  - ["Oficio", "Guardias, porteros, luchadores"]
+  - ["Placas", "Cada cicatriz se vuelve armadura"]
+  - ["# Quiénes son", ""]
+  - ["Carácter", "Pacíficos, tranquilos y comilones"]
+  - ["Oficio", ["Guardias", "Porteros", "Luchadores"]]
+  - ["En Tampu", "La mitad de la seguridad; ejecutan el Pulso"]
+  - ["Conocido", "Batu, el de la Esclusa"]
+  - ["Planeta", "[[mundo-baatar|Bombardeado por meteoritos]]"]
 ---
 ## Aspecto
 

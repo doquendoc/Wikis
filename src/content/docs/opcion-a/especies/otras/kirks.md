@@ -4,11 +4,23 @@ description: "Acelerados hasta donde la biología permitía de una vez, y consci
 sidebar:
   order: 4
 ficha:
+  - ["# Cuerpo", ""]
   - ["Altura", "1,45 m"]
-  - ["Gravedad de origen", "1,3 g"]
+  - ["Ojos", "4, pequeños y muy juntos"]
+  - ["Piel", "Gruesa, escamosa, gris pizarra"]
+  - ["Placas", "En las articulaciones"]
   - ["Dedos", "6 por mano"]
   - ["Huelen a", "Azufre y piedra caliente"]
+  - ["Se mueven", "A cuatro patas cuando corren"]
+  - ["# Origen", ""]
+  - ["Gravedad de origen", "1,3 g"]
+  - ["Planeta", "[[mundo-kirks|El de los kirks]]"]
   - ["En ese nivel", "500 años"]
+  - ["# En Tampu", ""]
+  - ["Viven", "En el [[fondo|Fondo]], por manadas"]
+  - ["Trabajan", "Para los qhatu, y muchos para Viktor"]
+  - ["Los llaman", "Las ratas"]
+  - ["Pelean", ["En grupo", "Con chatarra", "Bastones eléctricos", "Redes eléctricas", "Cuchillos serrados"]]
 ---
 ## Qué son
 
@@ -26,7 +38,9 @@ Lo saben, porque se lo dijeron. Exageran lo que sí tienen —fuerza, velocidad,
 
 Humanoides bajos y densos, de metro cuarenta y cinco, con el torso ancho y profundo, los brazos y las piernas cortos, el cuello grueso y la cabeza pequeña, de frente baja.
 
-Piel gris pizarra, mate y de grano fino, sin pelo, con placas más duras y oscuras en frente, pómulos, hombros y antebrazos. Sin orejas externas, ojos oscuros algo separados, seis dedos cortos en cada mano.
+Piel gruesa y escamosa, gris pizarra y sin pelo, con **placas duras como rocas protegiendo las articulaciones**. Sin orejas externas, **cuatro ojos pequeños y muy juntos** y seis dedos cortos en cada mano ([[cap-2|cap. 2]]).
+
+Pequeños y ágiles, no montañas de músculo: cuando quieren ir más rápido corren a cuatro patas, y siempre atacan en grupo.
 
 Visten ropa humana robada que les queda mal.
 
@@ -40,13 +54,15 @@ Ver [[mundo-kirks]].
 
 ## Dieta
 
-Omnívoros oportunistas. Comen carroña, raíces y lo que haya, aguantan comida pasada y agua sucia, comen mucho de golpe y luego resisten días. En Tampu comen lo que nadie quiere, y por eso los qhatu los toleran: limpian.
+Omnívoros oportunistas. Comen carroña, raíces y lo que haya, aguantan comida pasada y agua sucia, comen mucho de golpe y luego resisten días. Apenas beben agua ([[cap-3|cap. 3]]). En Tampu comen lo que nadie quiere, y por eso los qhatu los toleran: limpian.
 
 ## En Tampu
 
 Son la mano de obra de los [[qhatu]] y sus guardias, más baratos incluso que los androides, y viajan mucho en naves suyas.
 
 Viven en chabolas del Fondo, repartidos por manadas, cada una con su territorio, que defienden con violencia. El Fondo les va bien —caliente, seco y de gravedad alta, como su planeta—, pero en el resto de la estación pasan frío constante, y la humedad les reblandece las placas y les agrieta la piel. Se apañan el equipo con chatarra.
+
+En Tampu los llaman **las ratas**, y Lev también ([[cap-2|cap. 2]]).
 
 Violentos pero no suicidas: atacan en grupo y huyen en cuanto se tuerce, y por eso los llaman cobardes.
 

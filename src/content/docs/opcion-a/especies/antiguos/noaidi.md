@@ -4,10 +4,19 @@ description: "Un cuerpo de pneuma solidificado que hay que pagar cada segundo. S
 sidebar:
   order: 1
 ficha:
+  - ["# Cuerpo", ""]
   - ["Nombre", "Sami: chamán, el que media entre mundos"]
-  - ["Cuerpo", "Pneuma solidificado"]
+  - ["Cuerpo", "Pneuma solidificado, gris con vetas de luz"]
+  - ["Forma", "La eligen y es su identidad; no imitan la humana"]
+  - ["Coste", "Mantener el cuerpo gasta pneuma sin parar"]
   - ["Longevidad", "Siglos"]
-  - ["En esta galaxia", "Queda una: Ravdna"]
+  - ["# Lo que hacen", ""]
+  - ["Pneuma", "Lo producen en enormes cantidades y lo moldean con la mente"]
+  - ["Solidificarlo", "Solo ellos"]
+  - ["Reproducción", "Un contenedor; debilita para siempre a los dos padres"]
+  - ["# Hoy", ""]
+  - ["En esta galaxia", "Queda una: [[ravdna|Ravdna]]"]
+  - ["Planeta", "[[mundo-noaidi|Vacío]]"]
 ---
 ## Aspecto
 

@@ -14,7 +14,8 @@ personaje:
     - ["Altura", "1,98 m"]
     - ["Peso", "≈ 100 kg, más 25 de armadura"]
     - ["Armas", "Rifle de largo alcance, pistola de pulsos, cuchillos y el bastón eléctrico de un kirk"]
-    - ["Precio", "50 millones"]
+    - ["Precio", "50 millones: solo valen más los miembros del Consejo iskra que sobrevivieron al golpe de Viktor"]
+    - ["Su pneuma sabe a", "Sangre y ozono"]
     - ["Trastorno", "[[trastornos|Hiperpneumia]]"]
   vistazo:
     rasgos:
@@ -131,7 +132,7 @@ personaje:
     - cuando: "Muy joven"
       que: "Salva él solo a un pelotón de los *likho*. Después le salva la vida a Viktor matando a Pavel, colega de sus padres. Entra en la escolta como teniente."
     - cuando: "19 años · Hestia"
-      que: "Teniente en segunda fila de la delegación, alojada en el Asclepión; Viktor prueba en él los cristales de Grace. Coincide muchas veces con un crío kairos y se quita el casco una vez delante de él. Nota que el chaval está colgado y lo descarta. Ken le advierte de que acercarse al hijo de los Hayami parece una operación, y se retira creyéndolo."
+      que: "Teniente en segunda fila de la delegación, alojada en el Asclepión; Viktor prueba en él los cristales de Grace. Coincide muchas veces con un crío kairos. Una vez se quita la armadura para ver el amanecer a través del cristal de Grace, y el chico se tapa los ojos para no incomodarlo ([[cap-2|cap. 2]]). Nota que el chaval está colgado y lo descarta. Ken le advierte de que acercarse al hijo de los Hayami parece una operación, y se retira creyéndolo."
     - cuando: "19 años · año 0 · la noche del golpe"
       que: "Ya con la armadura negra. Ve a Grace matarse con la pistola de Viktor. Mata a Ken, deja vivir a Senri y miente para que nadie lo busque donde está escondido."
     - cuando: "19 años · tras Hestia"
@@ -184,6 +185,8 @@ Sus patrones cambian según lo que siente y se marcan más cuanto más caliente 
 **Lo que nota raro en Senri** no es una firma: es que los pastores no lo tocan, su calor, su olor y su latido.
 
 ## La armadura (skorlupa)
+
+**Cómo funciona** ([[cap-2|cap. 2]]): se abre en parte y se recoge alrededor de los **anclajes de antebrazos, piernas y hombros**; con el material extra de los anclajes sella sus propios agujeros, y la fusión quema. Lleva traductor. Lev puede mandar su pneuma a la armadura y de ahí al rifle: entonces todo se le vuelve gris y nota los núcleos.
 
 **Lo que gana:** el visor le oscurece la luz y corrige los colores, acentuando los rojos y ámbares que apenas ve, así que ve mejor que sin ella, y el oído le llega bien.
 

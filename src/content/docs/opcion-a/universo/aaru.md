@@ -4,12 +4,20 @@ description: "No es un mundo: es la estación-granja de los Ammit. Y no era una 
 sidebar:
   order: 5
 ficha:
-  - ["Qué es", "Estación-granja"]
-  - ["Dónde", "Nubes de un gigante gaseoso"]
-  - ["Galaxia", "La de los tres pueblos"]
+  - ["# Qué es", ""]
+  - ["Es", "Estación-granja de los Ammit"]
   - ["Nombre", "Egipcio antiguo: el Campo de Juncos"]
-  - ["Estancia del grupo", "2 o 3 semanas"]
+  - ["Dónde", "Nubes de un gigante gaseoso con lunas"]
+  - ["Galaxia", "La de los tres pueblos"]
+  - ["Alrededor", "Asteroides con campos que impiden abrir portales"]
+  - ["# Cómo se llega", ""]
   - ["Portales", "Uno solo: Tampu ↔ Aaru"]
+  - ["Se abre", "Cada 50 años"]
+  - ["Lo abre", "[[ravdna|Ravdna]]"]
+  - ["# Allí", ""]
+  - ["Condiciones", ["Noches largas y heladas", "Tormentas de días", "Más luz cuanto más arriba"]]
+  - ["Estancia del grupo", "2 o 3 semanas"]
+  - ["Supervivientes de antes", "Ninguno"]
 pendientes:
   - "Mejorar el diseño de la base por dentro."
 ---

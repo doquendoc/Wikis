@@ -4,12 +4,21 @@ description: "POV de Lev. El club del tercer disco, y la primera vez que se salv
 sidebar:
   order: 2
 ficha:
+  - ["# El capítulo", ""]
   - ["POV", "Lev"]
-  - ["Dónde", "La Máquina, disco 3"]
   - ["Estado", "Borrador escrito"]
   - ["Mide", "Percepción y pneuma"]
-  - ["Al salir", "20 horas"]
+  - ["# Dónde y cuándo", ""]
+  - ["Dónde", "La Máquina, disco 3"]
+  - ["El club", "8 pisos de escaparates; la prueba, en el 10"]
+  - ["Al salir", "20 horas en la banda"]
+  - ["# Lo que sale", ""]
+  - ["Personajes", ["[[lev|Lev]]", "[[senri|Senri]]", "[[leela|Leela]]", "[[nadia|Lin Mei]]", "Tres Ojos", "El Cojo", "El qhatu del ascensor"]]
+  - ["Guardianes", "12, tres por cara"]
+  - ["Heridas de Lev", ["Bastón eléctrico en el abdomen", "Balazo en el brazo, de lado a lado"]]
+  - ["Naves que ofrecen", "G0-Racer-21"]
 pendientes:
+  - "En el borrador: «la Espada del Consejo de Atalanta». Ver la propuesta de [[hestia]] (la Boulé)."
   - "Qué encuentran exactamente arriba, en el piso diez, más allá del pedestal."
   - "En el borrador, el qhatu del ascensor dice que no ve «una línea en la nuca»: hay que adaptarlo al implante en la sien."
   - "En el borrador aparece «el Mar de Chatarra»: ahora se llama el Desguace."
@@ -31,7 +40,7 @@ Coinciden Senri, Leela, alguien que los perseguía —al que dejan inconsciente�
 
 Un pedestal con fichas de pneuma solidificado, como fichas de casino, tibias y latiendo: son la llave del ascensor del fondo, y hay para docenas de personas.
 
-Lo rodean **doce guardianes** de pneuma, tres por cara. Quien se acerca a una cara despierta a sus tres, y ya hay varios competidores muertos y otros peleando sin opciones: para un humano solo es imposible.
+Lo rodean **doce guardianes** de pneuma, tres por cara: el doble de altos y de anchos que una persona, sin ojos, orejas ni nariz, y con una sola mente repartida entre los tres de cada cara. **Se tragan las balas y las escupen de vuelta**, y cuando uno se deshace sube otro por un anillo que se abre en el suelo. Quien se acerca a una cara despierta a sus tres, y ya hay varios competidores muertos y otros peleando sin opciones: para un humano solo es imposible.
 
 [[nadia|Nadia]] está esperando, porque ya sabe la solución: **cuatro distraen a tres guardianes cada uno y un quinto roba las fichas**. Ella lo propone.
 

@@ -4,10 +4,15 @@ description: "Los devoradores. No producen pneuma: lo absorben, y atacarlos con 
 sidebar:
   order: 2
 ficha:
+  - ["# Quiénes son", ""]
   - ["Nombre", "Egipcio antiguo: la devoradora de corazones"]
-  - ["Pneuma", "No lo producen, lo absorben"]
-  - ["Cuerpo", "Pneuma, como los noaidi"]
-  - ["En el libro 1", "No aparecen"]
+  - ["Pneuma", "No lo producen: lo absorben"]
+  - ["Cuerpo", "Pneuma, como los noaidi; cambian de forma"]
+  - ["Atacarlos con pneuma", "Es darles de comer"]
+  - ["# En el libro", ""]
+  - ["Aparecen", "Nunca: solo sus restos y sus guardianes"]
+  - ["Dónde duermen", "[[aaru|Aaru]]"]
+  - ["Uno conocido", "Fintan, el del órgano de [[senri|Senri]]"]
 pendientes:
   - "Hipótesis del libro 2: que tengan un origen común con los noaidi."
   - "Nombre del órgano."

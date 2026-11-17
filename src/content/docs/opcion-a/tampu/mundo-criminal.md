@@ -3,6 +3,19 @@ title: "El mundo criminal"
 description: "Contratos registrados, tarifas públicas que son precio y ranking a la vez, y una convocatoria que llegó a las más altas."
 sidebar:
   order: 4
+ficha:
+  - ["# Cómo funciona", ""]
+  - ["Contratos", "Se registran en el Mercado"]
+  - ["Garantía", "Los qhatu guardan el pago y cobran comisión"]
+  - ["Romper un contrato", "Muerte social"]
+  - ["Sin registrar", "En la Franja o el Fondo, sin garantía"]
+  - ["Reputación", "Tarifa pública: precio y ranking a la vez"]
+  - ["# Oficios", ""]
+  - ["Mercenarios", "Muchos [[kairos]]"]
+  - ["Rastreadores", "Antes iskra; hoy escasos y carísimos"]
+  - ["Espías", "Muchos [[chhaya]]"]
+  - ["Músculo", ["[[baatar|Baatar]]", "[[kirks|Kirks]]"]]
+  - ["Tráfico", ["Armas", "Implantes", "Drogas", "Personas"]]
 ---
 ## Contratos
 

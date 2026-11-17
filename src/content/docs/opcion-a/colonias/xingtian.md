@@ -44,7 +44,7 @@ Consejos técnicos y de gremios, pacientes. Industria pesada, minería y los may
 
 ## Manías heredadas
 
-- Casi no sienten dolor y llevan monitores que avisan de las heridas.
+- Casi no sienten dolor ni tienen apenas tacto, y llevan monitores que avisan de las heridas.
 - Aguantan la respiración muchísimo.
 - Fuera de casa prueban el suelo con el pie antes de pisar, y lo cogen todo con dos dedos.
 - Prefieren espacios cerrados, techos bajos y la espalda contra la pared; el cielo abierto los agobia.

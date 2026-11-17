@@ -5,6 +5,21 @@ sidebar:
   order: 1
 pendientes:
   - "Repartir los POV capítulo a capítulo entre Senri y Lev."
+ficha:
+  - ["# El libro", ""]
+  - ["Título", "La Última Carrera"]
+  - ["Género", "Ciencia ficción BL"]
+  - ["Tono", "Comedia con cosas serias"]
+  - ["Romance", "Rivals to lovers: [[senri|Senri]] y [[lev|Lev]]"]
+  - ["Final", "Feliz por ahora: juntos"]
+  - ["Formato", "Debut autoconclusivo, con puerta a un libro 2"]
+  - ["Idioma", "Español"]
+  - ["# Cómo se cuenta", ""]
+  - ["POV", "Dual: Senri y Lev, alternando"]
+  - ["Cap. 1", "Senri"]
+  - ["Cap. 2", "Lev"]
+  - ["Lo que sabe el lector", "Desde el cap. 2, que Lev mató a Ken"]
+  - ["Escenarios", ["La estación", "El viaje", "La base"]]
 ---
 ## Género
 

@@ -8,6 +8,8 @@ ficha:
   - ["Estado", "Extintos"]
   - ["Legado", "4 núcleos de pneuma"]
   - ["Causa de la muerte", "El oxígeno de la Tierra"]
+pendientes:
+  - "En el borrador del cap. 1 se escriben «nifilim», y la galaxia se llama Nifilia. Decidir: nefilim o nifilim (y si Nifilia viene de ellos)."
 ---
 Especie gigante de la misma galaxia que los [[noaidi]], aliados o parientes suyos: de ahí los núcleos de pneuma de su nave, que dieron las cuatro arcas humanas.
 

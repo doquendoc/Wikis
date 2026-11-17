@@ -37,6 +37,10 @@ Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
 
 Lo que se sabe sale de las sondas. Orbita una estrella fría y tranquila, **sin llamaradas**, que es lo que lo hace adecuado. Es un mundo de crepúsculo perpetuo, frío y húmedo, con niebla y gravedad cercana a 1 g. Las sondas registraron vida, pero nadie la ha visto de cerca. Es un Mrak sin la estrella que lo está matando.
 
+## Lo que promete Viktor
+
+«Un nuevo mundo donde no tengamos que escondernos de la luz. ¡Hacia Sumerki!» ([[cap-2|cap. 2]]).
+
 ## El problema
 
 Ninguna nave corriente llega, y **el núcleo de un arca se gasta entero en el viaje de ida**, así que no hay vuelta. Por eso Viktor necesita quitarle un arca a otra colonia, y Nadia pide dos núcleos para tener tres arcas.

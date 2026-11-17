@@ -7,6 +7,18 @@ pendientes:
   - "Nombres científicos para el gen de Senri y Hana, y para el de Viktor y Lev (los propuestos no valían)."
   - "Cuánto sabían los iskra sobre la condición de Senri y Hana antes del golpe."
   - "Nombre del órgano."
+ficha:
+  - ["# Disautonomía pneumática", ""]
+  - ["Subespecie", "[[kairos|Kairos]]"]
+  - ["En la calle", "El incendio"]
+  - ["Qué hace", "El cuerpo se quema por dentro"]
+  - ["Señal", "Pneuma en los ojos"]
+  - ["La tienen", ["Hana (murió)", "[[senri|Senri]]"]]
+  - ["# Hiperpneumia", ""]
+  - ["Subespecie", "[[iskra|Iskra]]"]
+  - ["Qué hace", "Mucho más pneuma, y más puro"]
+  - ["El precio", "Hipersensibilidad a la luz y la radiación"]
+  - ["La tienen", ["[[lev|Lev]]", "Viktor"]]
 ---
 ## Disautonomía pneumática · kairos
 
@@ -36,6 +48,6 @@ Ahí está el hilo que conecta a Senri con Lev por debajo de todo lo demás: lo 
 
 Grace robó un núcleo de arca años antes del golpe y lo gastó entero en el trasplante de Senri: el [[ammit|órgano]] que le permite consumir pneuma puro y, con eso, no quemarse.
 
-Los iskra tenían imágenes de cámara y sabían que había sido ella, pero no para qué. Ella murió atacando a Viktor en una sala de interrogatorios para que la mataran antes de poder contárselo, y ahí se rompió todo: los iskra siguen buscando un núcleo que ya no existe.
+Los iskra tenían imágenes de cámara y sabían que había sido ella, pero no para qué. Se mató con la pistola de Viktor en una sala de interrogatorios antes de poder contarlo ([[cap-2|cap. 2]]), y ahí se rompió todo: los iskra siguen buscando un núcleo que ya no existe.
 
 Ver [[historia]] y [[pneuma]].
