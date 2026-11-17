@@ -10,7 +10,7 @@ ficha:
   - ["Muere", "Ravdna, a manos de Nadia"]
   - ["La huida", "En la nave de emergencia, con el corazón de Senri"]
   - ["La nave de Ravdna", "Se la queda un Ammit"]
-  - ["Abierto", "Los Ammit van a por la galaxia"]
+  - ["Abierto", "Los Ammit van hacia Tampu en la nave de Ravdna"]
 pendientes:
   - "Repartir entre los caps. 24 a 27 lo que pasa al final."
   - "Cuánto le cuesta a Senri mover la nave de emergencia."
@@ -28,7 +28,7 @@ Nadia atrapa a todos menos a Senri, que cruza solo gracias al órgano y amenaza 
 
 Al sacar el contenedor, la base pierde sustentación y empieza a hundirse; los guardianes van a por todos menos Senri.
 
-Y la armadura rota de Lev, que es **un foco de pneuma puro andando**, despierta a los [[ammit|Ammit]]: no en masa, porque no son tantos, pero suficientes.
+Y la armadura rota de Lev, que es **un foco de pneuma puro andando**, despierta a uno o dos [[ammit|Ammit]], no a todos. Si son dos, uno mata al otro.
 
 Nadia muestra lo que es: su armadura falla o se rompe y Lev la reconoce al verla y oírla. Sale a la luz quién es: la gemela de Viktor, la que llevó el golpe de Indraprastha y la que sacó a Lev de la cárcel. Nadia huye con el contenedor y **Lev elige quedarse con el grupo**.
 
@@ -47,7 +47,7 @@ Lo decidido; el reparto exacto entre los dos capítulos está por cerrar.
 - **Nadia vuelve a la nave antes que nadie**, mata a Ravdna y le quita el corazón. Intenta llevarse también el huevo y a Laddoo, y el grupo, que llega persiguiéndola, la para. Con el único que afloja es con Senri.
 - **Después llega un Ammit**, persiguiéndolos a todos. Le quita a Nadia el corazón de Ravdna y se queda con la nave grande.
 - **Huyen en la nave de emergencia**, pequeña, que también se mueve con pneuma y necesita mucho: el del corazón de Senri. Le cuesta: cuanto más tira de él, más pneuma y menos kairos.
-- **El Ammit no los sigue enseguida.** Primero recoge a los suyos y a los guardianes, y se prepara para ir a merendarse la galaxia.
+- **El Ammit no los sigue enseguida.** Con el corazón de Ravdna dentro, despierta a los demás, que se comen lo que hay en la piscina, y van todos en la nave de Ravdna hacia Tampu, a merendarse la galaxia.
 
 El final es una huida.
 
@@ -57,7 +57,7 @@ El final es una huida.
 |---|---|
 | El de Senri | Dentro de él, más gastado |
 | El de Laddoo | Fusionado con él. Se le puede sacar sin matarlo, pero hace falta alguien que sepa |
-| El de Ravdna | Con los Ammit |
+| El de Ravdna | Dentro del Ammit que se queda la nave |
 | El del huevo | Dentro del huevo, que va con ellos. Nace en el libro 2 |
 | El xingtian | Guardado en Taishan |
 

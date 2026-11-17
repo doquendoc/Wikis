@@ -29,7 +29,7 @@ Ken lo vio y se lo calló; a Lev lo apartó con otro argumento, que parecía una
 | Senri es diferente: le enseñó a Lev la cicatriz y el pneuma puro en Hestia, para que se quitara la armadura, y le dijo que estaba seguro | Pasado; [[cap-2\|cap. 2]] | Senri y Lev |
 | Viktor sabe que Senri vive: se lo sacó a Lev con la droga, y que Senri lleva un pneuma que no es normal | ? | Viktor. Lev quizá no lo recuerda |
 | La confesión de Lev, por decisión y no por descuido: fue él, y sacó a Senri porque Ken se lo pidió | Cap. 18 | Lev y el lector |
-| La piscina no es un accidente: es de los Ammit | Cap. 21 | Los guardianes |
+| La piscina no es un accidente: es la comida de los Ammit para cuando despierten | Cap. 21 | Los guardianes |
 | El corazón de un arca es, literalmente, el de un noaidi, y Ravdna no puede crear ninguno | Aaru | Ravdna. Nadia lo descubre en la granja |
 | Senri lleva dentro el corazón de Hestia | Aaru: los guardianes o el despertar de los Ammit | Senri y Ravdna. Lev lo descubre, y entiende de dónde iba a sacar Ravdna lo que le prometió |
 | Laddoo lleva dentro el corazón chhaya | En la nave hacia Aaru, o en Aaru | Leela. Senri, cuando Laddoo la ayuda |

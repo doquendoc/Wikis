@@ -58,7 +58,7 @@ Un grupo de cazadores Ammit persiguió a unos noaidi fugitivos hasta **Nifilia**
 
 Puede que Ravdna y su hermano sean **los últimos noaidi libres**. Los que quedan en la galaxia de origen son comida de los Ammit.
 
-Los Ammit que quedan en Aaru no tienen corazón: comen basura, hibernan, no pueden mover naves y están construyendo una.
+Los Ammit que quedan en Aaru no tienen corazón: comen basura, hibernan y no pueden mover una nave.
 
 ## Quién sabe esto
 

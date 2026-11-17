@@ -16,7 +16,8 @@ ficha:
   - ["Dónde", "[[aaru|Aaru]], en Nifilia"]
   - ["Corazón", "Ninguno: se los rompió un noaidi"]
   - ["Viven", "Comiendo basura e hibernando"]
-  - ["Naves", "No pueden moverlas: están construyendo una"]
+  - ["Naves", "No pueden moverlas sin corazón"]
+  - ["La piscina", "Su comida para cuando despierten"]
   - ["Notan", ["A [[lev|Lev]]", "No a [[senri|Senri]]", "No a Laddoo"]]
   - ["# Uno conocido", ""]
   - ["Fintan", "El del órgano de [[senri|Senri]]"]
@@ -37,7 +38,7 @@ El origen está contado en [[pueblos-antiguos]]: eran el pueblo débil de la gal
 
 ## Los de Aaru
 
-Son los descendientes de los cazadores que persiguieron a los noaidi hasta Nifilia y montaron la granja de [[aaru|Aaru]]. Un noaidi les rompió los corazones y murió con ellos, y desde entonces **no tienen ninguno**: comen basura, hibernan, no pueden mover naves y están construyendo una.
+Son los descendientes de los cazadores que persiguieron a los noaidi hasta Nifilia y montaron la granja de [[aaru|Aaru]]. Un noaidi les rompió los corazones y murió con ellos, y desde entonces **no tienen ninguno**: comen basura, hibernan y no pueden mover una nave.
 
 **Qué notan:**
 

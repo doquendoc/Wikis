@@ -24,7 +24,7 @@ pendientes:
 - **Nadia** se queda con el grupo, destrozada, para el libro 2.
 - **Leela** se queda con Senri, porque cree que él, o lo que salga del huevo, puede sacarle el corazón a Laddoo.
 - **Lev** no va a matar al huevo para conseguir un corazón.
-- **Los Ammit se quedan la nave de Ravdna**, recogen a los suyos y a los guardianes, y se preparan para ir a merendarse la galaxia.
+- **Los Ammit se quedan la nave de Ravdna.** El que tiene el corazón despierta a los demás, se comen la piscina y van hacia Tampu.
 
 ## Las codas
 
@@ -49,7 +49,7 @@ Una idea en marcha, no cerrada:
 
 **El corazón de Hestia.** Lo lleva Senri dentro: está vivo porque su madre gastó en él la escapatoria de su colonia, y cada vez que lo usa es menos kairos. Quedan dos rastros: la grabación de la sala de interrogatorios y las notas de Grace, escondidas en el templo al que iba a rezar Hiroshi.
 
-**Los Ammit.** Despiertos, con la nave de Ravdna, su corazón, los guardianes y la reserva de la piscina. En el libro 2 la guerra con Viktor deja de importar cuando llegan: toca hacer las paces y defenderse, y los iskra descubren que lo que viene detrás es peor que su estrella.
+**Los Ammit.** Despiertos, alimentados con la piscina, y de camino a Tampu en la nave de Ravdna, con su corazón. En el libro 2 la guerra con Viktor deja de importar cuando llegan: toca hacer las paces y defenderse, y los iskra descubren que lo que viene detrás es peor que su estrella.
 
 **El huevo lo complica todo.** Un noaidi es un corazón vivo: podría salvar a los iskra, y por eso Ravdna no se lo dijo a Lev.
 

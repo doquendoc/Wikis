@@ -17,7 +17,8 @@ ficha:
   - ["El corazón del arca", "En una cámara bajo el centro científico"]
   - ["Director", "Elias Hart"]
   - ["Jefa de investigación", "Grace Hayami"]
-  - ["La Cúpula de Cristal", "De Grace, en el centro; donde Ken esconde a Senri (por confirmar)"]
+  - ["La Cúpula de Cristal", "De Grace, en lo alto del centro"]
+  - ["El hangar", "Del centro, abajo; donde Ken esconde a Senri (por confirmar)"]
   - ["El templo de Hiroshi", "?"]
   - ["# La noche del ataque", ""]
   - ["Qué fue", "Un robo de noche, a escondidas"]
@@ -26,7 +27,7 @@ ficha:
   - ["Muertos", ["Grace: se mata", "Hiroshi: lo mata Viktor", "Ken: herido por Lev"]]
   - ["Senri", "Lo saca Lev, en una nave"]
 pendientes:
-  - "Confirmar las secciones marcadas: la ciudad, la Boulé, el Pritaneo, el Asclepión y la Cúpula como escondite."
+  - "Confirmar las secciones marcadas: la ciudad, la Boulé, el Pritaneo, el Asclepión y el hangar como escondite."
   - "Nombre del templo al que iba a rezar Hiroshi."
   - "Desde cuándo sospecha Hiroshi que Viktor va a por sus hijos."
   - "Qué edificio arde esa noche: el cap. 1 dice que la biblioteca de Grace ardió «como el resto del palacio»."
@@ -89,13 +90,15 @@ Por el cristal, un iskra ve los rojos, los naranjas y los amarillos que no disti
 
 ## La Cúpula de Cristal
 
-La de Grace, en el centro científico. Ahí ven Senri y Lev la final de las Panteras, y ahí se queda dormido Senri con el brazo de Lev de almohada ([[cap-4|cap. 4]]).
+La de Grace, en lo alto del centro científico. Ahí ven Senri y Lev la final de las Panteras, y ahí se queda dormido Senri con el brazo de Lev de almohada ([[cap-4|cap. 4]]).
+
+## El hangar
 
 :::caution[Por confirmar]
 Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
 :::
 
-Es donde Ken esconde a Senri la noche del robo, y donde lo encuentra Lev. Sustituye al jardín japonés: el sitio donde se durmió encima de él es el sitio donde Lev lo saca.
+Abajo, junto a la salida. Ken lleva a Senri hacia las naves para sacarlo de allí, y lo esconde entre ellas cuando les cortan el paso. Ahí lo encuentra Lev, y por eso lo tiene tan fácil para meterlo en una nave.
 
 ## El templo
 

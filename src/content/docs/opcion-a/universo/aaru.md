@@ -22,7 +22,6 @@ ficha:
   - ["Supervivientes de antes", "Ninguno"]
 pendientes:
   - "Mejorar el diseño de la base por dentro."
-  - "Para qué es la piscina (propuesta abajo)."
 ---
 Está en las nubes de un gigante gaseoso con lunas, en **Nifilia**, la misma galaxia que las colonias humanas y [[tampu|Tampu]], pero muy lejos.
 
@@ -37,7 +36,7 @@ Un grupo de cazadores [[ammit|Ammit]] persiguió hasta aquí a unos [[noaidi]] f
 
 ## Los Ammit duermen
 
-Los que quedan no tienen corazón: comen basura, hibernan, no pueden mover naves y están construyendo una.
+Los que quedan no tienen corazón: comen basura, hibernan y no pueden mover una nave.
 
 Ravdna los ha mantenido así a propósito. Entendió que mandarles soldados de pneuma solo los fortalecía, así que empezó a mandar **gente**, que alimenta mucho peor, y los fue dejando con hambre hasta que se durmieron.
 
@@ -47,11 +46,7 @@ Ravdna los ha mantenido así a propósito. Entendió que mandarles soldados de p
 
 Sus guardianes siguen activos, responden al pneuma y son manejables. Llevan siglos extrayendo el pneuma de todo lo que Ravdna manda y llenando una reserva: **la piscina**.
 
-:::caution[Por confirmar]
-Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
-:::
-
-La piscina es **el combustible de la nave que están construyendo**: sin corazones, es la única forma que tienen los Ammit de mover algo tan grande y salir de allí.
+**Es la comida de los Ammit** para cuando despierten: sobre todo para los que no tienen corazón, que al final son todos menos uno.
 
 ## Geografía
 
@@ -67,8 +62,8 @@ Noches largas y heladas, tormentas que encierran durante días, y en los niveles
 
 ## Al final
 
-La armadura rota de [[lev|Lev]], un foco de pneuma puro andando, despierta a los Ammit.
+La armadura rota de [[lev|Lev]], un foco de pneuma puro andando, **despierta a uno o dos Ammit**, no a todos. Si son dos, uno mata al otro.
 
-[[nadia|Nadia]] vuelve a la nave de Ravdna antes que nadie, la mata y le quita el corazón. Los demás llegan persiguiéndola, y después llega **un Ammit**, persiguiéndolos a todos, que le quita a Nadia el corazón de Ravdna y **se queda con la nave**. El grupo huye en **la nave de emergencia**, pequeña, movida con el pneuma del corazón de [[senri|Senri]].
+[[nadia|Nadia]] vuelve a la nave de Ravdna antes que nadie, la mata y le quita el corazón. Los demás llegan persiguiéndola, y después llega el Ammit, persiguiéndolos a todos, que le quita a Nadia el corazón de Ravdna y **se queda con la nave**. El grupo huye en **la nave de emergencia**, pequeña, movida con el pneuma del corazón de [[senri|Senri]].
 
-El Ammit no va tras ellos enseguida: primero recoge a los suyos y a los guardianes, y se prepara para ir a merendarse la galaxia. Ver [[arco-4]].
+El Ammit no va tras ellos enseguida. Con el corazón de Ravdna dentro, despierta a los demás, que se comen lo que hay en la piscina, y van todos en la nave de Ravdna hacia Tampu. Ver [[arco-4]].
