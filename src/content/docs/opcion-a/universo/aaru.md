@@ -62,7 +62,7 @@ Noches largas y heladas, tormentas que encierran durante días, y en los niveles
 
 ## Al final
 
-La armadura rota de [[lev|Lev]], un foco de pneuma puro andando, **despierta a uno o dos Ammit**, no a todos. Si son dos, uno mata al otro.
+La armadura rota de [[lev|Lev]], un foco de pneuma puro andando, **despierta a dos Ammit**, no a todos. El grupo mata a uno, a lo bruto.
 
 [[nadia|Nadia]] vuelve a la nave de Ravdna antes que nadie, la mata y le quita el corazón. Los demás llegan persiguiéndola, y después llega el Ammit, persiguiéndolos a todos, que le quita a Nadia el corazón de Ravdna y **se queda con la nave**. El grupo huye en **la nave de emergencia**, pequeña, movida con el pneuma del corazón de [[senri|Senri]].
 

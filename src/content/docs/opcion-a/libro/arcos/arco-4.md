@@ -28,7 +28,7 @@ Nadia atrapa a todos menos a Senri, que cruza solo gracias al órgano y amenaza 
 
 Al sacar el contenedor, la base pierde sustentación y empieza a hundirse; los guardianes van a por todos menos Senri.
 
-Y la armadura rota de Lev, que es **un foco de pneuma puro andando**, despierta a uno o dos [[ammit|Ammit]], no a todos. Si son dos, uno mata al otro.
+Y la armadura rota de Lev, que es **un foco de pneuma puro andando**, despierta a dos [[ammit|Ammit]], no a todos. El grupo mata a uno, a lo bruto. El otro es el que los persigue hasta la nave.
 
 Nadia muestra lo que es: su armadura falla o se rompe y Lev la reconoce al verla y oírla. Sale a la luz quién es: la gemela de Viktor, la que llevó el golpe de Indraprastha y la que sacó a Lev de la cárcel. Nadia huye con el contenedor y **Lev elige quedarse con el grupo**.
 

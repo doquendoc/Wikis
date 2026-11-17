@@ -174,7 +174,7 @@ pendientes:
   - "Alias de Senri en Tampu."
   - "Nombres científicos del gen suyo y de Hana, y del de Viktor y Lev."
   - "Nombre del respirador de media cara."
-  - "Confirmar los lugares de Hestia (la Boulé, el Pritaneo, el Asclepión y el hangar como escondite): ver [[hestia]]."
+  - "Confirmar los lugares de Hestia (la Boulé, el Pritaneo y el Asclepión): ver [[hestia]]."
   - "Dónde tiene la cicatriz del trasplante, la que le enseña a Lev."
 ---
 ## Personalidad
