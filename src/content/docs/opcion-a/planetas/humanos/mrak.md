@@ -22,13 +22,13 @@ ficha:
   - ["# Gente", ""]
   - ["Subespecie", "[[iskra|Iskra]]"]
   - ["Capital", "Ogonyok"]
-  - ["Núcleo", "Estalló hace 7 u 8 años"]
+  - ["Corazón", "Estalló hace 7 u 8 años"]
   - ["Idioma", "Ruso"]
   - ["Nombre", "Ruso: oscuridad"]
 pendientes:
   - "Confirmar las secciones marcadas: la capital, paisaje (y si la estrella está fija en el cielo), fauna (likho, svetlyak) y flora."
   - "Detalles de las llamaradas: frecuencia, daño, cuánto tiempo les queda."
-  - "Dónde estaba la instalación del núcleo, y qué queda de ella."
+  - "Dónde estaba la instalación del corazón, y qué queda de ella."
 ---
 ## El planeta
 
@@ -86,15 +86,15 @@ Cada vez más fuertes y frecuentes: la radiación enferma a la gente, daña a lo
 
 ## La explosión
 
-El núcleo iskra **mandaba pneuma a la atmósfera** para frenar la radiación de la estrella. En la instalación trabajaban los padres de [[lev|Lev]], Svetlana y Konstantin, y [[nadia|Nadia]], que era su pupila.
+El corazón iskra **mandaba pneuma a la atmósfera** para frenar la radiación de la estrella. En la instalación trabajaban los padres de [[lev|Lev]], Svetlana y Konstantin, y [[nadia|Nadia]], que era su pupila.
 
 Hace siete u ocho años hubo una emergencia y se evacuó la instalación. Dentro quedaron atrapados Nadia y los padres de Lev. Viktor, que era militar, fue a sacarlos; Lev, con catorce o quince años, se coló detrás, y Viktor lo cubrió.
 
-**El núcleo estalló.** Murió casi todo el que estaba allí, los padres de Lev también, y el pneuma se volvió radiactivo: desde entonces en Mrak hay **dos radiaciones**, la de la estrella y la del pneuma.
+**El corazón estalló.** Murió casi todo el que estaba allí, los padres de Lev también, y el pneuma se volvió radiactivo: desde entonces en Mrak hay **dos radiaciones**, la de la estrella y la del pneuma.
 
 Sobrevivieron los que tenían [[trastornos|hiperpneumia]] de nacimiento, porque la explosión se la multiplicó: Viktor, Nadia, Lev y un científico, Pavel, que se mató después, cuando su radiación mató a su familia.
 
-- **Nadie tuvo la culpa.** El gobierno no consiguió un núcleo de repuesto, y la instalación cargaba con todo.
+- **Nadie tuvo la culpa.** El gobierno no consiguió un corazón de repuesto, y la instalación cargaba con todo.
 - Para Viktor fue el detonante, y también para Nadia: desde entonces no ven otra salida que irse.
 - Lev, Viktor y Nadia se criaron casi como hermanos.
 
@@ -110,4 +110,4 @@ En [[tampu|Tampu]] la temperatura le resulta a Lev agradable, casi cálida, pero
 
 ## Su futuro
 
-Viktor quiere irse a [[sumerki|Sumerki]], y para eso necesita tres arcas con su núcleo; Lev quiere quedarse y salvar Mrak, y para eso necesita **tres núcleos** que hagan lo que hacía el suyo. Ver [[guerra]]. A los [[kirks]] les prometen Mrak, que para ellos es mejor que su planeta, porque aguantan esa radiación y la que viene.
+Viktor quiere irse a [[sumerki|Sumerki]], y para eso necesita tres arcas con su corazón; Lev quiere quedarse y salvar Mrak, y para eso necesita **tres corazones** que hagan lo que hacía el suyo. Ver [[guerra]]. A los [[kirks]] les prometen Mrak, que para ellos es mejor que su planeta, porque aguantan esa radiación y la que viene.

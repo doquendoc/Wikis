@@ -1,6 +1,6 @@
 ---
 title: "Arco 4 · La cámara"
-description: "Capítulos 22 a 27. Las dos traiciones, la muerte de Ravdna y la vuelta con un núcleo que paga Senri."
+description: "Capítulos 22 a 27. Las dos traiciones, la muerte de Ravdna y la huida en la nave de emergencia, con el corazón de Senri."
 sidebar:
   order: 4
 ficha:
@@ -8,15 +8,13 @@ ficha:
   - ["Escenario", "La cámara y la nave"]
   - ["Coste", "Nadie cobra"]
   - ["Muere", "Ravdna, a manos de Nadia"]
-  - ["La vuelta", "Con el núcleo de Senri"]
-  - ["Abierto", "Los Ammit pueden llegar a Tampu"]
+  - ["La huida", "En la nave de emergencia, con el corazón de Senri"]
+  - ["La nave de Ravdna", "Se la queda un Ammit"]
+  - ["Abierto", "Los Ammit van a por la galaxia"]
 pendientes:
-  - "Reordenar los caps. 24 a 27 con el final nuevo: en qué capítulo mata Nadia a Ravdna y dónde (propuesta abajo)."
-  - "Por qué no usan el núcleo de Ravdna para volver (propuesta abajo)."
-  - "Qué pasa con el huevo: quién lo lleva, si nace en el libro 1 y quién lo abre."
-  - "Qué hace el Ammit que sube a la nave después de quitarle el núcleo a Nadia."
-  - "Cuánto le cuesta a Senri mover la nave."
-  - "Qué núcleos le quedan a Lev a su alcance: el de Laddoo, y «el de Nadia», que se lo ha quitado el Ammit."
+  - "Repartir entre los caps. 24 a 27 lo que pasa al final."
+  - "Cuánto le cuesta a Senri mover la nave de emergencia."
+  - "Quién le da un cuerpo a Mushi: Senri creándolo o Nadia con una armadura especial."
 ---
 ### 22 · La víspera
 
@@ -34,44 +32,52 @@ Y la armadura rota de Lev, que es **un foco de pneuma puro andando**, despierta 
 
 Nadia muestra lo que es: su armadura falla o se rompe y Lev la reconoce al verla y oírla. Sale a la luz quién es: la gemela de Viktor, la que llevó el golpe de Indraprastha y la que sacó a Lev de la cárcel. Nadia huye con el contenedor y **Lev elige quedarse con el grupo**.
 
+Leela se entera ahí de lo de la armadura: es de mayavi, de los suyos.
+
+**Lev descubre el corazón de Senri** en algún momento de Aaru: luchando contra los guardianes, o cuando despiertan los Ammit.
+
 ### 25 · El eyector
 
 Sacan a Senri. Nadia usó un eyector y dejó el otro sin energía; Senri lo alimenta con el pneuma de la piscina y pierde la curación.
 
-### 26 · La nave de Ravdna
+### 26 – 27 · La huida
 
-:::caution[Por confirmar]
-Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
-:::
+Lo decidido; el reparto exacto entre los dos capítulos está por cerrar.
 
-Nadia llega antes que ellos. Ya sabe lo que son los núcleos, porque lo ha visto en la granja, y entiende que Ravdna le prometió los de Laddoo y Senri. **La mata y le quita el suyo.** Intenta llevarse también el huevo y a Laddoo, y el grupo la para. Con el único que afloja es con Senri.
+- **Nadia vuelve a la nave antes que nadie**, mata a Ravdna y le quita el corazón. Intenta llevarse también el huevo y a Laddoo, y el grupo, que llega persiguiéndola, la para. Con el único que afloja es con Senri.
+- **Después llega un Ammit**, persiguiéndolos a todos. Le quita a Nadia el corazón de Ravdna y se queda con la nave grande.
+- **Huyen en la nave de emergencia**, pequeña, que también se mueve con pneuma y necesita mucho: el del corazón de Senri. Le cuesta: cuanto más tira de él, más pneuma y menos kairos.
+- **El Ammit no los sigue enseguida.** Primero recoge a los suyos y a los guardianes, y se prepara para ir a merendarse la galaxia.
 
-### 27 · La vuelta
+El final es una huida.
 
-:::caution[Por confirmar]
-Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
-:::
+## Cómo quedan los corazones
 
-El núcleo de Ravdna está casi vacío: lo gastó en lanzar el viaje de ida, y por eso no les sirve para volver.
+| Corazón | Dónde acaba |
+|---|---|
+| El de Senri | Dentro de él, más gastado |
+| El de Laddoo | Fusionado con él. Se le puede sacar sin matarlo, pero hace falta alguien que sepa |
+| El de Ravdna | Con los Ammit |
+| El del huevo | Dentro del huevo, que va con ellos. Nace en el libro 2 |
+| El xingtian | Guardado en Taishan |
 
-Lo que sí está decidido:
-
-- **Usan el poder del núcleo de Senri para mover la nave**, y le cuesta: cuanto más tira de él, más pneuma y menos kairos.
-- **Un Ammit sube con ellos** y le quita a Nadia el núcleo de Ravdna. Ella se queda destrozada, y se queda con el grupo.
+**La cuenta no sale, y no se resuelve aquí.** Nadia necesita tres para las arcas, y Ravdna le había dicho que podía darle dos: tendría que elegir entre irse con dos arcas y dejar a más gente atrás o seguir en guerra por el de los xingtian. Lev necesita tres para Mrak, no quiere arriesgar a Senri ni una guerra con los xingtian, y ve que no hay corazones para los dos planes.
 
 ## El reparto final
 
-| Quién | Con qué se queda |
+| Quién | Cómo acaba |
 |---|---|
-| **Nadia** | Con nada: el núcleo de Ravdna se lo quita el Ammit. Se queda con el grupo |
-| **Leela** | Con Senri, porque cree que él, o lo que salga del huevo, puede sacarle el núcleo a Laddoo |
-| **Lev** | Sin sus tres núcleos. Tiene cerca el de Laddoo y le falta el que tenía Nadia. Al huevo no lo va a matar |
-| **Senri** | Con el núcleo dentro, más gastado y él menos kairos |
+| **Nadia** | Sin nada. Se queda con el grupo |
+| **Leela** | Con Senri, porque cree que él, o lo que salga del huevo, puede sacarle el corazón a Laddoo |
+| **Lev** | Sin sus corazones, y sin salida para Mrak por ahora |
+| **Senri** | Con el corazón dentro, más gastado y él menos kairos |
+| **Mushi** | Sin cuerpo propio todavía |
 
-Se cierran los arcos de los personajes. **La amenaza queda abierta:** los Ammit pueden llegar a Tampu. Ver [[codas]].
+Se cierran los arcos de los personajes. **La amenaza queda abierta.** Ver [[codas]].
 
 :::note[Lo que ya no vale de la versión anterior]
-- El portal: no hay. Se va y se vuelve en la nave de Ravdna.
+- El portal: no hay ninguno.
 - Ravdna dejándose comer por Senri, y lo que heredaba él de ella: moldear, fijar y abrir portales, y darle un cuerpo a Mushi.
-- Nadia huyendo con dos núcleos pagados por adelantado.
+- Nadia huyendo con dos corazones pagados por adelantado.
+- Volver en la nave de Ravdna: se la queda el Ammit.
 :::

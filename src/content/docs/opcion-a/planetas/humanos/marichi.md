@@ -58,7 +58,7 @@ De día el calor levanta **espejismos** por todas partes: lagos que no existen y
 Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
 :::
 
-- **Los *mayavi*** (*ilusionistas*, en hindi). La especie de Laddoo, de la que los chhaya heredaron las ilusiones. Pequeños, viven en colonias en la estepa y comen tierra y arena. Cuando baja una rapaz, la colonia entera proyecta copias de sí misma, y el cielo ataca a un enjambre de fantasmas. Se cierran y se aíslan: hechos una bola, no los nota ni quien percibe el pneuma. De su piel se hace la armadura de [[nadia|Nadia]].
+- **Los *mayavi*** (*ilusionistas*, en hindi). La especie de Laddoo, de la que los chhaya heredaron las ilusiones. Pequeños, viven en colonias en la estepa y comen tierra y arena. Cuando baja una rapaz, la colonia entera proyecta copias de sí misma, y el cielo ataca a un enjambre de fantasmas. Se cierran y se aíslan: hechos una bola, no los nota ni quien percibe el pneuma. Sus ilusiones son mucho más fuertes que las de los chhaya y engañan también a quien ve el pneuma. De su piel se hace la armadura de [[nadia|Nadia]].
 - **Los *garudas***, las rapaces gigantes que los cazan desde muy alto. Ven el ultravioleta, como los chhaya, y el injerto les debe la vista. Llevan millones de años en una carrera contra los mayavi: unos aprendiendo a engañar y los otros a ver a través del engaño.
 - Manadas de herbívoros de patas largas que viajan de noche, cuando hiela pero no hay rapaces.
 
@@ -86,7 +86,7 @@ Casas con habitaciones aisladas para dormir, porque proyectan sin control mientr
 
 ## En la guerra
 
-El partido de la familia de [[leela|Leela]] perdió las elecciones y se alió con los iskra para dar un golpe contra el gobierno legítimo, a cambio del arca y el núcleo. Lo llevó [[nadia|Nadia]]. Kamala, el aya de Leela y espía del gobierno legítimo, puso el núcleo a salvo, y hoy lo lleva dentro Laddoo. De ahí la guerra civil.
+El partido de la familia de [[leela|Leela]] perdió las elecciones y se alió con los iskra para dar un golpe contra el gobierno legítimo, a cambio del arca y el corazón. Lo llevó [[nadia|Nadia]]. Kamala, el aya de Leela y espía del gobierno legítimo, puso el corazón a salvo, y hoy lo lleva dentro Laddoo. De ahí la guerra civil.
 
 ## Fuera de Marichi
 

@@ -83,8 +83,8 @@ Los lugares que salen en la historia están en [[hestia]].
 
 ## En la guerra
 
-La delegación iskra pasó semanas en Atalanta, y el ataque a Hestia fue a la vez el golpe de Estado de Viktor (ver [[guerra]]). El núcleo que robaron era una copia.
+La delegación iskra pasó semanas en Atalanta, y el ataque a Hestia fue a la vez el golpe de Estado de Viktor (ver [[guerra]]). El corazón que robaron era una copia.
 
-Hoy los kairos están casi conquistados, y los iskra buscan **un núcleo que lleva Senri dentro**: Grace lo gastó en su trasplante.
+Hoy los kairos están casi conquistados, y los iskra buscan **un corazón que lleva Senri dentro**: Grace lo gastó en su trasplante.
 
 Los kirks usan a los [[kamakiri]] como armas, también en Atalanta.

@@ -24,7 +24,6 @@ pendientes:
 **Elegir y unificar**
 
 - *Bozal* o *respirador*.
-- **«Núcleo»** del mensajero: lo mismo que en el [[cap-2|cap. 2]], necesita otro nombre o una explicación.
 
 **Ya encaja**
 

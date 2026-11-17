@@ -1,6 +1,6 @@
 ---
 title: "Ravdna, «la Viuda»"
-description: "La última noaidi de esta galaxia. Lleva siglos mandando gente a morir a Aaru para rescatar a un hermano que sigue sin nacer, y promete núcleos que no puede crear."
+description: "La última noaidi de esta galaxia. Lleva siglos mandando gente a morir a Aaru para rescatar a un hermano que sigue sin nacer, y promete corazones que no puede crear."
 sidebar:
   order: 4
 personaje:
@@ -14,9 +14,9 @@ personaje:
   datos:
     - ["Altura", "≈ 2,10 m: pequeña para su especie"]
     - ["En Tampu", "Desde medio siglo después de fundarse la estación"]
-    - ["Ciclo", "Cada 50 años: lo que tarda en recargarse su núcleo"]
-    - ["Núcleo", "Lo lleva dentro: es su corazón. No puede crear ninguno"]
-    - ["Su nave", "La mueve su núcleo; lanzar el viaje la deja agotada"]
+    - ["Ciclo", "Cada 50 años: lo que tarda en recargarse su corazón"]
+    - ["Corazón", "Lo lleva dentro: es su corazón. No puede crear ninguno"]
+    - ["Su nave", "La mueve su corazón; lanzar el viaje la deja agotada"]
     - ["Privilegio", "La única Carta Blanca de Tampu"]
     - ["Vive", "En el disco inferior"]
     - ["Su símbolo", "Un círculo de pneuma, simple como una sortija, en el costado de sus naves"]
@@ -46,19 +46,19 @@ personaje:
     - nombre: "Niillas"
       relacion: "Quien la rescató"
       estado: "muerto"
-      nota: "El noaidi que la sacó de la granja. Le dejó una esquirla de memoria con su forma y lo que sabía de los Ammit, y murió diciéndole que eran dos."
+      nota: "El cuidador de los huevos, o uno de los padres. Traicionó el plan suicida de los suyos para salvarlos, y solo pudo sacarla a ella. Le dejó una esquirla de memoria con su forma y lo que sabía de los Ammit, y murió diciéndole que eran dos."
     - nombre: "Áile (propuesta)"
       relacion: "Hermano"
       estado: "sin nacer"
-      nota: "Se creaban a la vez. Sigue dentro del huevo, en el contenedor de [[aaru]]. Cuanto más tarda, más cerca está de abrirse."
+      nota: "Se creaban a la vez. Sigue dentro del huevo, en el contenedor de [[aaru]]. Cuanto más tarda, más cerca está de abrirse. Se va con el grupo y nace en el libro 2."
   relaciones:
     - con: "[[senri|Senri]]"
       lellama: "criatura"
-      es: "Le pide que le saque el núcleo sin convertirlo en lo que era Fintan. Ella dice que sí y miente: ese núcleo ya se lo ha prometido a Nadia. Lo necesita vivo para llegar al huevo."
+      es: "Le pide que le saque el corazón sin convertirlo en lo que era Fintan. Ella dice que sí y miente: ese corazón ya se lo ha prometido a Nadia. Lo necesita vivo para llegar al huevo."
     - con: "[[nadia|Nadia]]"
-      es: "Pactan a solas en el cap. 6, sobre una mentira: le promete dos núcleos, los de Laddoo y Senri, sin decirle dónde están, a cambio de que le consiga el huevo y le quite de en medio a Lev y a Leela. Al final, Nadia la mata y le quita el suyo."
+      es: "Pactan a solas en el cap. 6, sobre una mentira: le promete dos corazones, los de Laddoo y Senri, sin decirle dónde están, a cambio de que le consiga el huevo y le quite de en medio a Lev y a Leela. Al final, Nadia la mata y le quita el suyo."
     - con: "[[lev|Lev]]"
-      es: "Le promete los mismos núcleos que a Nadia. No le dice qué hay en el contenedor, para que no use al noaidi como esclavo."
+      es: "Le promete los mismos corazones que a Nadia. No le dice qué hay en el contenedor, para que no use al noaidi como esclavo."
     - con: "[[leela|Leela]]"
       es: "Acepta su petición, «recuperar a mi familia». Sabe lo que lleva Laddoo dentro si lo tiene lo bastante cerca."
     - con: "Viktor"
@@ -73,21 +73,21 @@ personaje:
     - cuando: "El rescate"
       que: "Niillas la saca a ella sola y muere."
     - cuando: "Llegada a Tampu"
-      que: "Medio siglo después de fundarse la estación, en una nave de pneuma movida por su núcleo. Pide soldados y paga en pneuma puro; vuelve sin ellos y se instala en el disco inferior. Masacre; Carta Blanca."
+      que: "Medio siglo después de fundarse la estación, en una nave de pneuma movida por su corazón. Pide soldados y paga en pneuma puro; vuelve sin ellos y se instala en el disco inferior. Masacre; Carta Blanca."
     - cuando: "Cada 50 años"
-      que: "Cuando su núcleo se recarga, repite el viaje y vuelve sola, de ahí el nombre de Viuda. Entiende que los soldados de pneuma alimentan a los Ammit y empieza a mandar gente para dejarlos con hambre hasta que se duermen."
+      que: "Cuando su corazón se recarga, repite el viaje y vuelve sola, de ahí el nombre de Viuda. Entiende que los soldados de pneuma alimentan a los Ammit y empieza a mandar gente para dejarlos con hambre hasta que se duermen."
     - cuando: "Últimos ciclos"
       que: "Ya no pide soldados a los qhatu: reparte bandas entre los más fuertes y los pone a competir. Nadie vuelve: la Última Carrera."
     - cuando: "Cap. 6"
       que: "Pacta con Nadia a solas."
     - cuando: "El final"
-      que: "Nadia descubre lo que son los núcleos, la mata y le quita el suyo. Muere sin ver nacer a su hermano."
+      que: "Nadia descubre lo que son los corazones, la mata y le quita el suyo. Muere sin ver nacer a su hermano."
   sabe:
-    - "Que es la última de su especie en esta galaxia"
-    - "Que los núcleos son corazones de noaidi, y que no puede crear ninguno"
-    - "Dónde están los núcleos de Laddoo y Senri"
+    - "Que es la última de su especie en esta galaxia, con su hermano: quizá los últimos noaidi libres"
+    - "Que el corazón de un arca es, literalmente, el de un noaidi, y que no puede crear ninguno"
+    - "Dónde están los corazones de Laddoo y Senri"
     - "Desde el cap. 6, que un devorador murió por Senri"
-    - "Que ha prometido los mismos núcleos dos veces"
+    - "Que ha prometido los mismos corazones dos veces"
     - "Qué hay en el contenedor"
   ignora:
     - "Que los guardianes llevan siglos llenando la piscina"
@@ -95,8 +95,7 @@ personaje:
 pendientes:
   - "Confirmar capacidades y límites: están escritos como propuesta."
   - "Nombre definitivo del hermano bebé (propuesta: Áile)."
-  - "Si sigue pudiendo abrir portales pequeños, ahora que a Aaru no se llega por portal."
-  - "Qué pasa con el huevo al final, quién lo abre y si nace en el libro 1."
+  - "Quién abre el huevo en el libro 2."
   - "Idea: cuando se da cuenta de que Senri absorbe pneuma, intenta matarlo ella misma. Podría notarlo por el parche que Lev lleva en el cuerpo desde el cap. 3."
 ---
 ## Su historia en Tampu
@@ -105,7 +104,7 @@ pendientes:
 
 **Encargos pequeños.** También acepta trabajos que no la obligan a cruzar la barrera —recados, vigilancias, información—, y de esos sí se vuelve: paga con pneuma humilde (una herida cerrada, un diente, una pieza que no se rompe), y esa gente sigue viva en la estación enseñándolo, **así que nadie duda de que cumple**.
 
-**Cómo paga la Carrera:** por adelantado, en soles de verdad, y sobre todo con lo que solo ella puede dar o promete dar: curar lo incurable con pneuma solidificado (un miembro, unos ojos, unos pulmones), armas y armaduras que no se rompen, portales a donde nadie llega, encontrar a alguien por su firma y, lo que nadie pide en voz alta, **más años de vida**.
+**Cómo paga la Carrera:** por adelantado, en soles de verdad, y sobre todo con lo que solo ella puede dar o promete dar: curar lo incurable con pneuma solidificado (un miembro, unos ojos, unos pulmones), armas y armaduras que no se rompen, encontrar a alguien por su firma y, lo que nadie pide en voz alta, **más años de vida**.
 
 > Por eso se presentan sabiendo que nadie vuelve: cada uno necesita algo que no se compra con dinero.
 
@@ -113,14 +112,14 @@ pendientes:
 
 ## Capacidades y límites
 
-**Puede:** moldear y solidificar su pneuma; sentir a través de lo suyo —dónde están los que llevan sus pulseras y qué sienten, sin imágenes—; lanzar el rayo; abrir portales; y fijar pneuma para siempre (contenedores, el cuerpo de [[mushi|Mushi]]) a un coste que no recupera.
+**Puede:** moldear y solidificar su pneuma; sentir a través de lo suyo —dónde están los que llevan sus pulseras y qué sienten, sin imágenes—; lanzar el rayo; y fijar pneuma para siempre (contenedores, el cuerpo de [[mushi|Mushi]]) a un coste que no recupera.
 
-**No puede:** gastar sin límite, porque todo sale de su núcleo y se recarga despacio, y por eso sus pruebas son baratas; crear núcleos, aunque los promete; abrir portales a ciegas —necesita un recuerdo del lugar, suyo o de alguien a quien toca, duran segundos y pasan pocos— ni a [[aaru|Aaru]], que está rodeada de campos que los impiden; entrar en la base, porque los campos los bloquean hacia dentro; crear vida, curar o fabricar tecnología; ni luchar contra los Ammit, **porque su pneuma los alimenta**.
+**No puede:** gastar sin límite, porque todo sale de su corazón y se recarga despacio, y por eso sus pruebas son baratas; crear corazones, aunque los promete; abrir portales; entrar en la base, porque los campos los bloquean hacia dentro; crear vida, curar o fabricar tecnología; ni luchar contra los Ammit, **porque su pneuma los alimenta**.
 
 **Sus creaciones:** la arena, la cúpula, los sabuesos que rompen pulseras, los mensajeros, los guardianes y los soldados.
 
 ## Su muerte
 
-La mata [[nadia|Nadia]] al final, cuando descubre lo que son los núcleos, y le quita el suyo. Muere sin ver nacer a su hermano.
+La mata [[nadia|Nadia]] en uno de los últimos capítulos, cuando vuelve a la nave antes que los demás y ya sabe lo que son los corazones, y le quita el suyo. Muere sin ver nacer a su hermano.
 
 > Nació en una jaula, heredó hasta la forma de su cuerpo, y la mata alguien a quien había comprado con una mentira.

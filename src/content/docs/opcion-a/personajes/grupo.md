@@ -20,17 +20,18 @@ Desde la explosión de Mrak, [[lev|Lev]] es radiactivo en dosis bajas ([[trastor
 |---|---|
 | Senri | Sí: es inmune |
 | Nadia | Sí: misma condición, y armadura |
-| Leela y Mushi | Cerca sí; tocarlo, no |
+| Leela | Cerca sí; tocarlo, no |
+| Mushi | Sí: su metal lo protege |
 
 ## Qué nota cada uno
 
 | Quién | Qué percibe |
 |---|---|
-| Senri | Lee voces, olores y patrones. En Nadia ve **un vacío** |
+| Senri | Lee voces, olores y patrones. En Nadia ve una xingtian con **poco pneuma**: la ilusión le engaña |
 | Laddoo | Nota algo en Nadia que no le gusta: su armadura está hecha de los suyos |
-| Lev | Percibe en Senri el corazón rápido, el calor y el olor. De Nadia, nada: no huele ni suena, **y eso es lo que lo inquieta** |
+| Lev | Percibe en Senri el corazón rápido, el calor, el olor y **más pneuma de lo normal**. De Nadia, poco pneuma y olor a xingtian |
 | Leela | Ve las costuras de los injertos de Senri y reconoce cuándo miente cualquiera |
-| Nadia | Es la única que ve lo listo que es Senri |
+| Nadia | Es la única que ve lo listo que es Senri. El pneuma no lo percibe a través de la armadura |
 | Mushi | Nota al tacto los parches de Senri |
 
 ## Choques que salen solos

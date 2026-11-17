@@ -85,7 +85,7 @@ Las armaduras del Régimen llevan un módulo de rastreo. **Lev se lo quitó.** S
 
 ## La de Nadia
 
-Otra cosa, que **no sigue estas reglas**: está hecha con la especie de Laddoo, los *mayavi* de [[marichi|Marichi]]. Aísla del todo, es durísima y crea ilusiones: su aspecto de xingtian. La fabricaba para los iskra la familia de [[leela|Leela]], y es prueba de la alianza. [[ravdna|Ravdna]] ve a través de ella. Ver [[nadia]].
+Otra cosa: la energía sale igual del zarevo de quien la lleva, pero la tecnología es muy superior. Está hecha con la especie de Laddoo, los *mayavi* de [[marichi|Marichi]]. Es durísima, esconde el pneuma de quien la lleva sin fingir uno falso, y engaña a los ojos y al tacto: su aspecto de xingtian. La fabricaba para los iskra la familia de [[leela|Leela]], y es prueba de la alianza. [[ravdna|Ravdna]] ve a través de ella. Ver [[nadia]].
 
 ## Lo que significa
 

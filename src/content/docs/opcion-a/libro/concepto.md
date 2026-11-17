@@ -12,7 +12,7 @@ ficha:
   - ["Tono", "Comedia con cosas serias"]
   - ["Romance", "Rivals to lovers: [[senri|Senri]] y [[lev|Lev]]"]
   - ["Final", "Feliz por ahora: juntos"]
-  - ["Formato", "Debut autoconclusivo, con puerta a un libro 2"]
+  - ["Formato", "Dos libros"]
   - ["Antes de publicar", "Esquema del libro 2"]
   - ["Idioma", "Español"]
   - ["# Cómo se cuenta", ""]
@@ -32,7 +32,7 @@ BL, *rivals to lovers* entre [[senri|Senri]] (kairos) y [[lev|Lev]] (iskra), con
 
 ## Formato
 
-Debut autoconclusivo con cierre parcial. Se cierran los arcos de los personajes; la amenaza de los [[ammit|Ammit]] queda abierta. El grupo sigue unido y eso abre una segunda parte, cuyo esquema tiene que estar hecho antes de publicar.
+**Dos libros.** El primero cierra la misión, los arcos de los personajes y la pareja junta; la amenaza de los [[ammit|Ammit]] queda abierta para el segundo. El esquema del libro 2 tiene que estar hecho antes de publicar.
 
 ## POV
 

@@ -31,7 +31,7 @@ pendientes:
 Todo ocurre en una misma galaxia y una misma región: la del mapa de colonias [[nefilim]].
 
 - Las cuatro [[colonias|colonias]] están a unas decenas de años luz entre sí, alcanzables con naves niwashi en días o semanas. **Tampu está en medio.**
-- Sumerki, el planeta verificado para los [[iskra]], está en un sistema de la misma galaxia pero a cientos de años luz: solo un arca llega, y gastando el núcleo entero en la ida.
+- Sumerki, el planeta verificado para los [[iskra]], está en un sistema de la misma galaxia pero a cientos de años luz: solo un arca llega, y gastando el corazón entero en la ida.
 - [[aaru|Aaru]], la granja de los [[ammit|Ammit]], está muy lejos, en los bordes. No hay portal: solo se llega en la nave de [[ravdna|Ravdna]].
 
 Apodos alternativos de la estación: el Sumidero, Dobu.

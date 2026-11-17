@@ -1,6 +1,6 @@
 ---
 title: "Sumerki"
-description: "El planeta verificado para los iskra. Está tan lejos que el núcleo de un arca se gasta entero en la ida."
+description: "El planeta verificado para los iskra. Está tan lejos que el corazón de un arca se gasta entero en la ida."
 sidebar:
   order: 7
 ficha:
@@ -19,7 +19,7 @@ ficha:
   - ["Para", "[[iskra|Iskra]]"]
   - ["Dónde", "La misma galaxia, a cientos de años luz"]
   - ["En los registros", "Un código de catálogo"]
-  - ["Viaje", "Solo de ida: se gasta el núcleo entero"]
+  - ["Viaje", "Solo de ida: se gasta el corazón entero"]
   - ["Nombre", "Ruso: crepúsculo"]
 pendientes:
   - "Confirmar lo que se sabe de Sumerki por las sondas."
@@ -43,6 +43,6 @@ Lo que se sabe sale de las sondas. Orbita una estrella fría y tranquila, **sin 
 
 ## El problema
 
-Ninguna nave corriente llega, y **el núcleo de un arca se gasta entero en el viaje de ida**, así que no hay vuelta. A los iskra les hacen falta **tres arcas, cada una con su núcleo**. Tienen dos arcas, la suya y la de Indraprastha, y ningún núcleo: el suyo estalló. Ver [[guerra]].
+Ninguna nave corriente llega, y **el corazón de un arca se gasta entero en el viaje de ida**, así que no hay vuelta. A los iskra les hacen falta **tres arcas, cada una con su corazón**. Tienen dos arcas, la suya y la de Indraprastha, y ningún corazón: el suyo estalló. Ver [[guerra]].
 
 Algunos [[kirks]] subirán con los iskra a Sumerki.

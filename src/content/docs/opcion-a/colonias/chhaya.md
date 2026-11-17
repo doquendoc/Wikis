@@ -13,7 +13,7 @@ ficha:
   - ["Combustible", "Glucosa"]
   - ["Población", "≈ 10 – 15 millones (por confirmar)"]
   - ["Gobierno", "Democracia; hoy en guerra civil"]
-  - ["Núcleo", "Dentro de Laddoo"]
+  - ["Corazón", "Dentro de Laddoo"]
   - ["No aguantan", ["Oscuridad", "Espacios cerrados", "Agua"]]
   - ["Fuera de casa llevan", ["Dulces o geles de glucosa", "Luz propia"]]
 ---
@@ -35,7 +35,7 @@ Alterar la percepción de quien mira, con ilusiones y señuelos de sí mismos (*
 Es su forma de luchar. Sin ellas, un chhaya es más débil cuerpo a cuerpo que cualquier otro linaje.
 
 ### Les cuesta
-Las ilusiones queman glucosa, de ahí los dulces. No engañan a cámaras, sensores ni a quien ve el pneuma —los [[iskra]] sí caen, porque ellos no lo ven—. La oscuridad y los espacios cerrados los inquietan.
+Las ilusiones queman glucosa, de ahí los dulces. No engañan a cámaras, sensores ni a quien ve el pneuma (las de los mayavi, de los que las heredaron, sí) —los [[iskra]] sí caen, porque ellos no lo ven—. La oscuridad y los espacios cerrados los inquietan.
 
 ## Aspecto
 
@@ -71,7 +71,7 @@ Un susto o un estornudo les arranca un señuelo fugaz.
 
 Democracia, con partidos y elecciones; las familias poderosas heredan influencia y dinero, no cargos. **Usar una ilusión sin consentimiento es delito.** Exportan espectáculo, medios, arte, diplomacia y espionaje.
 
-**Su núcleo** era un lujo de la élite. Hoy lo lleva dentro Laddoo, la mascota de [[leela|Leela]]. Ver [[guerra]].
+**Su corazón** era un lujo de la élite. Hoy lo lleva dentro Laddoo, la mascota de [[leela|Leela]]. Ver [[guerra]].
 
 ## Cortesía
 

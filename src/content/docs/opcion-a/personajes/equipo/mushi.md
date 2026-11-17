@@ -73,7 +73,7 @@ personaje:
     - cuando: "Cap. 6"
       que: "Mata al otro kairos que ataca en la sala de Ravdna."
     - cuando: "Final"
-      que: "Quiere un cuerpo propio. Quién se lo da está por decidir."
+      que: "Todavía sin cuerpo propio. Se le va a dar uno: quién, está por decidir."
   sabe:
     - "Que Senri tiene parches: los nota al tacto"
     - "El pacto secreto de Nadia con Ravdna"
@@ -81,13 +81,12 @@ personaje:
 pendientes:
   - "Qué es el tesoro que escupe y tiene escondido, y que «los terrícolas quieren»."
   - "Cómo llama Mushi a Senri."
-  - "Quién le da el cuerpo, ahora que Senri no absorbe a Ravdna."
-  - "Si su cuerpo de metal lo protege de la radiación de Lev (propuesta)."
+  - "Quién le da el cuerpo: Senri creándolo o Nadia con una armadura especial."
 ---
 ## Arco
 
-Quiere un cuerpo propio para no tener que agarrarse a nadie. Antes se lo daba Senri al final, con lo que heredaba de [[ravdna|Ravdna]] al absorberla; con el final nuevo, está por decidir.
+Quiere un cuerpo propio para no tener que agarrarse a nadie. No es un candidato, es el pana de Senri, y no le hace falta tenerlo en el libro 1, pero se le va a dar uno: o lo crea Senri, o Nadia le hace una armadura especial.
 
-**Con Lev:** puede estar cerca, pero no lo toca, por la radiación ([[trastornos]]).
+**Con Lev:** su metal lo protege de la radiación ([[trastornos]]).
 
 **El peligro que lleva encima:** puede soltar lo de los parches de Senri con su traductor, o delatarlo con una escultura.

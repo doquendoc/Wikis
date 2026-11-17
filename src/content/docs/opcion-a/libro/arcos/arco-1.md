@@ -10,12 +10,11 @@ ficha:
   - ["Cuenta atrás", "3 días → horas"]
 pendientes:
   - "Nombre de la competición: Carrera, Prueba u otro. El título del libro, *La Última Carrera*, depende de esto."
-  - "Quedaban restos de una versión antigua en la que Senri se comía un núcleo de Ravdna: la fuerza para sujetar a Lev en el pozo (cap. 5), y en el cap. 6, que Ravdna notara un núcleo apagado y que Senri sintiera familiaridad con ella por sus recuerdos. Los he quitado; si algo de eso vuelve, hay que decidir de dónde sale."
+  - "Quedaban restos de una versión antigua en la que Senri se comía un corazón de Ravdna: la fuerza para sujetar a Lev en el pozo (cap. 5), y en el cap. 6, que Ravdna notara un corazón apagado y que Senri sintiera familiaridad con ella por sus recuerdos. Los he quitado; si algo de eso vuelve, hay que decidir de dónde sale."
   - "Idea: cuando Ravdna se da cuenta de que Senri absorbe pneuma, intenta matarlo ella misma. Podría notarlo por el parche que Lev lleva en el cuerpo desde el cap. 3."
   - "Qué viene después de la arena: Diana tiene otra idea para el capítulo siguiente. El laberinto ya pasó (son los contenedores del cap. 3), así que el capítulo 4 antiguo desaparece. De él quedaban: que Senri paga su deuda guiando a Lev a ciegas con la funda de la katana de Ken; el tramo de luz cegadora y calor; que Nadia debería sufrir con el calor y no lo hace; y la prueba de las condiciones de la base (oscuridad, luz, frío y calor). Decidir qué se recoloca."
   - "La cúpula y el pozo (cap. 5) y Ravdna (cap. 6) están escritos para venir después del laberinto: revisar cuando se decida lo que sigue a la arena."
-  - "Si el secuestro va en capítulo propio (el libro pasaría a 31)."
-  - "Si Nadia nota antes o después lo que hace Senri con el pneuma: lo quiere vivo porque sabe quién es y le vale para los núcleos."
+  - "Si Nadia nota antes o después lo que hace Senri con el pneuma: lo quiere vivo porque sabe quién es y le vale para los corazones."
 ---
 ## La idea de fondo
 
@@ -43,8 +42,6 @@ Cada prueba replica un punto de la base donde murió un grupo anterior. **Ravdna
 
 **2 · [[cap-2|La Máquina]]** · POV de Lev. Ficha aparte.
 
-**[[secuestro|El secuestro]]** · POV de Senri. Al final del 2 o en capítulo propio.
-
 **3 · [[cap-3|El Fondo]]** · POV de Senri. Ficha aparte.
 
 **4 · [[cap-4|La arena]]** · POV de Lev. Ficha aparte.
@@ -53,7 +50,7 @@ Cada prueba replica un punto de la base donde murió un grupo anterior. **Ravdna
 
 Nadia llega la última. Los rezagados atacan; la sangre de los muertos cambia los patrones del suelo; falta sangre, Lev vacía su trago sobre ella y extienden alcohol hasta cubrirlo; aparece un puzzle que resuelven Senri y Nadia. [[leela|Leela]] cruza primero.
 
-En el pozo los ataca alguien que va a por Lev —tiene precio y lo busca mucha gente, no solo iskra—. Lev resbala y Senri lo sujeta. **Caen de la mano**, y es puro reflejo: la deuda ya estaba pagada.
+En el pozo los ataca alguien que va a por Lev —tiene precio y lo busca mucha gente, no solo iskra—. Lev resbala y Senri lo sujeta. **Caen de la mano**, y es puro reflejo.
 
 Abajo, Lev guarda el arma. Senri descubre un parche nuevo.
 
@@ -66,14 +63,14 @@ Senri llega quinto: dentro están Leela, Lev, Nadia y otro kairos, y [[ravdna|Ra
 | Quién | Qué pide | Cómo |
 |---|---|---|
 | Leela | «Recuperar a mi familia» | En público |
-| Nadia | Núcleos para las arcas de Viktor. Es un pacto | A solas; lo oye Mushi |
-| Lev | Tres núcleos, para quedarse en Mrak | En privado |
-| Senri | Que le saque el núcleo que lleva dentro sin convertirlo en lo que era Fintan | En privado |
+| Nadia | Corazones para las arcas de Viktor. Es un pacto | A solas; lo oye Mushi |
+| Lev | Tres corazones, para quedarse en Mrak | En privado |
+| Senri | Que le saque el corazón que lleva dentro sin convertirlo en lo que era Fintan | En privado |
 
 **Lo de Senri**, que es el riesgo más grande que corre en el libro: le cuenta lo que lleva dentro. Ravdna lo necesita vivo para llegar al huevo, así que dice que sí y miente.
 
-**El pacto de Nadia** está hecho sobre una mentira. Ravdna le promete dos núcleos —los de Laddoo y Senri, sin decirle dónde están— a cambio de que le consiga el huevo y le quite de en medio a Lev y a Leela. Lo más sencillo para sacar esos núcleos es matar a Senri y a Laddoo, pero no enseguida: para llegar al huevo hacen falta Lev, Senri, y Leela con Laddoo, que es un arma.
+**El pacto de Nadia** está hecho sobre una mentira. Ravdna le promete dos corazones —los de Laddoo y Senri, sin decirle dónde están— a cambio de que le consiga el huevo y le quite de en medio a Lev y a Leela. Lo más sencillo para sacar esos corazones es matar a Senri y a Laddoo, pero no enseguida: para llegar al huevo hacen falta Lev, Senri, y Leela con Laddoo, que es un arma.
 
-Ravdna no puede crear núcleos: los que promete son los de otros. Ya sabe que un devorador murió por Senri, y se pregunta si lo que Fintan estaba haciendo era empezar otra vez. **Ha prometido los mismos núcleos dos veces, y ellos no lo saben.**
+Ravdna no puede crear corazones: los que promete son los de otros. Ya sabe que un devorador murió por Senri, y se pregunta si lo que Fintan estaba haciendo era empezar otra vez. **Ha prometido los mismos corazones dos veces, y ellos no lo saben.**
 
 Suben a su nave.

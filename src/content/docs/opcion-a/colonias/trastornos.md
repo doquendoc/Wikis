@@ -6,7 +6,6 @@ sidebar:
 pendientes:
   - "Nombres científicos para el gen de Senri y Hana, y para el de Viktor y Lev (los propuestos no valían)."
   - "Cuánto sabían los iskra sobre la condición de Senri y Hana antes del golpe."
-  - "Si el metal del cuerpo de Mushi lo protege de la radiación de Lev (propuesta)."
   - "Nombre del órgano."
 ficha:
   - ["# Disautonomía pneumática", ""]
@@ -21,7 +20,7 @@ ficha:
   - ["El precio", "Hipersensibilidad a la luz y la radiación"]
   - ["La tienen", ["[[lev|Lev]]", "Viktor", "[[nadia|Nadia]]", "Otros iskra, a los que no mata"]]
   - ["# Radiación", ""]
-  - ["Desde", "La explosión del núcleo de Mrak"]
+  - ["Desde", "La explosión del corazón de Mrak"]
   - ["La llevan", ["[[lev|Lev]]", "Viktor", "[[nadia|Nadia]]"]]
   - ["Dosis", "Baja: como hacerse una placa"]
   - ["La bloquea", "La armadura"]
@@ -46,15 +45,16 @@ La tienen **Viktor**, **[[nadia|Nadia]]** y **[[lev|Lev]]**, y es la razón de q
 
 ## La radiación
 
-Cuando estalló el núcleo de Mrak, hace siete u ocho años, el pneuma se volvió radiactivo y murió casi todo el que estaba en la instalación. **Sobrevivieron los que tenían hiperpneumia de nacimiento**, porque la explosión se la multiplicó: Viktor, Nadia, Lev y Pavel, un científico que se mató después, cuando su radiación mató a su familia. Ver [[mrak]].
+Cuando estalló el corazón de Mrak, hace siete u ocho años, el pneuma se volvió radiactivo y murió casi todo el que estaba en la instalación. **Sobrevivieron los que tenían hiperpneumia de nacimiento**, porque la explosión se la multiplicó: Viktor, Nadia, Lev y Pavel, un científico que se mató después, cuando su radiación mató a su familia. Ver [[mrak]].
 
 Desde entonces los tres que quedan son **radiactivos en dosis bajas**, como hacerse una placa.
 
 | Quién | Qué puede hacer cerca de ellos |
 |---|---|
 | Ellos tres | Tocarse: tienen la misma condición, y Nadia además lleva armadura |
-| [[leela\|Leela]] y [[mushi\|Mushi]] | Estar cerca, pero no tocar a Lev |
-| [[senri\|Senri]] | Todo: es inmune por el órgano y el núcleo |
+| [[leela\|Leela]] | Estar cerca, pero no tocar a Lev |
+| [[mushi\|Mushi]] | Todo: su metal lo protege |
+| [[senri\|Senri]] | Todo: es inmune por el órgano y el corazón |
 | [[ravdna\|Ravdna]] y Laddoo | Todo: también son inmunes |
 
 **La armadura lo bloquea**, y es otra razón para que Lev no se la quite. Puede pasar un rato sin casco; tocarlo no es buena idea.
@@ -67,8 +67,8 @@ Ahí está el hilo que conecta a Senri con Lev por debajo de todo lo demás: lo 
 
 ## Lo que hizo Grace
 
-Grace investigaba el gen kairos con el núcleo del arca de Hestia, con permiso. Lo gastó entero en el trasplante de Senri —el [[ammit|órgano]] que le permite consumir pneuma puro y, con eso, no quemarse— y **dejó una copia en la cámara**.
+Grace investigaba el gen kairos con el corazón del arca de Hestia, con permiso. Lo gastó entero en el trasplante de Senri —el [[ammit|órgano]] que le permite consumir pneuma puro y, con eso, no quemarse— y **dejó una copia en la cámara**.
 
-La noche del robo, Viktor notó al momento que era falso. La interrogaron con una droga chhaya; ella la reconoció y se mató con su pistola antes de contar nada ([[cap-2|cap. 2]]). Desde entonces los iskra buscan un núcleo que lleva Senri dentro. Ver [[hestia]] y [[senri]].
+La noche del robo, Viktor notó al momento que era falso. La interrogaron con una droga chhaya; ella la reconoció y se mató con su pistola antes de contar nada ([[cap-2|cap. 2]]). Desde entonces los iskra buscan un corazón que lleva Senri dentro. Ver [[hestia]] y [[senri]].
 
 Ver [[historia]] y [[pneuma]].

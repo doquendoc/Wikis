@@ -1,6 +1,6 @@
 ---
 title: "Hestia"
-description: "La capital de Atalanta y de los kairos. Donde estuvo la delegación iskra, donde murieron Grace, Hiroshi y Ken, y donde estaba el núcleo del arca, o su copia."
+description: "La capital de Atalanta y de los kairos. Donde estuvo la delegación iskra, donde murieron Grace, Hiroshi y Ken, y donde estaba el corazón del arca, o su copia."
 sidebar:
   order: 2
 ficha:
@@ -8,23 +8,26 @@ ficha:
   - ["Planeta", "[[atalanta|Atalanta]]"]
   - ["Subespecie", "[[kairos|Kairos]]"]
   - ["Dónde", "En las copas de la selva (por confirmar)"]
-  - ["Gobierno", "El Consejo; nombre propuesto: la Boulé (por confirmar)"]
+  - ["Gobierno", "El Consejo, elegido; nombre propuesto: la Boulé (por confirmar)"]
+  - ["En el Consejo", "Políticos, y un asiento científico: Elias Hart"]
+  - ["Sus protectores", "Los manda Hiroshi Hayami, «la Espada del Consejo»"]
   - ["# Lugares", ""]
   - ["Sede del gobierno", "El Pritaneo (por confirmar)"]
   - ["Centro científico", "El Asclepión (por confirmar)"]
-  - ["El núcleo del arca", "En una cámara bajo el centro científico"]
-  - ["El jardín", "Del centro científico, con casa de té (por confirmar)"]
+  - ["El corazón del arca", "En una cámara bajo el centro científico"]
+  - ["Director", "Elias Hart"]
+  - ["Jefa de investigación", "Grace Hayami"]
+  - ["La Cúpula de Cristal", "De Grace, en el centro; donde Ken esconde a Senri (por confirmar)"]
   - ["El templo de Hiroshi", "?"]
   - ["# La noche del ataque", ""]
   - ["Qué fue", "Un robo de noche, a escondidas"]
-  - ["El traidor", "Elias Hart: científico y del Consejo"]
-  - ["Lo que robaron", "Una copia del núcleo"]
+  - ["El traidor", "Elias Hart: director del centro y del Consejo"]
+  - ["Lo que robaron", "Una copia del corazón"]
   - ["Muertos", ["Grace: se mata", "Hiroshi: lo mata Viktor", "Ken: herido por Lev"]]
   - ["Senri", "Lo saca Lev, en una nave"]
 pendientes:
-  - "Confirmar las secciones marcadas: la ciudad, la Boulé, el Pritaneo, el Asclepión y su jardín, y el templo."
+  - "Confirmar las secciones marcadas: la ciudad, la Boulé, el Pritaneo, el Asclepión y la Cúpula como escondite."
   - "Nombre del templo al que iba a rezar Hiroshi."
-  - "Quién hiere a Senri esa noche, y dónde lo esconde Ken."
   - "Desde cuándo sospecha Hiroshi que Viktor va a por sus hijos."
   - "Qué edificio arde esa noche: el cap. 1 dice que la biblioteca de Grace ardió «como el resto del palacio»."
 ---
@@ -44,7 +47,9 @@ Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
 
 El consejo elegido que gobierna la colonia. *Boulé* era el consejo de la Atenas democrática, y la colonia se puso nombres griegos desde el principio: Atalanta, Hestia, kairos.
 
-Hiroshi Hayami, el padre de [[senri|Senri]], era **la Espada de la Boulé**, la cabeza de la casta militar que la protege.
+Casi todos sus miembros son políticos. Tiene un único asiento científico, el del director del centro científico: **Elias Hart**.
+
+Hiroshi Hayami, el padre de [[senri|Senri]], era **la Espada del Consejo**: el jefe de los protectores, la casta militar que escolta a los consejeros. No era comandante del ejército.
 
 ## El Pritaneo
 
@@ -68,17 +73,11 @@ El nombre es el de los templos de Asclepio, dios de la medicina, que en Grecia e
 
 Lo que sí está decidido de este sitio, se llame como se llame:
 
-- **Aquí está la cámara del núcleo**, bajo tierra. Grace investigaba con él el gen kairos, con permiso.
+- **Aquí está la cámara del corazón**, bajo tierra. Grace investigaba con él el gen kairos, con permiso.
+- **Lo dirige Elias Hart**, el consejero científico. Por eso tiene las credenciales de la cámara.
+- **Grace es la jefa de investigación**, no consejera. El permiso para usar el corazón se lo da el Consejo, a través de Hart.
 - **El laboratorio de Grace**, donde Senri pasa las tardes porque ve lo que ella estudia, y donde trabajaba con [[ammit|Fintan]].
 - **Aquí se aloja la delegación iskra** las semanas que pasa en Atalanta, y **es la guardia del centro**: lo que vienen a buscar es ciencia, los cristales de Grace. Senri hace guardia con Lev en la puerta del salón donde la delegación se reúne con Grace y los demás científicos ([[cap-4|cap. 4]]).
-
-### El jardín
-
-:::caution[Por confirmar]
-Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
-:::
-
-Un jardín japonés dentro del recinto del centro, con una casa de té al fondo. Aquí ve Senri a un iskra volarle los sesos a su padre ([[cap-1|cap. 1]]), y aquí lo esconde Ken. Es el jardín que Lev calla.
 
 ## Los cristales de Grace
 
@@ -90,7 +89,13 @@ Por el cristal, un iskra ve los rojos, los naranjas y los amarillos que no disti
 
 ## La Cúpula de Cristal
 
-La de Grace. Ahí ven Senri y Lev la final de las Panteras, y ahí se queda dormido Senri con el brazo de Lev de almohada ([[cap-4|cap. 4]]).
+La de Grace, en el centro científico. Ahí ven Senri y Lev la final de las Panteras, y ahí se queda dormido Senri con el brazo de Lev de almohada ([[cap-4|cap. 4]]).
+
+:::caution[Por confirmar]
+Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
+:::
+
+Es donde Ken esconde a Senri la noche del robo, y donde lo encuentra Lev. Sustituye al jardín japonés: el sitio donde se durmió encima de él es el sitio donde Lev lo saca.
 
 ## El templo
 
@@ -100,17 +105,23 @@ El templo al que iba a rezar Hiroshi, donde están escondidas **las notas de Gra
 
 Un robo de noche y a escondidas, en el centro científico. **No es un acto público.**
 
-1. **Elias Hart**, científico y miembro del Consejo, es el traidor: les da a los iskra la información y las credenciales para entrar en la cámara del núcleo. Grace también es del Consejo, y Hiroshi Hayami, la escolta que los protege.
-2. Los iskra bajan a la cámara y se llevan el núcleo. **Es falso**: Grace lo había gastado en el trasplante de Senri y había dejado una copia. Viktor lo nota al momento.
-3. Interrogan a Grace con una droga chhaya, sacada de las toxinas de las ilusiones: con ella no distingues una ilusión de la realidad. Grace la reconoce y **se mata con la pistola de Viktor**. Lev está delante. La grabación existe.
-4. Viktor va a por los hijos de los Hayami: sospecha que saben algo, y en concreto que Senri sabe algo. Hiroshi va a por Viktor para protegerlos, y **Viktor lo mata** sin que llegue a alzar la espada.
-5. A Senri lo hieren de muerte. Ken lo esconde. Ken no se fía de la armadura negra y **ataca a Lev**; Lev se defiende, y los reflejos le hacen asestarle una herida mortal.
-6. Llega gente. Lev quiere llevar a Ken a un médico, y Ken se niega: no quiere que lo hagan hablar. Le pide que saque a Senri. **Lev saca a Senri y lo mete en una nave.**
+1. **Elias Hart**, director del centro y consejero, es el traidor: les da a los iskra la información y las credenciales para entrar en la cámara del corazón.
+2. Los iskra bajan a la cámara y se llevan el corazón. **Es falso**: Grace lo había gastado en el trasplante de Senri y había dejado una copia. Viktor lo nota al momento.
+3. Interrogan a Grace con una droga chhaya, sacada de las toxinas de las ilusiones: con ella no distingues una ilusión de la realidad, y dices la verdad. Grace la reconoce y **se mata con la pistola de Viktor**. Lev lo ve por una pantalla, sin sonido: no oye lo que hablan. La grabación existe.
+4. Viktor va a por los hijos de los Hayami: sospecha que usaron el corazón para curar a Senri y que él sabe dónde está. Un soldado intenta atrapar a Senri y lo hiere. **Ken mata al soldado** y huyen.
+5. Hiroshi va por otro lado, a por ellos o a por Viktor directamente: si lo mata, salva a sus hijos y a su gente. Se cruza con ellos. Senri quiere que huya también, y Hiroshi le dice que no, que tiene que cumplir con su deber. **Se refiere a su deber de padre; Senri lo entiende como el deber con la colonia.**
+6. Senri y Ken siguen huyendo, les cortan el paso, tuercen por otro lado y **ven a Viktor matar a Hiroshi**, en persona o por una cámara. Siguen huyendo.
+7. Ken esconde a Senri. Ken no se fía de la armadura negra y **ataca a Lev**; Lev se defiende, y los reflejos le hacen asestarle una herida mortal.
+8. Llega gente. Lev quiere llevar a Ken a un médico, y Ken se niega: no quiere que lo hagan hablar. Le pide que saque a Senri. **Lev lo saca, lo mete en una nave con piloto automático y le deja la katana de Ken.**
 
 De ahí, tres años de guerra.
 
 ### Lo que cree Senri
 
-Que su padre murió protegiendo a la gente, cumpliendo con su deber, ganando tiempo para que el Consejo escapara ([[cap-1|cap. 1]]). No es verdad: murió por ir a por el hombre que iba a por sus hijos.
+Que su padre murió protegiendo a la gente, cumpliendo con su deber, ganando tiempo para que el Consejo escapara ([[cap-1|cap. 1]]). No es verdad: se quedó por ellos.
 
-Senri estaba inconsciente cuando lo sacaron y no lo recuerda. Ver [[senri]].
+No recuerda cómo salió de allí. Ver [[senri]].
+
+### Lo que sabe Viktor
+
+Que Senri está vivo. Después del golpe interroga a Lev con la misma droga y le saca que salvó a Senri y que Senri lleva en el cuerpo un pneuma que no es normal: los parches. Por eso lo busca, en silencio y sin carteles, porque no le conviene que se sepa que busca algo. Ver [[lev]].

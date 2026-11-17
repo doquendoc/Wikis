@@ -15,13 +15,13 @@ ficha:
   - ["Clima", "Estaciones"]
   - ["# Historia", ""]
   - ["Desde la partida", "≈ 500 años"]
-  - ["Arcas", "4, una por núcleo"]
+  - ["Arcas", "4, una por corazón"]
 ---
 ## Lo que pasó aquí
 
 Los [[nefilim]] huían de los [[ammit|Ammit]]. El piloto automático de su nave detectó vida avanzada y aparcó en la Tierra, y murieron al contacto con el oxígeno.
 
-Dejaron **cuatro núcleos de pneuma** y un mapa de colonias. Por redundancia, la Tierra construyó cuatro arcas con trozos de la nave, una por núcleo, y siguió ese mapa. Ver [[historia]].
+Dejaron **cuatro corazones de pneuma** y un mapa de colonias. Por redundancia, la Tierra construyó cuatro arcas con trozos de la nave, una por corazón, y siguió ese mapa. Ver [[historia]].
 
 ## Lo que queda de ella
 

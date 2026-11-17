@@ -30,18 +30,18 @@ pendientes:
 - **La línea en la nuca**, dos veces: el qhatu del ascensor («No veo una línea en tu nuca») y Lev mirándole la nuca a Senri → el implante en la sien. Ver [[vinculo-kairos]].
 - **«El Mar de Chatarra»** → el Desguace.
 - **Laddoo** en la capucha de Leela, si sale en escena.
+- **La cicatriz en el recuerdo del cristal.** Para convencer a Lev de que se quite la armadura delante de él, Senri le enseña la cicatriz y el pneuma puro y le dice que no es un suicida, que está seguro: Lev es radiactivo, y Senri es inmune. Ver [[trastornos]].
 
 **Elegir y unificar**
 
-- «La Espada del Consejo de Atalanta»: nombre del consejo, ver [[hestia]].
-- **«Núcleos» de los guardianes y los mensajeros.** Ahora un núcleo es el corazón de un noaidi y Ravdna no puede crearlos: lo que llevan dentro sus creaciones necesita otro nombre, o una explicación.
+- «La Espada del Consejo de Atalanta»: el título se queda («la Espada del Consejo»: jefe de los protectores). Falta unificar «de Atalanta» o «de Hestia», ver [[hestia]].
 
 **Ya encaja**
 
 - «Viktor no se va a rendir hasta conseguir sus tres Arcas»: es justo lo que necesita. Ver [[guerra]].
 - «Morirán cientos de miles»: los iskra son entre 150 000 y 200 000.
 - Los kairos compartieron su tecnología para que Mrak no acabara destruido: los cristales de Grace.
-- Lev ve a Grace suicidarse con la pistola de Viktor.
+- Lev ve a Grace suicidarse con la pistola de Viktor: lo vio por una pantalla, sin sonido.
 
 ## El sitio
 

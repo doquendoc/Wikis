@@ -1,16 +1,17 @@
 ---
 title: "Las arcas y la llegada"
-description: "Cuatro núcleos, cuatro arcas, cuatro planetas. Quinientos años después, la guerra no va de arcas: va de núcleos."
+description: "Cuatro corazones, cuatro arcas, cuatro planetas. Quinientos años después, la guerra no va de arcas: va de corazones."
 sidebar:
   order: 3
 ficha:
   - ["# La llegada", ""]
   - ["Galaxia", "Nifilia"]
   - ["Desde la llegada", "500 años"]
-  - ["Arcas", "4, una por núcleo"]
+  - ["Arcas", "4, una por corazón"]
   - ["Sacadas de", "La nave [[nefilim]] que cayó en la Tierra"]
-  - ["# Los núcleos", ""]
-  - ["Son", "Corazones de [[noaidi]]: cuatro que se sacrificaron en la nave"]
+  - ["# Los corazones", ""]
+  - ["Nombre", "«El corazón del arca», como metáfora"]
+  - ["Son", "Corazones de [[noaidi]] de verdad: cuatro que se sacrificaron en la nave"]
   - ["Tamaño", "Caben en un puño"]
   - ["Estado al llegar", "Gastados"]
   - ["Recarga", "≈ 50 años"]
@@ -27,7 +28,7 @@ pendientes:
 ---
 La Tierra mandó expediciones durante siglos sin resultados. Lo que lo cambió todo fue que se le cayera encima una nave [[nefilim]].
 
-Tenía **cuatro núcleos de pneuma**. Por redundancia, la Tierra construyó cuatro arcas con trozos de la nave, una por núcleo, y siguió el mapa de colonias que planeaban los nefilim.
+Tenía **cuatro corazones de pneuma**. Por redundancia, la Tierra construyó cuatro arcas con trozos de la nave, una por corazón, y siguió el mapa de colonias que planeaban los nefilim.
 
 Cada arca era mixta, de al menos tres naciones, pero una tenía la capitanía e impuso su idioma y parte de su cultura. Ver [[colonias]].
 
@@ -35,11 +36,11 @@ Cada arca era mixta, de al menos tres naciones, pero una tenía la capitanía e 
 
 Los humanos llegaron desarrollados, con tecnología y armas. En los cuatro planetas estaban los [[niwashi]], que los ayudaron a adaptarse y **aceleraron su evolución**: los cambios son biológicos, muy visibles y puede que no hayan terminado.
 
-## Los núcleos
+## Los corazones
 
-Lo que nadie sabe es qué son: **corazones de [[noaidi]]**. Los cuatro de la nave eran cuatro noaidi que viajaban con los nefilim y se sacrificaron para moverla. Ver [[pueblos-antiguos]].
+En las colonias los llaman **el corazón del arca**, como metáfora de ingeniero. Lo que nadie sabe es que lo son de verdad: **corazones de [[noaidi]]**. Los cuatro de la nave eran cuatro noaidi que viajaban con los nefilim y se sacrificaron para moverla. Ver [[pueblos-antiguos]].
 
-Llegaron gastados del viaje, y un núcleo tarda unos **cincuenta años** en recargarse. Al cabo de ese tiempo estaban listos, y como los [[ammit|Ammit]] ya parecían un mito, **las colonias los usaron**. Solo los xingtian guardaron el suyo.
+Llegaron gastados del viaje, y un corazón tarda unos **cincuenta años** en recargarse. Al cabo de ese tiempo estaban listos, y como los [[ammit|Ammit]] ya parecían un mito, **las colonias los usaron**. Solo los xingtian guardaron el suyo.
 
 | Colonia | Para qué lo usó | Dónde está hoy |
 |---|---|---|
@@ -49,10 +50,10 @@ Llegaron gastados del viaje, y un núcleo tarda unos **cincuenta años** en reca
 | [[xingtian\|Xingtian]] | Nada: lo guardaron | En [[taishan\|Taishan]] |
 
 - Las arcas están **en órbita**: fortaleza, capital y bote salvavidas si aparecen los Ammit.
-- Los núcleos no: se guardan **en tierra**, protegidos.
-- No se pueden construir más arcas, y nadie puede crear núcleos.
+- Los corazones no: se guardan **en tierra**, protegidos.
+- No se pueden construir más arcas, y nadie puede crear corazones.
 
-Por eso la [[guerra|guerra]] no va de arcas, va de núcleos.
+Por eso la [[guerra|guerra]] no va de arcas, va de corazones.
 
 :::caution[Por confirmar]
 Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
@@ -64,6 +65,6 @@ Cada arca lleva unas **50 000 personas**. A los iskra, que son entre 150 000 y 2
 
 **Traductores niwashi.** Todo el mundo lleva uno, como implante o como aparato enganchado: filtran los sonidos y devuelven las palabras en un idioma que la criatura entiende. Entre humanos, casi todos hablan inglés y lo usan sin traductor, con su acento y con palabras de su idioma.
 
-**Viajes.** Naves mejoradas con tecnología niwashi para moverse entre sistemas cercanos. Solo los núcleos nefilim permiten saltos de muchos años luz.
+**Viajes.** Naves mejoradas con tecnología niwashi para moverse entre sistemas cercanos. Solo los corazones nefilim permiten saltos de muchos años luz.
 
 **Comercio.** [[tampu|Tampu]], la estación de los [[qhatu]], es el punto neutral.

@@ -31,14 +31,14 @@ pendientes:
 - **El portal de la Viuda, dos veces.** «Había llegado [...] en una nave de pneuma, a través de un portal de penuma»: quitar el portal y dejar la nave. «Partió a través de un portal y regresó sola»: «partió en su nave». A [[aaru|Aaru]] no se llega por portal.
 - **La línea en la nuca** de la camarera → el implante en la sien. Ver [[vinculo-kairos]].
 - **Laddoo.** Plantarlo en la capucha de la sudadera de Leela, sin decir lo que es. Ver [[leela]].
-- **Dónde muere Hiroshi.** «Volvió al Palacio de Atalanta, al jardín en el que vio a un iskra volarle los sesos a su padre»: ahora es en el centro científico, de noche. Ver [[hestia]].
+- **Dónde muere Hiroshi.** «Volvió al Palacio de Atalanta, al jardín en el que vio a un iskra volarle los sesos a su padre»: ahora es en el centro científico, de noche, y Senri lo ve mientras huye con Ken. Ver [[hestia]].
 
 **Elegir y unificar**
 
 - *Pasión Kairo* o *Pasión Verde*.
 - *Nifilim* o *nefilim*.
 - *Última Carrera* o *Última Prueba*.
-- «Palacio de Atalanta» y «Consejo de Hestia»: nombres de los lugares, ver [[hestia]].
+- «Palacio de Atalanta»: ya no es un palacio, es el centro científico. «Consejo de Hestia»: el nombre del consejo está por confirmar, ver [[hestia]].
 
 **Revisar**
 
@@ -72,7 +72,7 @@ La Esclusa. Su ventanal da a la esclusa de verdad: se bebe mirando a quién lanz
 | [[senri\|Senri]] | En la barra, comiendo sin parar. Deteriorado y tiene que notarse: manos heladas, cansado, dolorido, y **no acelera ni una vez** porque no puede permitírselo. No puede pagar por nadie: cada sol se le va en injertos |
 | Batu | El dueño. Baatar retirado, enorme y lleno de placas, limpiando vasos con unas manos donde caben tres |
 | [[leela\|Leela]] | Entra a pedir un helado, la echan, llora; mientras todos la miran, un señuelo suyo roba un dulce tras la barra. Solo Senri lo ve, y a ella le hace gracia. Después le pide una barrita, con modales impecables |
-| [[nadia\|Nadia]] | Junto al ventanal, traje impecable, café y un libro de papel (*El sueño del pabellón rojo*): lo más absurdo del local. Senri huele el café y el papel, pero en el pneuma es un vacío |
+| [[nadia\|Nadia]] | Junto al ventanal, traje impecable, café y un libro de papel (*El sueño del pabellón rojo*): lo más absurdo del local. Senri huele el café y el papel; en el pneuma, poca cosa para una xingtian |
 | [[lev\|Lev]] | Armadura negra entera, capucha, visor, **sin la capa** del Nuevo Régimen. Obviamente iskra en una Franja llena de refugiados |
 | Tres Ojos y el Cojo | Favoritos de la Viuda. Manosean a una camarera kairos |
 | Rivales de pasada | Un mercenario xingtian enorme, unos gemelos chhaya que no paran de mirarse los reflejos, alguien con un rifle tapado con una manta |
@@ -81,7 +81,7 @@ La Esclusa. Su ventanal da a la esclusa de verdad: se bebe mirando a quién lanz
 
 1. **Apertura.** La máquina expendedora de la calle le roba trescientos soles. Senri entra al bar a comer.
 2. **Leela** y su ilusión, y después la barrita.
-3. **Nadia**, el vacío en la mesita.
+3. **Nadia**, la xingtian de la mesita.
 4. **El conflicto.** Tres Ojos y el Cojo con la camarera; Lev exige que la suelten.
 5. **Senri los azuza.** Le da igual que acaben en la esclusa: quiere ver muerto al iskra y, de paso, quitarse a un rival (aún no sabe que él también llevará pulsera). No es un santo: esa gente le destrozó la vida.
 6. **Lev los tumba** a los dos con pulsos, sin matar a nadie, y reconoce a Senri en cuanto lo ve. Se apuntan y bajan el arma a la vez.
@@ -98,7 +98,7 @@ Senri lo reconoce **por el pneuma**: no ve el de todo el mundo, ve el de quien t
 - Las dos caras de Senri, y su cara más oscura: quiere ver morir a un iskra.
 - La voz de Lev, que le suena por la visita diplomática.
 - Que Lev lo reconoce. El lector no lo sabrá hasta el 2, que es su POV.
-- El vacío de Nadia en el pneuma, y su libro de papel.
+- El poco pneuma de Nadia, y su libro de papel.
 - Las ilusiones de Leela y su mirada a la condenada chhaya.
 - El kamakiri condenado, eco de Mushi.
 - Cómo funciona la ley de Tampu, sin explicarla.

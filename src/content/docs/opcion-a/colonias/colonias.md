@@ -27,7 +27,7 @@ pendientes:
 
 Todos los mundos, también los de otras especies, en [[planetas]].
 
-## Población y núcleo
+## Población y corazón
 
 Cada colonia es un grupo de ciudades y puestos repartidos por el planeta, no una sola ciudad.
 
@@ -37,14 +37,14 @@ Propuesta de Claude. Cámbialo o bórralo cuando lo revises.
 
 Las cifras de población son una estimación:
 
-| | Población | Su núcleo | En la guerra |
+| | Población | Su corazón | En la guerra |
 |---|---|---|---|
 | [[xingtian]] | ≈ 25 – 35 millones | Guardado | A punto de entrar |
 | [[chhaya]] | ≈ 10 – 15 millones | Dentro de Laddoo | Guerra civil |
 | [[kairos]] | ≈ 7 millones antes de la guerra; ≈ 3 – 4 millones hoy | Dentro de [[senri]] | Casi conquistados |
 | [[iskra]] | ≈ 150 000 – 200 000 | Estalló | Atacan |
 
-Ver [[historia]] para los núcleos y [[guerra]] para la guerra.
+Ver [[historia]] para los corazones y [[guerra]] para la guerra.
 
 ## La regla general
 

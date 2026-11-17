@@ -54,7 +54,7 @@ Cada [[qhatu]] nace con tres discos sagrados en el centro de su pila, con sus pr
 
 **No pueden mentir, pero sí callarse:** negocian con omisiones.
 
-Y hay qhatu corruptos que se sujetan un disco agrietado con **una cuña de pneuma**; si la cuña falla, se desmoronan. De ahí el del [[secuestro|secuestro]].
+Y hay qhatu corruptos que se sujetan un disco agrietado con **una cuña de pneuma**; si la cuña falla, se desmoronan.
 
 ## El Arrecife
 

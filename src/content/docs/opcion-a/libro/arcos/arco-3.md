@@ -9,7 +9,7 @@ ficha:
   - ["Centro", "La confesión del 18"]
 pendientes:
   - "En qué capítulo le cuenta Senri a Lev que es diferente y le enseña la cicatriz."
-  - "En qué momento descubre Lev que Senri lleva un núcleo dentro, y si lo descubre él o por algo que pasa."
+  - "En qué momento descubre Lev que Senri lleva un corazón dentro, y si lo descubre él o por algo que pasa."
 ---
 ### 15 · El puzzle
 
@@ -43,7 +43,7 @@ El paso imposible. Senri lo ignora y encuentra una forma estúpida de cruzar.
 
 ### 21 · La piscina
 
-La reserva que los guardianes llevan siglos llenando con el pneuma de todo lo que Ravdna manda, para los [[ammit|Ammit]]. Ravdna no sabe que existe. Para qué la quieren ahora que no hay portal, ver [[aaru]].
+La reserva que los guardianes llevan siglos llenando con el pneuma de todo lo que Ravdna manda, para los [[ammit|Ammit]]. Ravdna no sabe que existe. Para qué la quieren, ver [[aaru]].
 
 Los cura a los dos. **Senri coge solo un poco**, porque no puede con más, y aun así es bastante: fuerza, curación y una avalancha de recuerdos del sufrimiento de los noaidi. Las partes regeneradas se extienden de verdad.
 

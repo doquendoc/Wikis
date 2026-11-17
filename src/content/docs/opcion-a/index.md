@@ -5,7 +5,7 @@ ficha:
   - ["Extensión", "30 caps. · 4.000–4.500"]
   - ["Total", "120.000–135.000"]
   - ["Género", "Ciencia ficción · BL"]
-  - ["Formato", "Autoconclusivo"]
+  - ["Formato", "Libro 1 de 2"]
   - ["Publicación", "Autopublicado"]
   - ["POV", "Dual: Senri y Lev"]
 ---

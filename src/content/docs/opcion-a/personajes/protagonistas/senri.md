@@ -22,7 +22,7 @@ personaje:
       - "Más listo que nadie, y lo esconde"
       - "Generoso a escondidas, y lo niega con un insulto"
       - "Odia que lo protejan"
-    quiere: "Sobrevivir solo, y que Ravdna le saque el núcleo que lleva dentro sin convertirlo en lo que era Fintan."
+    quiere: "Sobrevivir solo, y que Ravdna le saque el corazón que lleva dentro sin convertirlo en lo que era Fintan."
     necesita: "Aceptar que quiere a alguien lo suficiente para morir por él. Al final se sacrifica dos veces, el mismo gesto de su padre, esta vez elegido."
     miedo: "No morirse, sino dejar de ser él: cada herida que cura el órgano lo convierte un poco más en otra cosa."
   aspecto:
@@ -62,7 +62,7 @@ personaje:
     ropa: "Capas oscuras y prácticas, chaqueta corta de cuello alto, guantes sin dedos, botas ligeras, bolsillos llenos de comida."
     lleva:
       - "La katana de Ken"
-      - "Dentro, el núcleo del arca de Hestia"
+      - "Dentro, el corazón del arca de Hestia"
       - "El *omamori* que su madre le dio a Ken, al cuello"
       - "Las notas de su madre y las suyas"
       - "Barritas de calorías en el bolsillo de azúcares"
@@ -99,11 +99,11 @@ personaje:
     - nombre: "Hiroshi Hayami"
       relacion: "Padre"
       estado: "muerto"
-      nota: "La Espada de la Boulé, el consejo de [[hestia|Hestia]]: la cabeza de la casta militar que lo protege, y la escolta de Grace y Hart. Cría guerreros. Lo mató Viktor la noche del robo, sin llegar a alzar la espada, cuando fue a por él para proteger a sus hijos. Senri cree que murió ganando tiempo para que el Consejo escapara. Iba a rezar a un templo donde están escondidas las notas de Grace."
+      nota: "La Espada del Consejo de [[hestia|Hestia]]: el jefe de los protectores, la casta militar que escolta a los consejeros. Cría guerreros. La noche del robo se cruzó con Senri y Ken huyendo y no se fue con ellos: «tengo que cumplir con mi deber». Hablaba de su deber de padre; Senri lo entendió como el deber con la colonia. Fue a por Viktor y Viktor lo mató, sin que llegara a alzar la espada. Iba a rezar a un templo donde están escondidas las notas de Grace."
     - nombre: "Grace Hayami"
       relacion: "Madre"
       estado: "muerta"
-      nota: "Bióloga del pneuma y miembro del Consejo; trabajaba con Fintan. Investigaba el gen kairos con el núcleo del arca de Hestia, con permiso, lo gastó en el trasplante de Senri y dejó una copia. La interrogaron con una droga chhaya, la reconoció y se mató con la pistola de Viktor. Tenía miles de libros. Soñaba con una cadena de donaciones del órgano."
+      nota: "Bióloga del pneuma y jefa de investigación del centro científico; trabajaba con Fintan. Investigaba el gen kairos con el corazón del arca de Hestia, con permiso del Consejo, lo gastó en el trasplante de Senri y dejó una copia. La interrogaron con una droga chhaya, la reconoció y se mató con la pistola de Viktor. Tenía miles de libros. Soñaba con una cadena de donaciones del órgano."
     - nombre: "Ken Hayami"
       relacion: "Hermano mayor"
       estado: "muerto"
@@ -132,18 +132,18 @@ personaje:
       es: "Le recuerda a Hana: huele igual, a azúcar y cardamomo, y él le tira del pelo como hacía con su hermana. Algún día ella le ata un *rakhi*."
     - con: "[[nadia|Nadia]]"
       lellama: "nee-san; Lin Mei"
-      es: "Para él, una xingtian lista con café y libros de papel; en el pneuma, un vacío. Ella es la única que ve lo listo que es. Huele a café y papel viejo. No sabe que ella sabe quién es."
+      es: "Para él, una xingtian lista con café y libros de papel; en el pneuma, poca cosa. Ella es la única que ve lo listo que es. Huele a café y papel viejo. No sabe que ella sabe quién es."
     - con: "[[ravdna|Ravdna]]"
-      es: "Su única salida: le pide que le saque el núcleo sin convertirlo en lo que era Fintan. Ella le miente, y ya ha prometido ese núcleo a otros."
+      es: "Su única salida: le pide que le saque el corazón sin convertirlo en lo que era Fintan. Ella le miente, y ya ha prometido ese corazón a otros."
   cronologia:
     - cuando: "Infancia"
       que: "Familia japonesa y estadounidense de militares que protegen al consejo de Hestia. Pasa las tardes en el laboratorio de Grace, en el Asclepión, porque ve lo que ella estudia. Sabe lo que es Fintan; lo que no sabe hasta después es que el órgano que lleva dentro es suyo."
     - cuando: "12 o 13 años · el trasplante"
-      que: "A Hana y a él les toca la misma lotería genética. Hana muere; él aguanta más, y Fintan le trasplanta un órgano suyo y muere al quedarse sin pneuma. Para la transferencia, Grace usa el núcleo del arca de Hestia, con el que investigaba: Fintan consume parte de su poder para adaptar el órgano y **el núcleo se queda dentro de Senri**. En la cámara, Grace deja una copia. Nadie más lo sabe. Le quitan el bazo para hacer sitio. No ha vuelto a enfermar."
+      que: "A Hana y a él les toca la misma lotería genética. Hana muere; él aguanta más, y Fintan le trasplanta un órgano suyo y muere al quedarse sin pneuma. Para la transferencia, Grace usa el corazón del arca de Hestia, con el que investigaba: Fintan consume parte de su poder para adaptar el órgano y **el corazón se queda dentro de Senri**. En la cámara, Grace deja una copia. Nadie más lo sabe. Le quitan el bazo para hacer sitio. No ha vuelto a enfermar."
     - cuando: "16 años · la visita iskra"
-      que: "La delegación iskra pasa semanas en Atalanta, con la armadura antigua, que no es negra. Le da conversación a un teniente callado de 19 años; Le ofrece esperar fuera o taparse los ojos para que Lev se quite la armadura y vea el amanecer de Atalanta a través del cristal de Grace, y se los tapa «como un idiota» para no incomodarlo ([[cap-2|cap. 2]]). Le hace reír con un chiste estúpido y Lev responde *tak tochno* a su capitán. Se vincula sin saberlo. Un amanecer se agacha a despertarlo, dormido sentado tras una guardia, y se queda oliéndole el pelo más de la cuenta."
+      que: "La delegación iskra pasa semanas en Atalanta, con la armadura antigua, que no es negra. Le da conversación a un teniente callado de 19 años; Le ofrece esperar fuera o taparse los ojos para que Lev se quite la armadura y vea el amanecer de Atalanta a través del cristal de Grace; para convencerlo le enseña la cicatriz y el pneuma puro y le dice que está seguro. Se tapa los ojos «como un idiota» para no incomodarlo ([[cap-2|cap. 2]]). Le hace reír con un chiste estúpido y Lev responde *tak tochno* a su capitán. Se vincula sin saberlo. Un amanecer se agacha a despertarlo, dormido sentado tras una guardia, y se queda oliéndole el pelo más de la cuenta."
     - cuando: "16 años · año 0 · la traición"
-      que: "Elias Hart les da a los iskra las credenciales de la cámara. Grace se mata con la pistola de Viktor. Viktor va a por Senri y a por Ken, y Hiroshi muere delante de Senri yendo a por él. A Senri lo hieren de muerte; Ken lo esconde, entiende al verle la herida lo que lleva dentro, ataca a Lev y cae. Senri, curándose, ve el pneuma borroso: un iskra de armadura negra junto a Ken, y debajo un pneuma enorme que atribuye a Viktor. Pierde el conocimiento y no recuerda nada más. Lev lo saca y lo mete en una nave con piloto automático."
+      que: "Elias Hart les da a los iskra las credenciales de la cámara. Grace se mata con la pistola de Viktor. Viktor va a por él: sospecha que el corazón sirvió para curarlo. Un soldado intenta atraparlo y lo hiere; Ken mata al soldado y huyen. Se cruzan con Hiroshi, que no huye con ellos —«tengo que cumplir con mi deber»—, y poco después ven a Viktor matarlo. Ken lo esconde, entiende al verle la herida lo que lleva dentro, ataca a Lev y cae. Senri, curándose, ve el pneuma borroso: un iskra de armadura negra junto a Ken, y debajo un pneuma enorme que atribuye a Viktor. Pierde el conocimiento y no recuerda nada más. Lev lo saca, lo mete en una nave con piloto automático y le deja la katana de Ken."
     - cuando: "16 a 19 años · Tampu"
       que: "Llega en esa nave, con la katana, el *omamori*, las notas de su madre y un órgano que lo mata. Trabaja de cazador, escolta y piloto. Busca a Lev en los registros y encuentra un desertor acusado del golpe contra Viktor, con precio."
     - cuando: "19 años · cap. 1"
@@ -155,7 +155,8 @@ personaje:
   sabe:
     - "Desde el cap. 3, que puede estar vinculado a Lev. Lo rechaza"
     - "Que Hart fue el traidor"
-    - "Que lleva dentro el núcleo del arca de Hestia, el que buscan los iskra, y que no se puede partir"
+    - "Que Viktor mató a su padre: lo vio"
+    - "Que lleva dentro el corazón del arca de Hestia, el que buscan los iskra, y que no se puede partir"
     - "Que el teniente de Hestia desertó y tiene precio"
     - "Lo que era Fintan, y que el órgano es suyo"
     - "Lo que hace el órgano y que lo está matando"
@@ -163,9 +164,9 @@ personaje:
     - "Que Ken lo supo al verle la herida"
     - "Que fue Lev quien mató a Ken (hasta el cap. 18)"
     - "Que fue Lev quien lo sacó de Hestia, porque Ken se lo pidió"
-    - "Que su padre murió por ir a por Viktor para protegerlo a él"
+    - "Que su padre se quedó por él y por Ken: cree que se quedó por la colonia"
     - "Que Lin Mei es Nadia, y que ella sabe quién es"
-    - "Que los núcleos son corazones de noaidi (hasta Aaru)"
+    - "Que el corazón de un arca es, literalmente, el de un noaidi (hasta Aaru)"
 pendientes:
   - "Color de los ojos: la ficha dice «tirando a ámbar», y en el cap. 2 Lev los ve «plata tornasolado, como el zarevo». ¿Es la vista iskra, que ve mal el ámbar, o son plateados?"
   - "Nombre del órgano (descartados: ka, fuelle, corazón)."
@@ -173,9 +174,7 @@ pendientes:
   - "Alias de Senri en Tampu."
   - "Nombres científicos del gen suyo y de Hana, y del de Viktor y Lev."
   - "Nombre del respirador de media cara."
-  - "Confirmar los lugares de Hestia (la Boulé, el Pritaneo, el Asclepión y su jardín): ver [[hestia]]."
-  - "Si Senri sabe que fue Viktor quien mató a su padre o solo «un iskra» (cap. 1)."
-  - "Quién mete la katana de Ken en la nave."
+  - "Confirmar los lugares de Hestia (la Boulé, el Pritaneo, el Asclepión y la Cúpula como escondite): ver [[hestia]]."
   - "Dónde tiene la cicatriz del trasplante, la que le enseña a Lev."
 ---
 ## Personalidad
@@ -197,15 +196,16 @@ Lo que lleva dentro es de [[ammit|Fintan]]. Él no lo llama de ninguna forma bon
 
 No venía con sitio, así que hubo que sacarle algo, y Grace eligió **el bazo**, que es de lo que menos se echa en falta. Debería dejarlo vulnerable a infecciones, pero no: el órgano sella las heridas con pneuma antes de que nada entre. **No ha estado enfermo desde los trece años**, ni un catarro, viviendo en los discos bajos de Tampu, y eso es algo que alguien podría notar.
 
-## El núcleo
+## El corazón
 
-**Lleva dentro el núcleo del arca de Hestia**, el corazón de un [[noaidi]]. Fintan consumió parte de su poder para adaptar el órgano a un cuerpo humano, y la mayor parte sigue ahí. En la cámara, Grace dejó una copia.
+**Lleva dentro el corazón del arca de Hestia**: el de un [[noaidi]], literalmente. Fintan consumió parte de su poder para adaptar el órgano a un cuerpo humano, y la mayor parte sigue ahí. En la cámara, Grace dejó una copia.
 
-- **No se puede partir.** El poder del núcleo es lo que lo mantiene entero. Por eso Grace no pudo usar solo un trozo.
+- **No se puede partir.** El poder del corazón es lo que lo mantiene entero. Por eso Grace no pudo usar solo un trozo.
 - **Usarlo lo cambia.** Cuanto más tira de él, más pneuma, más poderoso y menos kairos. Si lo gastara del todo, sería casi un [[ammit|Ammit]].
 - **No sabe usarlo.**
 - **Lo hace inmune** a la radiación de Lev, como el órgano.
-- Los Ammit no lo notan: el núcleo ya está comido, es de Ammit, y él es casi kairos. Les serviría, pero no lo están buscando.
+- Los Ammit no lo notan: el corazón ya está comido, es de Ammit, y él es casi kairos. Les serviría, pero no lo están buscando.
+- **Lo que notan los iskra:** el órgano tapa el corazón, pero no del todo. Lev y Viktor perciben en él más pneuma que en cualquier kairos con el gen, aunque no al nivel de un corazón. De ahí la sospecha de Viktor.
 
 ### Qué es el rasgo
 
@@ -260,25 +260,25 @@ Lo que cambia en el [[cap-3|capítulo 3]] no es la habilidad, es el material.
 | Cap. 10 · el pastor | Deshace y absorbe a la vez, y le entran recuerdos de prisioneros |
 | Cap. 21 · la piscina | Una cantidad enorme de golpe: fuerza, curación y el sufrimiento de miles de noaidi |
 | Cap. 25 · el eyector | Primer uso controlado, con destino |
-| Caps. 26 – 27 · la vuelta | Mueve la nave de Ravdna con el poder de su núcleo, y le cuesta |
+| El final · la huida | Mueve la nave de emergencia con el poder de su corazón, y le cuesta |
 
 No absorbe pneuma vivo, ni quiere. **Su línea:** no drenar a nadie vivo, como Fintan. Podría hacerlo, no lo ha descartado, y le da miedo convertirse en otra cosa y dejar de ser él.
 
 ## Su meta
 
-La versión que le pide a [[ravdna|Ravdna]] en el capítulo 6: **que le saque el núcleo sin convertirlo en lo que era Fintan**.
+La versión que le pide a [[ravdna|Ravdna]] en el capítulo 6: **que le saque el corazón sin convertirlo en lo que era Fintan**.
 
-Ravdna le dice que sí y le miente: ya ha prometido ese núcleo a [[nadia|Nadia]] y a [[lev|Lev]].
+Ravdna le dice que sí y le miente: ya ha prometido ese corazón a [[nadia|Nadia]] y a [[lev|Lev]].
 
 **La urgencia es la Prueba**, porque Ravdna es la única que podría hacerlo.
 
 **Lo de Grace queda para el libro 2:** una porción del órgano que crezca en otro cuerpo alimentándose justo del excedente que mata a los kairos. Una donación, y de ahí una cadena, para que nadie más acabe como Hana.
 
-## Lo que le cuenta a Lev
+## Lo que le contó a Lev
 
-Sin muchos detalles: que es diferente. Le enseña la cicatriz y el pneuma puro, y le dice que no es un suicida, que está seguro. Lev le cree.
+**En Hestia**, para convencerlo de que se quitara la armadura delante de él: que es diferente. Le enseña la cicatriz y el pneuma puro, y le dice que no es un suicida, que está seguro. Lev le cree. Ver [[cap-2|cap. 2]].
 
-En Aaru, Lev descubre que lleva un núcleo dentro, por sí mismo o por algo que pasa. Nadie sabe lo que ha pedido el otro. Lev entiende de dónde iba a sacar Ravdna lo que le prometió, duda de que sacárselo sea seguro, y de ahí sale el conflicto. Lev no elige matarlo.
+En Aaru, Lev descubre que lleva un corazón dentro: luchando contra los guardianes o cuando despiertan los Ammit. Nadie sabe lo que ha pedido el otro. Lev entiende de dónde iba a sacar Ravdna lo que le prometió, duda de que sacárselo sea seguro, y de ahí sale el conflicto. Lev no elige matarlo.
 
 ## Los parches
 
@@ -296,7 +296,7 @@ Cada herida que cura el órgano se convierte en pneuma solidificado, como el cue
 
 **Vive** en un apartamento alquilado y humilde en los Anillos: todo se le va en injertos y comida.
 
-**No revela quién es.** A los iskra no les conviene que se sepa que vive —un superviviente de las familias protectoras es un símbolo y delataría que buscan algo—, así que lo dieron por muerto y no hay carteles: quien lo persigue lo hace por su cuenta y en silencio. Aun así se esconde, porque todo el mundo está registrado.
+**No revela quién es.** Viktor sabe que está vivo y lo busca: le sacó a Lev con la droga que lo salvó, y que lleva en el cuerpo un pneuma que no es normal. Sospecha que usaron el corazón para curarlo y que Senri sabe dónde está. Lo busca **en silencio y sin carteles**, porque no le conviene que se sepa que busca algo. Aun así se esconde, porque todo el mundo está registrado.
 
 **Por qué no sabe que fue Lev.** Justo antes del golpe, Viktor hizo jurarle lealtad a los suyos y les cambió las armaduras: las nuevas son negras, con una capa con el símbolo del Nuevo Régimen. El que estaba con Ken llevaba esa, con el casco puesto, así que pudo ser cualquiera. Mientras se curaba no veía el pneuma, o lo veía borroso, y lo que intuyó debajo de la armadura era enorme: se lo atribuye a Viktor. Sabe que pudo ser Lev, y prefiere que no. Lo que le quedó grabado fue su tamaño, su silueta y su voz.
 

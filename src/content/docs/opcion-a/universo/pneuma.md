@@ -11,15 +11,14 @@ ficha:
   - ["Al morir", "Se disipa, salvo que algo lo capture"]
   - ["# Los tres niveles", ""]
   - ["Corriente", "El de cualquier ser vivo: el 99 %"]
-  - ["Puro", "Se extrae y se comercia; los núcleos"]
+  - ["Puro", "Se extrae y se comercia; los corazones de las arcas"]
   - ["Radiactivo", "El de Mrak desde la explosión: solo lo llevan tres personas"]
-  - ["Solidificado", "Materia con núcleo; solo los [[noaidi]]"]
+  - ["Solidificado", "Materia con un núcleo; solo los [[noaidi]]"]
   - ["# Quién lo percibe", ""]
   - ["Lo notan", "[[iskra|Iskra]], en la piel"]
   - ["Lo ven", "[[kairos|Kairos]] con pneuma en los ojos"]
   - ["Lo absorben", "[[ammit|Ammit]] y [[senri|Senri]]"]
 pendientes:
-  - "Cómo se llama lo que llevan dentro las creaciones de Ravdna (guardianes, mensajeros, bandas): ya no puede ser «núcleo», porque un núcleo es el corazón de un noaidi y ella no puede crearlos."
   - "Nombre del órgano."
   - "Término general para «algo que contiene pneuma», al estilo de *afín* en la otra historia (descartados: hechuras, rico, vivo, énteo)."
 ---
@@ -31,15 +30,15 @@ Funciona como un campo bioeléctrico del sistema nervioso. Lleva información de
 El que produce y gasta cualquier ser vivo, circulando por su cuerpo. Es el 99 % del pneuma que hay en el universo. Se disipa al morir. No sirve para nada técnico: es demasiado flojo y va mezclado con el cuerpo que lo produce.
 
 ### Puro
-Concentrado y estable. Es lo que se extrae, se guarda y se comercia: lo que procesaba la [[fondo|Vieja Fábrica]] (para eso no hace falta calor, hace falta radiación), lo que llevan los núcleos de las arcas —que son corazones de [[noaidi]]— y lo que cobra [[ravdna|Ravdna]] cuando no acepta soles.
+Concentrado y estable. Es lo que se extrae, se guarda y se comercia: lo que procesaba la [[fondo|Vieja Fábrica]] (para eso no hace falta calor, hace falta radiación), lo que llevan los corazones de las arcas —que son, literalmente, los de [[noaidi]]— y lo que cobra [[ravdna|Ravdna]] cuando no acepta soles.
 
 También lo son los seres de pneuma excepcional: los noaidi, y los iskra con [[trastornos|hiperpneumia]] como [[lev|Lev]], Viktor y [[nadia|Nadia]].
 
 ### Radiactivo
-Desde que estalló el núcleo de Mrak, hace siete u ocho años, hay **dos radiaciones**: la de la estrella y la del pneuma. Solo la llevan en el cuerpo Viktor, Nadia y Lev, que sobrevivieron porque ya tenían hiperpneumia de nacimiento y la explosión se la multiplicó. Ver [[mrak]] y [[trastornos]].
+Desde que estalló el corazón de Mrak, hace siete u ocho años, hay **dos radiaciones**: la de la estrella y la del pneuma. Solo la llevan en el cuerpo Viktor, Nadia y Lev, que sobrevivieron porque ya tenían hiperpneumia de nacimiento y la explosión se la multiplicó. Ver [[mrak]] y [[trastornos]].
 
 ### Solidificado
-Pneuma convertido en materia, con su propio núcleo dentro para mantenerse. **Solo los [[noaidi]] pueden hacerlo**, y es la razón de que Ravdna sea lo que es en Tampu: sus cuerpos, sus naves, sus mensajeros, los guardianes de La Máquina y las bandas de la Prueba son todos pneuma solidificado.
+Pneuma convertido en materia, con un núcleo propio dentro para mantenerse: una bobada al lado del corazón de un noaidi, pero suficiente. **Solo los [[noaidi]] pueden hacerlo**, y es la razón de que Ravdna sea lo que es en Tampu: sus cuerpos, sus naves, sus mensajeros, los guardianes de La Máquina y las bandas de la Prueba son todos pneuma solidificado.
 
 > No hay mecanismos ni tecnología que funcionen con pneuma solidificado. Lo que no haya hecho un noaidi con la mente, no existe.
 
