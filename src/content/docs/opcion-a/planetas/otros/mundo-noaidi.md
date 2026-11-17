@@ -4,9 +4,20 @@ description: "Un mundo riquísimo en pneuma, el primer festín de los Ammit. Hoy
 sidebar:
   order: 5
 ficha:
-  - ["Especie", "[[noaidi|Noaidi]]"]
+  - ["# Condiciones", ""]
+  - ["Gravedad", "?"]
+  - ["Temperatura", "?"]
+  - ["Oxígeno", "?"]
+  - ["Humedad", "?"]
+  - ["Atmósfera", "?"]
+  - ["Luz", "?"]
+  - ["Día y noche", "?"]
+  - ["Clima", "?"]
+  - ["# Vida", ""]
   - ["Pneuma", "Riquísimo"]
   - ["Hoy", "Vacío, casi sin ruinas"]
+  - ["# Gente", ""]
+  - ["Especie", "[[noaidi|Noaidi]] (extinguidos salvo Ravdna)"]
 pendientes:
   - "Confirmar lo propuesto."
   - "Nombre del planeta."

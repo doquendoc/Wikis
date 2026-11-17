@@ -4,16 +4,26 @@ description: "El planeta de los iskra. No es oscuro sino tenue: niebla, frío h�
 sidebar:
   order: 3
 ficha:
-  - ["Nombre", "Ruso: oscuridad"]
-  - ["Subespecie", "[[iskra|Iskra]]"]
-  - ["Capital", "Ogonyok (llamita)"]
+  - ["# Condiciones", ""]
   - ["Gravedad", "1 g"]
   - ["Temperatura", "5 – 10 °C"]
-  - ["Aire", "Niebla y humedad"]
-  - ["Estrella", "Enana roja, con llamaradas"]
+  - ["Oxígeno", "Como en la Tierra (por confirmar)"]
+  - ["Humedad", "Saturada"]
+  - ["Atmósfera", "Niebla permanente"]
   - ["Luz", "Tenue: minerales, flora y fauna que brillan"]
-  - ["Fauna", "Los *likho*"]
+  - ["Día y noche", "Crepúsculo eterno, si la estrella está fija (por confirmar)"]
+  - ["Clima", "Llamaradas cada vez más fuertes"]
+  - ["Estrella", "Enana roja"]
+  - ["Radiación", "Alta, y cada vez más"]
+  - ["# Vida", ""]
+  - ["Paisaje", "Cuevas, lagos subterráneos y bosques de hongos (por confirmar)"]
+  - ["Fauna", ["Likho", "Svetlyak (por confirmar)", "Peces ciegos (por confirmar)"]]
+  - ["Flora", ["Hongos y musgos luminosos", "Árboles de niebla", "(por confirmar)"]]
+  - ["# Gente", ""]
+  - ["Subespecie", "[[iskra|Iskra]]"]
+  - ["Capital", "Ogonyok"]
   - ["Idioma", "Ruso"]
+  - ["Nombre", "Ruso: oscuridad"]
 pendientes:
   - "Confirmar las secciones marcadas: la capital, paisaje (y si la estrella está fija en el cielo), fauna (likho, svetlyak) y flora."
   - "Detalles de las llamaradas: frecuencia, daño, cuánto tiempo les queda."

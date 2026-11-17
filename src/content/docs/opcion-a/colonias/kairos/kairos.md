@@ -4,15 +4,16 @@ description: "La subespecie que pasa por humana hasta que se mueve. Un depredado
 sidebar:
   order: 1
   label: "La colonia"
+planeta: "atalanta"
 ficha:
+  - ["# La subespecie", ""]
   - ["Planeta", "[[atalanta|Atalanta]]"]
   - ["Capital", "[[hestia|Hestia]]"]
-  - ["Gravedad", "1,15 g"]
-  - ["Clima", "Selva caliente y húmeda, con tormentas"]
-  - ["Oxígeno", "Rico"]
-  - ["Temp. corporal", "≈ 39 °C"]
-  - ["Injerto", "La díada"]
   - ["Idioma", "Inglés"]
+  - ["Injerto", "La díada"]
+  - ["Temp. corporal", "≈ 39 °C"]
+  - ["No aguantan", ["Poco oxígeno", "Ruido", "Luces intensas"]]
+  - ["Fuera de casa llevan", ["Inhalador o pinza nasal de oxígeno", "Barritas de calorías"]]
 ---
 ## Planeta
 

@@ -4,13 +4,22 @@ description: "El planeta de los kairos. Selva caliente, húmeda y rica en oxíge
 sidebar:
   order: 1
 ficha:
+  - ["# Condiciones", ""]
+  - ["Gravedad", "1,15 g"]
+  - ["Temperatura", "28 – 35 °C (por confirmar)"]
+  - ["Oxígeno", "Rico"]
+  - ["Humedad", "Muy alta"]
+  - ["Atmósfera", "Como la de la Tierra, con más oxígeno (por confirmar)"]
+  - ["Luz", "Sol amarillo; el suelo de la selva, en penumbra (por confirmar)"]
+  - ["Día y noche", "Días de unas 26 horas (por confirmar)"]
+  - ["Clima", "Tormentas eléctricas casi diarias (por confirmar)"]
+  - ["# Vida", ""]
+  - ["Paisaje", "Selva densa"]
+  - ["Fauna", ["La díada", "Depredadores rapidísimos", "Insectos gigantes", "Aves de cola larga", "(por confirmar)"]]
+  - ["Flora", ["Árboles-columna", "Frutos tóxicos", "Flores de tormenta", "Enredaderas y epífitas", "(por confirmar)"]]
+  - ["# Gente", ""]
   - ["Subespecie", "[[kairos|Kairos]]"]
   - ["Capital", "[[hestia|Hestia]]"]
-  - ["Gravedad", "1,15 g"]
-  - ["Clima", "Caliente y húmedo, con tormentas"]
-  - ["Oxígeno", "Rico"]
-  - ["Paisaje", "Selva densa"]
-  - ["Fauna", "Depredadores rapidísimos"]
   - ["Idioma", "Inglés"]
 pendientes:
   - "Confirmar las secciones marcadas: paisaje, fauna y flora."

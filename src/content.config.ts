@@ -6,6 +6,9 @@ import { docsSchema } from '@astrojs/starlight/schema';
 // Todos los textos admiten [[enlaces]], **negrita** y *cursiva*.
 const texto = z.string();
 const par = z.tuple([z.string(), z.string()]);
+// Fila de ficha de página: ["Campo", "valor"] o ["Campo", ["chip", "chip"]].
+// ["# Grupo", ""] abre un grupo con título. "?" pinta «Sin definir».
+const fila = z.tuple([z.string(), z.union([z.string(), z.array(z.string())])]);
 
 // Ficha de personaje. Cada bloque es opcional; los que faltan no se pintan.
 // El orden en pantalla es siempre el mismo (src/lib/personaje.mjs).
@@ -89,7 +92,9 @@ export const collections = {
     schema: docsSchema({
       extend: z.object({
         // Tarjeta de datos de cabecera: pares [etiqueta, valor]. El valor admite [[enlaces]].
-        ficha: z.array(par).optional(),
+        ficha: z.array(fila).optional(),
+        // En la página de una subespecie: el id de su planeta, para traer sus condiciones.
+        planeta: z.string().optional(),
         personaje: personaje.optional(),
         // Lo que queda por decidir. Sale al final de la página y se recoge en Pendientes.
         pendientes: z.array(z.string()).optional(),

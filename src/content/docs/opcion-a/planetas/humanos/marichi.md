@@ -4,16 +4,24 @@ description: "El planeta de los chhaya. Estepa a gran altitud, aire fino y seco,
 sidebar:
   order: 4
 ficha:
-  - ["Nombre", "Sánscrito: rayo de luz y espejismo"]
+  - ["# Condiciones", ""]
+  - ["Gravedad", "Algo menos de 1 g"]
+  - ["Temperatura", "Hasta 40 °C de día, bajo cero de noche (por confirmar)"]
+  - ["Oxígeno", "Bajo, por la altitud (por confirmar)"]
+  - ["Humedad", "Muy baja"]
+  - ["Atmósfera", "Fina"]
+  - ["Luz", "Sol intenso; cielo casi violeta (por confirmar)"]
+  - ["Día y noche", "Días ardientes, noches heladas"]
+  - ["Clima", "Seco; espejismos de día, escarcha al amanecer (por confirmar)"]
+  - ["# Vida", ""]
+  - ["Paisaje", "Estepa a gran altitud"]
+  - ["Fauna", ["Depredadores aéreos: garudas (por confirmar)", "Mayavi, la especie de Laddoo (por confirmar)", "Herbívoros de patas largas (por confirmar)"]]
+  - ["Flora", ["Chandani, el arbusto del mehndi (por confirmar)", "Hierba dorada", "Flores nocturnas", "(por confirmar)"]]
+  - ["# Gente", ""]
   - ["Subespecie", "[[chhaya|Chhaya]]"]
   - ["Capital", "Indraprastha"]
-  - ["Gravedad", "Algo menos de 1 g"]
-  - ["Paisaje", "Estepa a gran altitud"]
-  - ["Aire", "Fino y seco"]
-  - ["Luz", "Sol intenso"]
-  - ["Temperatura", "Días ardientes, noches heladas"]
-  - ["Fauna", "Depredadores aéreos"]
   - ["Idioma", "Hindi y sánscrito"]
+  - ["Nombre", "Sánscrito: rayo de luz y espejismo"]
 pendientes:
   - "Confirmar las secciones marcadas: la capital, paisaje, fauna (mayavi, garudas) y flora (chandani)."
   - "Temperaturas en cifras y duración del día."

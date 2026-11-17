@@ -4,8 +4,10 @@ description: "Se destruyó por algo natural, y por eso los nefilim se mudaban cu
 sidebar:
   order: 6
 ficha:
-  - ["Especie", "[[nefilim|Nefilim]]"]
-  - ["Hoy", "Destruido"]
+  - ["# Hoy", ""]
+  - ["Estado", "Destruido, por algo natural"]
+  - ["# Gente", ""]
+  - ["Especie", "[[nefilim|Nefilim]] (extintos)"]
 pendientes:
   - "Nombre del planeta y qué lo destruyó."
 ---

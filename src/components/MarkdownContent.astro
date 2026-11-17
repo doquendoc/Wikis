@@ -6,20 +6,21 @@ import { getCollection } from 'astro:content';
 import { enlazarHTML, destinos } from '../lib/wikilinks.mjs';
 import { HISTORIAS, historiaDe } from '../lib/historias.mjs';
 import Personaje from './Personaje.astro';
+import Ficha from './Ficha.astro';
 
 const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
 const { entry } = Astro.locals.starlightRoute;
 const historia = historiaDe(entry.id);
 const href = (eid: string) => base + (eid === 'index' ? '' : eid + '/');
 const miHref = href(entry.id);
-const { ficha, personaje, pendientes, auto } = entry.data as any;
+const { ficha, personaje, pendientes, auto, planeta } = entry.data as any;
 
 const todas = await getCollection('docs');
 const deLaHistoria = todas.filter((e) => historiaDe(e.id) === historia);
 const textoDe = (e: any) =>
   [
     e.body,
-    ...(e.data.ficha || []).map((f: string[]) => f[1]),
+    ...(e.data.ficha || []).map((f: any[]) => [f[1]].flat().join('\n')),
     ...(e.data.pendientes || []),
     e.data.personaje ? JSON.stringify(e.data.personaje) : '',
   ].join('\n');
@@ -43,9 +44,16 @@ if (auto === 'pendientes' && h) {
   total = global.reduce((n, g) => n + g.paginas.reduce((m: number, p: any) => m + p.data.pendientes.length, 0), 0);
 }
 
-// «(por confirmar)» en un valor de la ficha se pinta como insignia
-const conInsignias = (html: string) =>
-  html.replace(/\s*\(por confirmar\)/gi, ' <span class="insignia insignia--caution">Por confirmar</span>');
+// Subespecie con `planeta`: se traen las condiciones de su planeta (grupo «# Condiciones»)
+const planetaEntry = planeta ? deLaHistoria.find((e) => e.id.endsWith('/' + planeta)) : null;
+const condiciones: any[] = [];
+if (planetaEntry) {
+  let dentro = false;
+  for (const f of (planetaEntry.data as any).ficha || []) {
+    if (f[0].startsWith('#')) dentro = /condiciones/i.test(f[0]);
+    else if (dentro) condiciones.push(f);
+  }
+}
 
 // Portada general: tarjetas de las historias
 const portadaGeneral = entry.id === 'index' || entry.id === '';
@@ -54,18 +62,10 @@ const portadaGeneral = entry.id === 'index' || entry.id === '';
 <Default>
   {personaje && <Personaje p={personaje} titulo={entry.data.title} historia={historia} />}
 
-  {
-    !personaje && ficha?.length > 0 && (
-      <dl class="ficha not-content">
-        {ficha.map(([k, v]: string[]) => (
-          <div>
-            <dt>{k}</dt>
-            <dd set:html={conInsignias(enlazarHTML(v, historia, base))} />
-          </div>
-        ))}
-      </dl>
-    )
-  }
+  {!personaje && ficha?.length > 0 && <Ficha filas={ficha} historia={historia} />}
+  {planetaEntry && condiciones.length > 0 && (
+    <Ficha filas={condiciones} historia={historia} titulo={`Su planeta: [[${planetaEntry.id.split('/').pop()}|${planetaEntry.data.title}]]`} />
+  )}
 
   {
     portadaGeneral && (

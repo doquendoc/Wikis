@@ -4,8 +4,20 @@ description: "Bombardeado sin parar por rocas y meteoritos. De ahí sus placas."
 sidebar:
   order: 2
 ficha:
+  - ["# Condiciones", ""]
+  - ["Gravedad", "?"]
+  - ["Temperatura", "?"]
+  - ["Oxígeno", "?"]
+  - ["Humedad", "?"]
+  - ["Atmósfera", "?"]
+  - ["Luz", "?"]
+  - ["Día y noche", "?"]
+  - ["Clima", "Lluvia de rocas y meteoritos, sin parar"]
+  - ["# Vida", ""]
+  - ["Paisaje", "Cráteres sobre cráteres, con lagos en los viejos (por confirmar)"]
+  - ["Fauna", ["Todo con caparazón o bajo tierra (por confirmar)"]]
+  - ["# Gente", ""]
   - ["Especie", "[[baatar|Baatar]]"]
-  - ["Lo que cae del cielo", "Rocas y meteoritos, sin parar"]
 pendientes:
   - "Confirmar el paisaje propuesto."
   - "Nombre y condiciones del planeta."

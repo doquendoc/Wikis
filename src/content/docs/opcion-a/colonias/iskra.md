@@ -3,16 +3,17 @@ title: "Iskra"
 description: "Un mundo tenue, no oscuro. Lo que los hace iskra es la piel, y la armadura les quita la mitad."
 sidebar:
   order: 3
+planeta: "mrak"
 ficha:
-  - ["Planeta", "[[mrak|Mrak]] (oscuridad)"]
-  - ["Capital", "Ogonyok (llamita)"]
-  - ["Gravedad", "1 g"]
-  - ["Temperatura", "5 – 10 °C"]
-  - ["Aire", "Niebla y humedad"]
-  - ["Luz", "Tenue; enana roja con llamaradas"]
+  - ["# La subespecie", ""]
+  - ["Planeta", "[[mrak|Mrak]]"]
+  - ["Capital", "Ogonyok"]
+  - ["Idioma", "Ruso"]
+  - ["Injerto", "Fauna de cuevas y niebla"]
   - ["Temp. corporal", "≈ 35,5 °C"]
   - ["Pulso", "≈ 40 ppm"]
-  - ["Idioma", "Ruso"]
+  - ["No aguantan", ["Luz intensa", "Parpadeo", "Gritos", "Sequedad"]]
+  - ["Fuera de casa llevan", ["La armadura (skorlupa)"]]
 ---
 ## Planeta
 

@@ -4,11 +4,17 @@ description: "La capital de Atalanta y de los kairos. Donde estuvo la delegació
 sidebar:
   order: 2
 ficha:
+  - ["# La ciudad", ""]
   - ["Planeta", "[[atalanta|Atalanta]]"]
   - ["Subespecie", "[[kairos|Kairos]]"]
+  - ["Dónde", "En las copas de la selva (por confirmar)"]
+  - ["# Lugares", ""]
   - ["Gobierno", "La Boulé (por confirmar)"]
   - ["Sede", "El Pritaneo (por confirmar)"]
   - ["Ciencia", "El Asclepión (por confirmar)"]
+  - ["El núcleo", "Bajo el Pritaneo (por confirmar)"]
+  - ["El jardín", "Casa de té del Pritaneo (por confirmar)"]
+  - ["El templo", "?"]
 pendientes:
   - "Confirmar las secciones marcadas: la ciudad, la Boulé, el Pritaneo y su jardín, el Asclepión, el templo y la noche del ataque."
   - "Nombre del templo al que iba a rezar Hiroshi."

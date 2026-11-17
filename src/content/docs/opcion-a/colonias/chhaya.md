@@ -3,16 +3,16 @@ title: "Chhaya"
 description: "Proyectan lo que quieren que veas, y mientras duermen proyectan lo que no."
 sidebar:
   order: 4
+planeta: "marichi"
 ficha:
-  - ["Planeta", "[[marichi|Marichi]] (rayo de luz y espejismo)"]
+  - ["# La subespecie", ""]
+  - ["Planeta", "[[marichi|Marichi]]"]
   - ["Capital", "Indraprastha"]
-  - ["Gravedad", "Algo menos de 1 g"]
-  - ["Clima", "Estepa alta: días ardientes, noches heladas"]
-  - ["Aire", "Fino y seco"]
-  - ["Luz", "Sol intenso"]
+  - ["Idioma", "Hindi y sánscrito"]
   - ["Injerto", "Presa con señuelos + rapaces"]
   - ["Combustible", "Glucosa"]
-  - ["Idioma", "Hindi y sánscrito"]
+  - ["No aguantan", ["Oscuridad", "Espacios cerrados", "Agua"]]
+  - ["Fuera de casa llevan", ["Dulces o geles de glucosa", "Luz propia"]]
 ---
 ## Planeta
 

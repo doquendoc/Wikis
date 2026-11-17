@@ -490,3 +490,52 @@ a.insignia--pendiente:hover { background: color-mix(in srgb, var(--bb-oxido) 12%
 .sidebar-content .sl-badge.tip { --bb-badge-borde: var(--sl-color-purple); --bb-badge-fondo: var(--sl-color-purple-low); --bb-badge-texto: var(--sl-color-purple-high); }
 .sidebar-content .sl-badge.caution { --bb-badge-borde: var(--sl-color-orange); --bb-badge-fondo: var(--sl-color-orange-low); --bb-badge-texto: var(--sl-color-orange-high); }
 .sidebar-content a[aria-current='page'] .sl-badge { border-color: currentColor; }
+
+/* =====================================================================
+   Ficha en grupos (src/components/Ficha.astro)
+   ===================================================================== */
+.ficha-bloque {
+  margin: 0 0 1.6rem;
+  padding: 0.95rem 1.1rem;
+  background: var(--bb-ficha);
+  border: 1px solid var(--sl-color-gray-5);
+  border-left: 3px solid var(--sl-color-accent);
+  border-radius: 0 4px 4px 0;
+}
+.ficha-bloque .ficha { margin: 0; padding: 0; border: 0; background: none; border-radius: 0; }
+.ficha-bloque-titulo {
+  font-family: var(--bb-display);
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--sl-color-white);
+  margin: 0 0 0.8rem;
+}
+.ficha-bloque-titulo a { color: var(--sl-color-accent-high); }
+.ficha-grupo + .ficha-grupo { margin-top: 0.95rem; padding-top: 0.9rem; border-top: 1px dashed var(--sl-color-gray-5); }
+.ficha-grupo-titulo {
+  font-family: var(--sl-font-mono);
+  font-size: 0.66rem;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--sl-color-accent);
+  margin: 0 0 0.6rem;
+}
+.ficha .ficha-ancha { grid-column: 1 / -1; }
+.chips { display: flex; flex-wrap: wrap; gap: 0.35rem; font-weight: 400 !important; }
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.18rem 0.6rem;
+  font-size: 0.86rem;
+  line-height: 1.35;
+  border: 1px solid var(--sl-color-gray-5);
+  border-radius: 999px;
+  background: var(--sl-color-gray-6);
+  color: var(--sl-color-gray-1);
+}
+.chip .insignia { margin-left: 0.1rem; font-size: 0.55rem; padding: 0 0.4rem; }
+.chips > .insignia { align-self: center; }
+.insignia--vacio { --bb-badge-borde: var(--sl-color-gray-5); --bb-badge-texto: var(--sl-color-gray-3); border-style: dotted; }
+.ficha dd .insignia--vacio { margin-left: 0; }

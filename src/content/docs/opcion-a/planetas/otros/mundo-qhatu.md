@@ -4,9 +4,20 @@ description: "Mares poco profundos con mareas enormes, donde evolucionaron organ
 sidebar:
   order: 3
 ficha:
-  - ["Especie", "[[qhatu|Qhatu]]"]
+  - ["# Condiciones", ""]
+  - ["Gravedad", "?"]
+  - ["Temperatura", "?"]
+  - ["Oxígeno", "?"]
+  - ["Humedad", "?"]
+  - ["Atmósfera", "?"]
+  - ["Luz", "?"]
+  - ["Día y noche", "?"]
+  - ["Clima", "Mareas enormes, dos veces al día (por confirmar)"]
+  - ["# Vida", ""]
   - ["Paisaje", "Mares poco profundos"]
-  - ["Mareas", "Enormes"]
+  - ["Fauna", ["Arrecifes que se apilan"]]
+  - ["# Gente", ""]
+  - ["Especie", "[[qhatu|Qhatu]]"]
 pendientes:
   - "Confirmar el paisaje propuesto."
   - "Nombre y condiciones del planeta."

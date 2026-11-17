@@ -86,3 +86,19 @@ Al pie de cada página sale «Mencionada en», con todas las que enlazan a ella.
   ```
   y con una línea en `pendientes` que diga qué hay que confirmar. Al confirmarlo, se quita el recuadro.
 - Un subgrupo de la barra lateral puede ir entre páginas sueltas: en `historias.mjs`, dale `orden` (como `colonias/kairos`).
+
+## Fichas: los datos se encuentran sin leer
+
+Regla para todas las páginas: **cualquier dato que alguien pueda buscar va en la ficha**, no solo en un párrafo. El texto puede repetirlo y contarlo; la ficha es para encontrarlo.
+
+```yaml
+ficha:
+  - ["# Condiciones", ""]                 # abre un grupo con título
+  - ["Gravedad", "1 g"]
+  - ["Oxígeno", "?"]                      # se pinta «Sin definir»
+  - ["Luz", "Sol intenso (por confirmar)"] # insignia «Por confirmar»
+  - ["Fauna", ["Likho", "Svetlyak (por confirmar)"]]  # plaquitas, fila entera
+```
+
+- Los planetas usan siempre los mismos grupos y campos: **Condiciones** (Gravedad, Temperatura, Oxígeno, Humedad, Atmósfera, Luz, Día y noche, Clima), **Vida** (Paisaje, Fauna, Flora) y **Gente** (Subespecie o Especie, Capital, Idioma). Lo que no se sabe va con `?`, para que el hueco se vea.
+- Una subespecie con `planeta: "mrak"` en el frontmatter muestra sola las condiciones de su planeta, sacadas de la ficha del planeta: se mantienen en un único sitio.

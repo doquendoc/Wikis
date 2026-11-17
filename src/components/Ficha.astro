@@ -1,0 +1,54 @@
+---
+// Ficha de datos de una página, en grupos.
+//   ["# Condiciones", ""]          abre un grupo con título
+//   ["Gravedad", "1 g"]            dato normal ([[enlaces]] permitidos)
+//   ["Fauna", ["Likho", "…"]]      lista de plaquitas (ocupa la fila entera)
+//   ["Oxígeno", "?"]               «Sin definir»
+//   "(por confirmar)" en un valor, o como plaquita suelta, se pinta como insignia
+import { enlazarHTML } from '../lib/wikilinks.mjs';
+
+interface Props { filas: [string, string | string[]][]; historia: string; titulo?: string }
+const { filas, historia, titulo } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+
+const CONFIRMAR = '<span class="insignia insignia--caution">Por confirmar</span>';
+const VACIO = '<span class="insignia insignia--vacio">Sin definir</span>';
+const valor = (v: string) =>
+  v.trim() === '?' ? VACIO : enlazarHTML(v, historia, base).replace(/\s*\(por confirmar\)/gi, ' ' + CONFIRMAR);
+const chip = (v: string) => (/^\(por confirmar\)$/i.test(v.trim()) ? CONFIRMAR : `<span class="chip">${valor(v)}</span>`);
+
+const grupos: { titulo?: string; filas: [string, string | string[]][] }[] = [];
+for (const f of filas) {
+  if (f[0].startsWith('#')) grupos.push({ titulo: f[0].replace(/^#\s*/, ''), filas: [] });
+  else {
+    if (!grupos.length) grupos.push({ filas: [] });
+    grupos[grupos.length - 1].filas.push(f);
+  }
+}
+---
+
+<div class="ficha-bloque not-content">
+  {titulo && <p class="ficha-bloque-titulo" set:html={valor(titulo)} />}
+  {
+    grupos.map((g) => (
+      <section class="ficha-grupo">
+        {g.titulo && <p class="ficha-grupo-titulo">{g.titulo}</p>}
+        <dl class="ficha">
+          {g.filas.map(([k, v]) =>
+            Array.isArray(v) ? (
+              <div class="ficha-ancha">
+                <dt>{k}</dt>
+                <dd class="chips" set:html={v.map(chip).join('')} />
+              </div>
+            ) : (
+              <div>
+                <dt>{k}</dt>
+                <dd set:html={valor(v)} />
+              </div>
+            )
+          )}
+        </dl>
+      </section>
+    ))
+  }
+</div>

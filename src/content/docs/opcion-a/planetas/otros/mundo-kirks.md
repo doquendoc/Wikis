@@ -4,13 +4,20 @@ description: "Gravedad alta, atmósfera densa, caliente, seco, muy radiactivo y 
 sidebar:
   order: 1
 ficha:
-  - ["Especie", "[[kirks|Kirks]]"]
+  - ["# Condiciones", ""]
   - ["Gravedad", "1,3 g"]
+  - ["Temperatura", "Caliente"]
+  - ["Oxígeno", "?"]
+  - ["Humedad", "Muy baja; poca agua"]
   - ["Atmósfera", "Densa"]
-  - ["Clima", "Caliente y seco"]
-  - ["Agua", "Poca"]
-  - ["Radiación", "Muy alta"]
-  - ["Paisaje", "Rocoso y volcánico"]
+  - ["Luz", "?"]
+  - ["Día y noche", "?"]
+  - ["Clima", "Muy radiactivo y volcánico"]
+  - ["# Vida", ""]
+  - ["Paisaje", "Rocoso y volcánico; ríos de lava (por confirmar)"]
+  - ["Fauna", ["Todo con placas (por confirmar)"]]
+  - ["# Gente", ""]
+  - ["Especie", "[[kirks|Kirks]]"]
 pendientes:
   - "Confirmar el paisaje propuesto."
   - "Nombre del planeta."

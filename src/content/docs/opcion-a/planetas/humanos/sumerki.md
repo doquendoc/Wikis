@@ -4,11 +4,23 @@ description: "El planeta verificado para los iskra. Está tan lejos que el núcl
 sidebar:
   order: 7
 ficha:
-  - ["Nombre", "Ruso: crepúsculo"]
+  - ["# Condiciones", ""]
+  - ["Gravedad", "Cercana a 1 g (por confirmar)"]
+  - ["Temperatura", "Fría (por confirmar)"]
+  - ["Oxígeno", "?"]
+  - ["Humedad", "Alta, con niebla (por confirmar)"]
+  - ["Atmósfera", "?"]
+  - ["Luz", "Estrella fría y tranquila, sin llamaradas (por confirmar)"]
+  - ["Día y noche", "Crepúsculo perpetuo (por confirmar)"]
+  - ["Clima", "?"]
+  - ["# Vida", ""]
+  - ["Fauna", ["Registrada por las sondas, sin ver de cerca (por confirmar)"]]
+  - ["# El viaje", ""]
   - ["Para", "[[iskra|Iskra]]"]
   - ["Dónde", "La misma galaxia, a cientos de años luz"]
   - ["En los registros", "Un código de catálogo"]
-  - ["Viaje", "Solo de ida"]
+  - ["Viaje", "Solo de ida: se gasta el núcleo entero"]
+  - ["Nombre", "Ruso: crepúsculo"]
 pendientes:
   - "Confirmar lo que se sabe de Sumerki por las sondas."
   - "Condiciones del planeta: gravedad, temperatura, aire y luz."

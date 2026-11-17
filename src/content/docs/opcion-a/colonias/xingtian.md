@@ -3,15 +3,16 @@ title: "Xingtian"
 description: "Construidos más que esculpidos. La colonia más poderosa, y la que todavía no ha entrado en la guerra."
 sidebar:
   order: 5
+planeta: "taishan"
 ficha:
+  - ["# La subespecie", ""]
   - ["Planeta", "[[taishan|Taishan]]"]
   - ["Capital", "Jingwei"]
-  - ["Gravedad", "1,7 g"]
-  - ["Atmósfera", "Densa, a alta presión"]
-  - ["Clima", "Calor seco, mineral"]
-  - ["Injerto", "Fauna excavadora pesada"]
   - ["Idioma", "Mandarín"]
+  - ["Injerto", "Fauna excavadora pesada"]
   - ["En la guerra", "Se preparan para atacar"]
+  - ["No aguantan", ["Gravedad baja", "Aire normal", "Agua"]]
+  - ["Fuera de casa llevan", ["Compresor de aire ligero", "Botas o guantes que amortiguan su fuerza"]]
 ---
 ## Planeta
 

@@ -4,8 +4,20 @@ description: "Bestias forradas de metal que pastan minerales, y los kamakiri peg
 sidebar:
   order: 4
 ficha:
+  - ["# Condiciones", ""]
+  - ["Gravedad", "?"]
+  - ["Temperatura", "?"]
+  - ["Oxígeno", "?"]
+  - ["Humedad", "?"]
+  - ["Atmósfera", "?"]
+  - ["Luz", "?"]
+  - ["Día y noche", "?"]
+  - ["Clima", "?"]
+  - ["# Vida", ""]
+  - ["Paisaje", "Llanuras de mineral (por confirmar)"]
+  - ["Fauna", ["Bestias forradas de metal que pastan minerales", "Kamakiri, parásitos en su lomo"]]
+  - ["# Gente", ""]
   - ["Especie", "[[kamakiri|Kamakiri]]"]
-  - ["Fauna", "Bestias forradas de metal que pastan minerales"]
 pendientes:
   - "Confirmar el paisaje propuesto."
   - "Nombre y condiciones del planeta."

@@ -4,12 +4,22 @@ description: "El planeta de los xingtian. Gravedad altísima, atmósfera densa a
 sidebar:
   order: 5
 ficha:
+  - ["# Condiciones", ""]
+  - ["Gravedad", "1,7 g"]
+  - ["Temperatura", "35 – 45 °C, sin bajar de noche (por confirmar)"]
+  - ["Oxígeno", "Alto, por la presión (por confirmar)"]
+  - ["Humedad", "Muy baja"]
+  - ["Atmósfera", "Densa, a alta presión"]
+  - ["Luz", "Cielo amarillento y opaco (por confirmar)"]
+  - ["Día y noche", "?"]
+  - ["Clima", "Calor seco; tormentas de polvo de días (por confirmar)"]
+  - ["# Vida", ""]
+  - ["Paisaje", "Mineral: llanuras de sal y basalto (por confirmar)"]
+  - ["Fauna", ["Pixiu, la bestia del injerto (por confirmar)", "Planeadores", "(por confirmar)"]]
+  - ["Flora", ["Bosques de piedra", "Líquenes", "Hongos de galería", "(por confirmar)"]]
+  - ["# Gente", ""]
   - ["Subespecie", "[[xingtian|Xingtian]]"]
   - ["Capital", "Jingwei"]
-  - ["Gravedad", "1,7 g"]
-  - ["Atmósfera", "Densa, a alta presión"]
-  - ["Clima", "Calor seco"]
-  - ["Paisaje", "Mineral"]
   - ["Idioma", "Mandarín"]
 pendientes:
   - "Confirmar las secciones marcadas: la capital, paisaje, fauna (pixiu) y flora."

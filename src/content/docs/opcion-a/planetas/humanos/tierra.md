@@ -4,7 +4,16 @@ description: "El origen. Donde se estrellaron los nefilim y de donde salieron la
 sidebar:
   order: 6
 ficha:
+  - ["# Condiciones", ""]
   - ["Gravedad", "1 g"]
+  - ["Temperatura", "Templada; Tampu copia unos 20 °C de Ginebra"]
+  - ["Oxígeno", "21 %"]
+  - ["Humedad", "Variable; Tampu copia un 50 %"]
+  - ["Atmósfera", "La de referencia"]
+  - ["Luz", "Sol amarillo"]
+  - ["Día y noche", "24 horas"]
+  - ["Clima", "Estaciones"]
+  - ["# Historia", ""]
   - ["Desde la partida", "≈ 500 años"]
   - ["Arcas", "4, una por núcleo"]
 ---
