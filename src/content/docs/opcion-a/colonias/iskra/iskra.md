@@ -76,6 +76,8 @@ Gobierno centralizado y muy militarizado. Ciudades blindadas y subterráneas cas
 
 **Costumbres:** el saludo íntimo es tocarse la cara; té del samovar; beber juntos es confiar, porque el alcohol calienta y los vuelve legibles; la *banya* es la mayor intimidad; el Año Nuevo se celebra en oscuridad, encendiendo los patrones a la vez; y apagan las luces al entrar.
 
+**Deporte:** en Mrak se juega sobre todo hockey ([[cap-4|cap. 4]]).
+
 ## Manías heredadas
 
 - No miran a la cara: giran el oído hacia quien habla.

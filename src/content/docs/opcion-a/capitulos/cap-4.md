@@ -6,7 +6,7 @@ sidebar:
 ficha:
   - ["POV", "Lev"]
   - ["Dónde", "El contenedor, los almacenes y la Vieja Fábrica"]
-  - ["Estado", "Escaleta"]
+  - ["Estado", "Borrador empezado"]
   - ["En la banda", "3 horas → casi media hora, y la pelea"]
 pendientes:
   - "Título del capítulo (provisional)."
@@ -14,12 +14,19 @@ pendientes:
   - "Cómo cae Cabeza de Plomo y cómo se disloca Lev el hombro."
   - "Cap. 4 es POV de Lev: por qué acepta Senri ese respirador y lo que le pesa haber matado van en su siguiente POV, o se ven solo por fuera."
   - "Si el cuerpo de Senri obedece por el vínculo, por su entrenamiento o sin que se sepa. La wiki solo dice que el vínculo deteriora el juicio en todo lo que afecte al par."
-  - "Qué deportes se juegan en Mrak, heredados de la Tierra. Los kairos, béisbol."
   - "Qué le hace a Lev el aire del Fondo, y por qué le hace falta el respirador."
   - "Un espacio breve para Mrak y cómo se vive allí, al regular el respirador."
   - "Lev despierta con 3 horas en la banda, y Senri cerró el cap. 3 con unas 17: ¿catorce horas inconsciente?"
   - "Si la fuerza que nota Lev al despertar le viene del parche."
 ---
+## Lo que ya está en el borrador
+
+- **Al despertar**, la IA de la armadura da el estado: fallo crítico del filtro y del visor, pérdida de estanqueidad, termostato al 100 %, **batería principal al 40 % y secundaria al 100 %**.
+- **Las heridas:** tres cortes en diagonal, del pectoral a la pelvis, cubiertos de pneuma como parches de plata. El zarevo brilla alrededor como si **bebiera de los parches**. Apenas duelen.
+- **Lo último que recuerda:** el mensajero lo persigue por los contenedores, le rompe el casco y le corta la armadura; Lev lo mata con el rifle.
+- **El recuerdo de Hestia:** guardias en el pasillo de la sala de juntas donde científicos y oficiales discuten los cristales de Grace. Senri ve un partido a escondidas: **Panteras contra Rayos**, cuartos de final de la liga. Le choca el hombro diez veces en tres guardias y media, le enseña a su gato Azuki y lo llama *nii-san*. Lev acaba declarando suyas a las Panteras. Ganan la liga y Senri amanece sin voz, dormido en el suelo de **la Cúpula de Cristal de su madre** con el brazo de Lev de almohada. Fueron los últimos partidos de las Panteras.
+- **El respirador** es de los baratos: Lev le dicta la humedad y el oxígeno, y no tiene termostato. Huele a Senri.
+
 ## Despertar
 
 Mal: le cuesta respirar y hace mucho calor. El traje no funciona bien: el casco no responde y hay **una abertura en el torso**, en el mismo sitio donde le dio el bastón del kirk.

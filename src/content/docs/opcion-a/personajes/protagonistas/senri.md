@@ -35,6 +35,10 @@ personaje:
       - ["Rubor", "Permanente en orejas, nudillos y pómulos"]
       - ["Orejas", "De forma normal; se le mueven hacia el sonido y lo delatan cuando escucha"]
     marcas:
+      - tipo: "Cicatriz"
+        donde: "Una ceja, pequeña"
+        que: "Se la hizo Azuki, su gato."
+        nota: "[[cap-4|Cap. 4]], en el recuerdo de Hestia."
       - tipo: "Tatuajes"
         donde: "Cuello, parte de la mandíbula y las manos"
         que: "Tinta negra y gris: flores, espadas y pájaros que Lev no sabe si vuelan en la Tierra o en Atalanta."
@@ -69,6 +73,7 @@ personaje:
       - "yabai"
       - "kuso"
       - "nii-san / nee-san / onii-san, a desconocidos"
+      - "«El deber va primero que todo, hijo mío»: la frase favorita de su padre, que él repite con rabia"
     llama:
       - ["[[mushi|Mushi]]", "*mushikera* (bicho asqueroso), que se acorta a Mushi"]
     manias:
@@ -81,6 +86,8 @@ personaje:
       - "Comer: dulces, *onigiri*"
       - "Las noches tranquilas"
       - "La lluvia"
+      - "El béisbol: es de **las Panteras de Hestia**, y lleva sus pegatinas en el respirador"
+      - "Azuki, su gato de Hestia: gris para Lev, rojo y naranja de verdad, y con sobrepeso"
     odia:
       - "Que lo protejan"
       - "Dormir"

@@ -85,6 +85,10 @@ Por el cristal, un iskra ve los rojos, los naranjas y los amarillos que no disti
 
 **No son perfectos:** necesitan muchísimo mantenimiento y fabricarlos cuesta una fortuna. Nunca iban a ser para el pueblo, solo para la élite.
 
+## La Cúpula de Cristal
+
+La de Grace. Ahí ven Senri y Lev la final de las Panteras, y ahí se queda dormido Senri con el brazo de Lev de almohada ([[cap-4|cap. 4]]).
+
 ## El templo
 
 El templo al que iba a rezar Hiroshi, donde están escondidas **las notas de Grace**. Ver [[codas]].

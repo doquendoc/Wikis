@@ -47,6 +47,8 @@ República con un consejo elegido, protegido por una casta militar. Exportan pil
 
 **Costumbres:** los nombres de los protectores caídos se graban en un muro del consejo; Año Nuevo japonés y Acción de Gracias; se descalzan en casa; no ofrecer comida es casi un insulto.
 
+**Deporte:** béisbol. Hay liga y estadio en Hestia; equipos: **las Panteras** y **los Rayos**. Cada vez se permiten menos aceleraciones por partido. Pistas de hielo hay pocas, por el calor, y siempre llenas ([[cap-4|cap. 4]]).
+
 ## Manías heredadas
 
 - Inquietos en reposo, pero inmóviles justo antes de actuar.

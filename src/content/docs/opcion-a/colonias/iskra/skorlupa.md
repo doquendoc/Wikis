@@ -17,7 +17,8 @@ ficha:
   - ["Interior", "Tejido vivo cultivado de likho, contra la piel"]
   - ["# Energía", ""]
   - ["Principal", "El pneuma de quien la lleva, mientras cada función está activa"]
-  - ["Reserva", "Batería de pneuma mineral"]
+  - ["Reserva", "Dos baterías de pneuma mineral: principal y secundaria"]
+  - ["Habla", "Una IA da el estado en voz alta («Estatus»)"]
   - ["Cambia a la batería", ["A mano", "Sola, cuando nota que el zarevo se debilita"]]
   - ["Con batería", "Funciona peor y no puede disparar pneuma"]
   - ["# Módulos", ""]
@@ -57,6 +58,7 @@ pendientes:
 | **Filtro y humidificador** | Filtra el aire y lo devuelve húmedo, como el de Mrak. A cambio, quien la lleva se queda sin olfato | [[cap-3\|Cap. 3]]: el casco se agrieta. [[cap-4\|Cap. 4]]: el filtro deja de funcionar |
 | **Oído** | Cancela el ruido y deja pasar lo útil | [[cap-2\|Cap. 2]], en el club |
 | **Traductor** | Traduce lo que oye | [[cap-2\|Cap. 2]]: el mandarín del xingtian |
+| **Estado por voz** | Una IA recita los fallos y la carga de las dos baterías | [[cap-4\|Cap. 4]] |
 | **Regulador térmico** | Mantiene el cuerpo frío | [[cap-4\|Cap. 4]]: sigue funcionando con el casco plegado. Cap. 10: sin él, el cuerpo de Lev ya no remonta |
 | **Diagnóstico médico** | Constantes y heridas («ya no sangra por ese lado»). Mrak exporta medicina diagnóstica | [[cap-2\|Cap. 2]] |
 | **Apertura parcial** | La armadura se recoge alrededor de los anclajes para dejar la piel al aire y poder sentir el pneuma | [[cap-2\|Cap. 2]], en la azotea |
