@@ -186,6 +186,8 @@ Sus patrones cambian según lo que siente y se marcan más cuanto más caliente 
 
 ## La armadura (skorlupa)
 
+Cómo está hecha, de dónde saca la energía y qué módulos tiene: [[skorlupa]]. La suya está **hecha a medida** para su hiperpneumia, y **le quitó el módulo de rastreo** al desertar.
+
 **Cómo funciona** ([[cap-2|cap. 2]]): se abre en parte y se recoge alrededor de los **anclajes de antebrazos, piernas y hombros**; con el material extra de los anclajes sella sus propios agujeros, y la fusión quema. Lleva traductor. Lev puede mandar su pneuma a la armadura y de ahí al rifle: entonces todo se le vuelve gris y nota los núcleos.
 
 **Lo que gana:** el visor le oscurece la luz y corrige los colores, acentuando los rojos y ámbares que apenas ve, así que ve mejor que sin ella, y el oído le llega bien.

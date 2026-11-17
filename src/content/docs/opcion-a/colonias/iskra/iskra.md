@@ -2,7 +2,8 @@
 title: "Iskra"
 description: "Un mundo tenue, no oscuro. Lo que los hace iskra es la piel, y la armadura les quita la mitad."
 sidebar:
-  order: 3
+  order: 1
+  label: "La subespecie"
 planeta: "mrak"
 ficha:
   - ["# La subespecie", ""]
@@ -13,7 +14,7 @@ ficha:
   - ["Temp. corporal", "≈ 35,5 °C"]
   - ["Pulso", "≈ 40 ppm"]
   - ["No aguantan", ["Luz intensa", "Parpadeo", "Gritos", "Sequedad"]]
-  - ["Fuera de casa llevan", ["La armadura (skorlupa)"]]
+  - ["Fuera de casa llevan", ["[[skorlupa|La armadura (skorlupa)]]"]]
 ---
 ## Planeta
 
@@ -61,7 +62,7 @@ La ropa les estorba, porque el sentido necesita la piel: en casa van ligeros, y 
 
 ## La armadura (skorlupa)
 
-Material vivo cultivado, con control de temperatura, visor y máscara humidificadora.
+Metal, mineral pnéumico y tejido vivo de likho, con control de temperatura, visor y máscara humidificadora. Todo sobre ella en [[skorlupa]].
 
 **Gana:** el visor oscurece y corrige los colores, acentuando los rojos y ámbares que apenas ven, así que con él ven mejor que sin él, y el oído no se resiente.
 

@@ -29,7 +29,7 @@ export const HISTORIAS = [
           { dir: 'otras', label: 'Otras especies' },
         ],
       },
-      { dir: 'colonias', label: 'Colonias humanas', sub: [{ dir: 'kairos', label: 'Kairos', orden: 2 }] },
+      { dir: 'colonias', label: 'Colonias humanas', sub: [{ dir: 'kairos', label: 'Kairos', orden: 2 }, { dir: 'iskra', label: 'Iskra', orden: 3 }] },
       {
         dir: 'planetas', label: 'Planetas',
         sub: [

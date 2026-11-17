@@ -120,6 +120,8 @@ Es lo único que Ravdna llega a pagar, por adelantado, y lo mismo que le había 
 
 ## Su armadura
 
+Un prototipo que no sigue las reglas de la [[skorlupa]] normal: no se alimenta de su pneuma, sino de un núcleo, y por eso puede taparlo entero.
+
 Un prototipo de élite que diseñó ella misma a partir de la de Lev: material vivo y denso cultivado directamente sobre la piel.
 
 **Cómo come:** normal. Sella lo que sale, no lo que entra: filtra el aire que exhala y no deja saliva ni olor. A cambio no nota la temperatura ni las texturas.
